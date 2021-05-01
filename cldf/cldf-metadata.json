@@ -7,7 +7,14 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Heath, Jeffrey, Laura McPherson, Kirill Prokhorov and Steven Moran's \"Dogon Comparative Wordlist\" from 2015",
+    "dcat:accessURL": "https://github.com/languageislands/heathdogon",
     "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/languageislands/heathdogon",
+            "dc:created": "5a0a731"
+        },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
@@ -18,7 +25,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.3.0"
+            "dc:created": "v2.4.0"
         },
         {
             "rdf:type": "prov:Entity",
