@@ -197,13 +197,13 @@
 | ĩ̂/ĩ | 4 | ✓ | ✓ |
 | ʒ | 4 | ✓ | ✓ |
 | <<#>> | 3 | ? | ? |
-| <<ễ>> | 3 | ? | ? |
 | kʷ | 3 | ✓ | ✓ |
 | oː | 3 | ✓ | ✓ |
 | æ̂/æ | 3 | ✓ | ✓ |
 | ɔ᷈/ɔ | 3 | ✓ | ✓ |
 | ɲ | 3 | ✓ | ✓ |
 | ɲ̀/ɲ | 3 | ✓ | ✓ |
+| ễ/ẽ | 3 | ✓ | ✓ |
 | bʷ | 2 | ✓ | ✓ |
 | jː | 2 | ✓ | ✓ |
 | j̃̂/j̃ | 2 | ✓ | ✓ |
@@ -274,7 +274,7 @@
 | DonnoSo-1077_sbmissfeelnostalgiaforsth-1 | DonnoSo | 1077_sbmissfeelnostalgiaforsth | mà:ndìgu-́'=ŋ_sɛ̀ | m àː/aː n d ì/i ɡ u/u <s> <<́>> </s> ŋ + s ɛ̀/ɛ |
 | DonnoSo-136_animalbefattened-2 | DonnoSo | 136_animalbefattened | á́m-ì | á/a <s> <<́>> </s> m ì/i |
 | DonnoSo-137_animalbeingoodconditionbegoodsized-2 | DonnoSo | 137_animalbeingoodconditionbegoodsized | á́m-ì | á/a <s> <<́>> </s> m ì/i |
-| DonnoSo-1841_animalfatinmeat-1 | DonnoSo | 1841_animalfatinmeat | sễ: | s <s> <<ễ>> </s> <s> ː </s> |
+| DonnoSo-1841_animalfatinmeat-1 | DonnoSo | 1841_animalfatinmeat | sễ: | s ễ/ẽ <s> ː </s> |
 | DonnoSo-949_sbssituation-1 | DonnoSo | 949_sbssituation | sɔ̀gɔ̀njì_PRON_wɔ̀'=gɔ̀ | s ɔ̀/ɔ ɡ ɔ̀/ɔ n dʒ ì/i + + w ɔ̀/ɔ ɡ ɔ̀/ɔ |
 | JamsayDouentza-1048_sbfeelmildnausea-1 | JamsayDouentza | 1048_sbfeelmildnausea | ̀̌mà_cɛ́nɛ̀_ɲàwⁿá | <s> <<̌>> </s> m à/a + tʃ ɛ́/ɛ n ɛ̀/ɛ + ɲ/ɲ à/a w̃ á/a |
 | JamsayDouentza-1160_skinbeitchytosb-1 | JamsayDouentza | 1160_skinbeitchytosb | ..._lè_yàɣàrá | + l è/e + j à/a ɣ à/a r á/a |

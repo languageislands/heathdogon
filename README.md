@@ -20,7 +20,7 @@ Cite the source dataset as
 - **Synonymy:** 1.18
 - **Invalid lexemes:** 0
 - **Tokens:** 638,840
-- **Segments:** 228 (7 BIPA errors, 7 CTLS sound class errors, 220 CLTS modified)
+- **Segments:** 228 (6 BIPA errors, 6 CTLS sound class errors, 221 CLTS modified)
 - **Inventory size (avg):** 117.00
 
 # Contributors
