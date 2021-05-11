@@ -38,9 +38,9 @@ class Dataset(BaseDataset):
     
     def cmd_download(self, args):
 
-        #URL = "https://cdstar.shh.mpg.de/bitstreams/EAEA0-C97A-A1D2-2E76-0/a.xls"
-        #self.raw_dir.download(URL, "dogon.xls")
-        #self.raw_dir.xls2csv("dogon.xls")
+        URL = "https://cdstar.shh.mpg.de/bitstreams/EAEA0-C97A-A1D2-2E76-0/a.xls"
+        self.raw_dir.download(URL, "dogon.xls")
+        self.raw_dir.xls2csv("dogon.xls")
         lexicon = self.raw_dir.read_csv("dogon.lexicon.csv")
         concepts = sorted(set([(row[14], row[15], row[7], row[8], row[0]+'/'+row[1],
             row[2]+'/'+row[3]) for row in lexicon]))
