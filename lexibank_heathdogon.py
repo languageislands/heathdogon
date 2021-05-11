@@ -35,6 +35,24 @@ class Dataset(BaseDataset):
         first_form_only=True,  # We ignore all the plural forms
         replacements=[(' ', '_')],  # replacements with spaces
     )
+    
+    def cmd_download(self, args):
+
+        #URL = "https://cdstar.shh.mpg.de/bitstreams/EAEA0-C97A-A1D2-2E76-0/a.xls"
+        #self.raw_dir.download(URL, "dogon.xls")
+        #self.raw_dir.xls2csv("dogon.xls")
+        lexicon = self.raw_dir.read_csv("dogon.lexicon.csv")
+        concepts = sorted(set([(row[14], row[15], row[7], row[8], row[0]+'/'+row[1],
+            row[2]+'/'+row[3]) for row in lexicon]))
+        with open(self.etc_dir.joinpath("concepts-new.tsv"), "w") as f:
+            f.write("NUMBER\tENGLISH\tFRENCH\tENGLISH_SHORT\tFRENCH_SHORT\tENGLISH_CATEGORY\tFRENCH\tCATEGORY\n")
+            for i, row in enumerate(concepts):
+                f.write(str(i+1)+'\t'+'\t'.join(row)+"\n")
+        with open(self.etc_dir.joinpath("languages-new.tsv"), "w") as f:
+            f.write("ID\tLANGUAGE\n")
+            for language in lexicon[0][17:31]:
+                f.write(slug(language, lowercase=False)+"\t"+language+"\n")
+
 
     def cmd_makecldf(self, args):
         """
