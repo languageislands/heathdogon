@@ -38,13 +38,13 @@ class Dataset(BaseDataset):
     
     def cmd_download(self, args):
 
-        URL = "https://cdstar.shh.mpg.de/bitstreams/EAEA0-C97A-A1D2-2E76-0/a.xls"
-        self.raw_dir.download(URL, "dogon.xls")
-        self.raw_dir.xls2csv("dogon.xls")
-        lexicon = self.raw_dir.read_csv("dogon.lexicon.csv")
+        URL = "https://github.com/clld/dogonlanguages-data/raw/master/beta/Dogon.comp.vocab.UNICODE-2017.xls"
+        self.raw_dir.download(URL, "Dogon.comp.vocab.UNICODE-2017.xls")
+        self.raw_dir.xls2csv("Dogon.comp.vocab.UNICODE-2017.xls")
+        lexicon = self.raw_dir.read_csv("Dogon.comp.vocab.UNICODE-2017.lexicon.csv")
         concepts = sorted(set([(row[14], row[15], row[7], row[8], row[0]+'/'+row[1],
             row[2]+'/'+row[3]) for row in lexicon]))
-        with open(self.etc_dir.joinpath("concepts-new.tsv"), "w") as f:
+        with open(self.etc_dir.joinpath("concepts-new.tsv"), "w", encoding="utf-8") as f:
             f.write("NUMBER\tENGLISH\tFRENCH\tENGLISH_SHORT\tFRENCH_SHORT\tENGLISH_CATEGORY\tFRENCH\tCATEGORY\n")
             for i, row in enumerate(concepts):
                 f.write(str(i+1)+'\t'+'\t'.join(row)+"\n")
