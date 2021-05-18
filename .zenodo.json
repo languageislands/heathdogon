@@ -1,0 +1,39 @@
+{
+    "title": "CLDF dataset derived from Heath, Jeffrey, Laura McPherson, Kirill Prokhorov and Steven Moran's \"Dogon Comparative Wordlist\" from 2015",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Jeffrey Heath"
+        },
+        {
+            "name": "Laura McPherson"
+        },
+        {
+            "name": "Kirill Prokhorov"
+        },
+        {
+            "name": "Steven Moran"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Abbie Hantgan",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Heath, Jeffrey, Laura McPherson, Kirill Prokhorov and Steven Moran 2015. Dogon Comparative Wordlist. http://cdstar.shh.mpg.de/bitstreams/EAEA0-C97A-A1D2-2E76-0/a.xls</p>\n</blockquote>"
+}

@@ -10,19 +10,16 @@ import attr
 class CustomConcept(Concept):
     PartOfSpeech = attr.ib(default=None)
 
-@attr.s
-class CustomLexeme(Lexeme):
-    Reflex_ID = attr.ib(default=None)
 
 @attr.s
 class CustomLanguage(Language):
     SubGroup = attr.ib(default=None)
+    NameInSource = attr.ib(default=None)
 
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "heathdogon"
-    lexeme_class = CustomLexeme
     language_class = CustomLanguage
     concept_class = CustomConcept
 
@@ -41,17 +38,17 @@ class Dataset(BaseDataset):
         URL = "https://github.com/clld/dogonlanguages-data/raw/master/beta/Dogon.comp.vocab.UNICODE-2017.xls"
         self.raw_dir.download(URL, "Dogon.comp.vocab.UNICODE-2017.xls")
         self.raw_dir.xls2csv("Dogon.comp.vocab.UNICODE-2017.xls")
-        lexicon = self.raw_dir.read_csv("Dogon.comp.vocab.UNICODE-2017.lexicon.csv")
-        concepts = sorted(set([(row[14], row[15], row[7], row[8], row[0]+'/'+row[1],
-            row[2]+'/'+row[3]) for row in lexicon]))
-        with open(self.etc_dir.joinpath("concepts-new.tsv"), "w", encoding="utf-8") as f:
-            f.write("NUMBER\tENGLISH\tFRENCH\tENGLISH_SHORT\tFRENCH_SHORT\tENGLISH_CATEGORY\tFRENCH\tCATEGORY\n")
-            for i, row in enumerate(concepts):
-                f.write(str(i+1)+'\t'+'\t'.join(row)+"\n")
-        with open(self.etc_dir.joinpath("languages-new.tsv"), "w") as f:
-            f.write("ID\tLANGUAGE\n")
-            for language in lexicon[0][17:31]:
-                f.write(slug(language, lowercase=False)+"\t"+language+"\n")
+        #lexicon = self.raw_dir.read_csv("Dogon.comp.vocab.UNICODE-2017.lexicon.csv")
+        #concepts = sorted(set([(row[14], row[15], row[7], row[8], row[0]+'/'+row[1],
+        #    row[2]+'/'+row[3]) for row in lexicon]))
+        #with open(self.etc_dir.joinpath("concepts-new.tsv"), "w", encoding="utf-8") as f:
+        #    f.write("NUMBER\tENGLISH\tFRENCH\tENGLISH_SHORT\tFRENCH_SHORT\tENGLISH_CATEGORY\tFRENCH\tCATEGORY\n")
+        #    for i, row in enumerate(concepts):
+        #        f.write(str(i+1)+'\t'+'\t'.join(row)+"\n")
+        #with open(self.etc_dir.joinpath("languages-new.tsv"), "w") as f:
+        #    f.write("ID\tLANGUAGE\n")
+        #    for language in lexicon[0][17:43]:
+        #        f.write(slug(language, lowercase=False)+"\t"+language+"\n")
 
 
     def cmd_makecldf(self, args):
@@ -63,7 +60,7 @@ class Dataset(BaseDataset):
         args.writer.add_sources()
 
         # Write languages
-        languages = args.writer.add_languages(lookup_factory="Name")
+        args.writer.add_languages()
 
         # Write concepts
         concepts = {}
@@ -74,15 +71,26 @@ class Dataset(BaseDataset):
                     Name=concept['ENGLISH'],
                     PartOfSpeech=concept['POS'],
                     )
-            concepts[concept['ENGLISH']] = idx
+            concepts[concept['ENGLISH'].replace('"', '')] = idx
 
         # Write forms
-        wl = Wordlist(self.raw_dir.joinpath('data.tsv').as_posix())
-        for idx in progressbar(wl):
-            args.writer.add_forms_from_value(
-                    Value=wl[idx, 'value'],
-                    Language_ID=languages[wl[idx, 'doculect']],
-                    Parameter_ID=concepts[wl[idx, 'concept']],
-                    Source='heathdogon'
-                    )
+        lexicon = self.raw_dir.read_csv("Dogon.comp.vocab.UNICODE-2017.lexicon.csv",
+                dicts=True)
+        missing = set()
+        for row in progressbar(lexicon, desc="cldfify"):
+            concept = row["English"].replace('"', '')
+            if concept not in concepts:
+                missing.add(concept)
+            else:
+                for language in self.languages:
+                    lid, lname = language["ID"], language["NameInSource"]
+                    entry = row[lname]
+                    args.writer.add_forms_from_value(
+                            Value=entry,
+                            Language_ID=lid,
+                            Parameter_ID=concepts[concept.replace('"', '')],
+                            Source='heathdogon'
+                            )
+        for m in missing:
+            args.log.info("MISSING CONCEPT: {0}".format(m))
 
