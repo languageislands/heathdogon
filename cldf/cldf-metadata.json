@@ -13,7 +13,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/languageislands/heathdogon",
-            "dc:created": "b90545f"
+            "dc:created": "8dd344c"
         },
         {
             "rdf:type": "prov:Entity",
@@ -25,7 +25,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0-rc.3-47-g284035f"
+            "dc:created": "v2.4.0"
         },
         {
             "rdf:type": "prov:Entity",
@@ -52,7 +52,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 107693,
+            "dc:extent": 107677,
             "tableSchema": {
                 "columns": [
                     {
@@ -229,7 +229,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 9639,
+            "dc:extent": 9638,
             "tableSchema": {
                 "columns": [
                     {

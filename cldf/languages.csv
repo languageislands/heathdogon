@@ -1,27 +1,27 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,SubGroup,NameInSource
-Ampari,Ampari,ampa1238,,,,14.25856667,-3.952633333,,Dogon,"Ampari (Nando, KP)"
-BankanTey,Bankan Tey,bent1238,,,,15.06848333,-2.9103,,Dogon,"Bankan-Tey (Walo, JH)"
-BenTey,Ben Tey,bent1238,,,,14.8524,-2.946416667,,Dogon,"Ben Tey (Beni, JH)"
-Bunoge,Bunoge,buno1241,,,,14.65323333,-3.793616667,,Dogon,Bunoge (Boudou)
-DogulDomA,"Dogul Dom (Bendiely & Kundialang, BC)",dogu1235,,,,14.49455,-3.560383333,,Dogon,"Dogul Dom (Bendiely & Kundialang, BC)"
-DogulDomB,Dogul Dom (Kundialang),dogu1235,,,,14.49455,-3.560383333,,Dogon,"Dogul Dom (Kundialang, JH)"
-DonnoSo,Donno So,donn1239,,,,14.47218333,-3.411433333,,Dogon,Donno So
-Gourou,Gourou,guru1265,,,,13.96666667,-3.016666667,,Dogon,"Gourou (Kiri, JH)"
-JamsayAlphabet,Jamsay (alphabet),jams1239,,,,15.00045,-2.95395,,Dogon,Jamsay (alphabet)
+Ampari,Ampari,ampa1238,Ampari Dogon,aqd,Africa,14.25856667,-3.952633333,Dogon,Dogon,"Ampari (Nando, KP)"
+BankanTey,Bankan Tey,bent1238,Ben Tey Dogon,dbt,Africa,15.06848333,-2.9103,Dogon,Dogon,"Bankan-Tey (Walo, JH)"
+BenTey,Ben Tey,bent1238,Ben Tey Dogon,dbt,Africa,14.8524,-2.946416667,Dogon,Dogon,"Ben Tey (Beni, JH)"
+Bunoge,Bunoge,buno1241,Bunoge Dogon,dgb,Africa,14.65323333,-3.793616667,Dogon,Dogon,Bunoge (Boudou)
+DogulDomA,"Dogul Dom (Bendiely & Kundialang, BC)",dogu1235,Dogul Dom Dogon,dbg,Africa,14.49455,-3.560383333,Dogon,Dogon,"Dogul Dom (Bendiely & Kundialang, BC)"
+DogulDomB,Dogul Dom (Kundialang),dogu1235,Dogul Dom Dogon,dbg,Africa,14.49455,-3.560383333,Dogon,Dogon,"Dogul Dom (Kundialang, JH)"
+DonnoSo,Donno So,donn1239,Donno So Dogon,dds,Africa,14.47218333,-3.411433333,Dogon,Dogon,Donno So
+Gourou,Gourou,guru1265,Guru (Mali),,Africa,13.96666667,-3.016666667,Dogon,Dogon,"Gourou (Kiri, JH)"
+JamsayAlphabet,Jamsay (alphabet),jams1239,Jamsay Dogon,djm,Africa,15.00045,-2.95395,Dogon,Dogon,Jamsay (alphabet)
 JamsayDouentza,"Jamsay (Douentza area, JH)",,,,,,,,,"Jamsay (Douentza area, JH)"
-JamsayMondoro,Jamsay Mondoro,jams1239,,,,14.67628333,-1.9522,,Dogon,"Jamsay (Mondoro, JH)"
-Mombo,Mombo,momb1254,,,,14.4,-3.7,,Dogon,"Mombo (Songho, KP)"
-Najamba,Najamba,bond1248,,,,14.98333333,-3.033333333,,Dogon,"Najamba (Kubewel-Adia, JH)"
-Nanga,Nanga,nang1261,,,,14.81938333,-3.010433333,,Dogon,"Nanga (Anda, JH)"
-Penange,Penange,pena1270,,,,14.85205,-3.0218,,Dogon,Penange (Pinia)
-PergeTegu,Perge_Tegu,perg1234,,,,14.85205,-3.0218,,Dogon,"Perge Tegu (Pergué, JH)"
-TebulUre,Tebul_Ure,tebu1239,,,,14.68625,-3.062283333,,Dogon,Tebul Ure (JH)
-Tiranige,Tiranige,tira1258,,,,14.85,-3.733333333,,Dogon,"Tiranige (Boui, JH)"
-TogoKan,Togo-Kan,togo1254,,,,14.22238333,-3.29865,,Dogon,"Togo-Kan (Koporo-pen, JH with BT)"
+JamsayMondoro,Jamsay Mondoro,jams1239,Jamsay Dogon,djm,Africa,14.67628333,-1.9522,Dogon,Dogon,"Jamsay (Mondoro, JH)"
+Mombo,Mombo,momb1254,Mombo Dogon,dmb,Africa,14.4,-3.7,Dogon,Dogon,"Mombo (Songho, KP)"
+Najamba,Najamba,bond1248,Najamba-Kindige,dbu,Africa,14.98333333,-3.033333333,Dogon,Dogon,"Najamba (Kubewel-Adia, JH)"
+Nanga,Nanga,nang1261,Nanga,nzz,Africa,14.81938333,-3.010433333,Dogon,Dogon,"Nanga (Anda, JH)"
+Penange,Penange,pena1270,Penange,,Africa,14.85205,-3.0218,Dogon,Dogon,Penange (Pinia)
+PergeTegu,Perge_Tegu,perg1234,Perge Tegu,,Africa,14.85205,-3.0218,Dogon,Dogon,"Perge Tegu (Pergué, JH)"
+TebulUre,Tebul_Ure,tebu1239,Tebul Ure Dogon,dtu,Africa,14.68625,-3.062283333,Dogon,Dogon,Tebul Ure (JH)
+Tiranige,Tiranige,tira1258,Tiranige Diga Dogon,tde,Africa,14.85,-3.733333333,Dogon,Dogon,"Tiranige (Boui, JH)"
+TogoKan,Togo-Kan,togo1254,Togo Kan,,Africa,14.22238333,-3.29865,Dogon,Dogon,"Togo-Kan (Koporo-pen, JH with BT)"
 TommoSoJH,Tommo-So (JH),,,,,,,,,Tommo-So (JH)
 TommoSoTongoTongo,"Tommo-So (Tongo Tongo, LM)",,,,,,,,,"Tommo-So (Tongo Tongo, LM)"
-TomoKanDiangassagou,Tomo Kan Diangassagou,tomo1243,,,,13.99558333,-3.945583333,,Dogon,Tomo Kan (Diangassagou)
-TomoKanSegue,Tomo Kan Segue,tomo1243,,,,13.84356667,-3.752166667,,Dogon,Tomo Kan (Segue)
-ToroTegu,Toro_Tegu,toro1253,,,,15.00526667,-2.085,,Dogon,"Toro Tegu (Toupere, JH)"
-YandaDom,Yanda_Dom,yand1257,,,,14.64718333,-3.148166667,,Dogon,"Yanda Dom (Yanda, JH)"
-YornoSo,Yorno_So,yorn1234,,,,14.56,-3.24,,Dogon,"Yorno So (Yendouma, JH)"
+TomoKanDiangassagou,Tomo Kan Diangassagou,tomo1243,Tomo Kan Dogon,dtm,Africa,13.99558333,-3.945583333,Dogon,Dogon,Tomo Kan (Diangassagou)
+TomoKanSegue,Tomo Kan Segue,tomo1243,Tomo Kan Dogon,dtm,Africa,13.84356667,-3.752166667,Dogon,Dogon,Tomo Kan (Segue)
+ToroTegu,Toro_Tegu,toro1253,Toro Tegu Dogon,dtt,Africa,15.00526667,-2.085,Dogon,Dogon,"Toro Tegu (Toupere, JH)"
+YandaDom,Yanda_Dom,yand1257,Yanda Dom Dogon,dym,Africa,14.64718333,-3.148166667,Dogon,Dogon,"Yanda Dom (Yanda, JH)"
+YornoSo,Yorno_So,yorn1234,Yorno So,,Africa,14.56,-3.24,Dogon,Dogon,"Yorno So (Yendouma, JH)"

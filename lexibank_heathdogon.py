@@ -65,15 +65,16 @@ class Dataset(BaseDataset):
         # Write concepts
         concepts = {}
         for concept in self.concepts:
-            idx = concept['NUMBER']+'_'+slug(concept['ENGLISH'])
-            args.writer.add_concept(
-                    ID=idx,
-                    Name=concept['ENGLISH'],
-                    PartOfSpeech=concept['POS'],
-                    Concepticon_ID=concept["CONCEPTICON_ID"],
-                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
-                    )
-            concepts[concept['ENGLISH'].replace('"', '')] = idx
+            if concept['CONCEPTICON_GLOSS'] != "THANK (SOMEBODY)":
+                idx = concept['NUMBER']+'_'+slug(concept['ENGLISH'])
+                args.writer.add_concept(
+                        ID=idx,
+                        Name=concept['ENGLISH'],
+                        PartOfSpeech=concept['POS'],
+                        Concepticon_ID=concept["CONCEPTICON_ID"],
+                        Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
+                        )
+                concepts[concept['ENGLISH'].replace('"', '')] = idx
 
         # Write forms
         lexicon = self.raw_dir.read_csv("Dogon.comp.vocab.UNICODE-2017.lexicon.csv",
