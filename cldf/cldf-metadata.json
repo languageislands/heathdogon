@@ -13,7 +13,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/languageislands/heathdogon",
-            "dc:created": "d479d3e"
+            "dc:created": "b90545f"
         },
         {
             "rdf:type": "prov:Entity",
@@ -25,7 +25,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0"
+            "dc:created": "v2.4.0-rc.3-47-g284035f"
         },
         {
             "rdf:type": "prov:Entity",

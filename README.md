@@ -8,7 +8,7 @@ Cite the source dataset as
 
 
 ![Glottolog: 86%](https://img.shields.io/badge/Glottolog-86%25-yellowgreen.svg "Glottolog: 86%")
-![Concepticon: 0%](https://img.shields.io/badge/Concepticon-0%25-red.svg "Concepticon: 0%")
+![Concepticon: 41%](https://img.shields.io/badge/Concepticon-41%25-red.svg "Concepticon: 41%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 94%](https://img.shields.io/badge/BIPA-94%25-green.svg "BIPA: 94%")
 ![CLTS SoundClass: 94%](https://img.shields.io/badge/CLTS%20SoundClass-94%25-green.svg "CLTS SoundClass: 94%")

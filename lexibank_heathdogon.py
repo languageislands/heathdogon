@@ -70,6 +70,8 @@ class Dataset(BaseDataset):
                     ID=idx,
                     Name=concept['ENGLISH'],
                     PartOfSpeech=concept['POS'],
+                    Concepticon_ID=concept["CONCEPTICON_ID"],
+                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
                     )
             concepts[concept['ENGLISH'].replace('"', '')] = idx
 
