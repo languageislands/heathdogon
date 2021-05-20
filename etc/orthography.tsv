@@ -1,5 +1,4 @@
 Grapheme	IPA
-:	ː
 a	a
 á	á/a
 à	à/a
@@ -53,7 +52,7 @@ bʷ	bʷ
 ɔⁿ	ɔ̃
 ɔ̃́	ɔ̃́/ɔ
 ɔ́ⁿ	ɔ̃́/ɔ̃
-ɔ́ⁿ	ɔ̃́/ɔ̃
+ɔ́ⁿ	ɔ̃́/ɔ̃
 ɔ̃̀	ɔ̃̀/ɔ̃
 ɔ̀ⁿ	ɔ̃̀/ɔ̃
 ɔ̀ⁿ̀	ɔ̃̀/ɔ̃
@@ -62,7 +61,6 @@ bʷ	bʷ
 ɔ̌ⁿ	ɔ̃̌/ɔ̃
 ɔ᷈ⁿ	ɔ̃᷈/ɔ̃
 ɔ:	ɔː
-ɔ̌:	ɔː/ɔː
 ɔ́:	ɔ́ː/ɔː
 ɔ́ɔ́	ɔ́ː/ɔː
 ɔ̀:	ɔ̀ː/ɔː
@@ -220,7 +218,6 @@ yᵇ	j
 ý	j́/j
 ỳ	j̀/j
 yⁿ	j̃
-yⁿ	j̃
 yⁿ̀	j̃
 ýⁿ	j̃́/j̃
 ỳⁿ	j̃̀/j̃
@@ -244,7 +241,6 @@ n	n
 N-	n
 ñ	n
 nⁿ	n
-ⁿ	ⁿ
 ń	ń/n
 ǹ	ǹ/n
 Ǹ-	ǹ/n
@@ -289,6 +285,7 @@ O	NULL
 Ú	NULL
 V	NULL
 X	NULL
+=-ʸŋ	ʲŋ
 Y	NULL
 ꜜ	NULL
 =∴	NULL
@@ -298,7 +295,6 @@ Y	NULL
 ŋʷ	ŋʷ
 o	o
 o̯	o
-o́	ó/o
 ó	ó/o
 ò	ò/o
 ò̀	ò/o
@@ -347,7 +343,6 @@ t	t
 c	tʃ
 ć	tʃ
 tʷ	tʷ
-o᷈:	oː
 u	u/u
 ú	ú/u
 ù	ù/u
@@ -376,8 +371,6 @@ û:ⁿ	ũ̂ː/ũː
 úùⁿ	ũ̂ː/ũː
 ǔ:ⁿ	ũ̌ː/ũː
 ùúⁿ	ũ̌ː/ũː
-ː	ː
-::	ː
 v	v
 v́	v́/v
 v̀	v̀/v
@@ -392,7 +385,6 @@ wⁿ́	w̃́/w̃
 ẃⁿ	w̃́/w̃
 ẁⁿ	w̃̀/w̃
 x	x
-=-ʸŋ	ʲŋ
 z	z
 ž	z
 ʒ	ʒ
@@ -403,7 +395,6 @@ _	+
 '	NULL
 }	NULL
 `	NULL
-	NULL
 1	NULL
 3	NULL
 21	NULL
@@ -413,8 +404,7 @@ _	+
 4378	NULL
 4496	NULL
 4511	NULL
-̀	NULL
-˧	³
+˧	NULL
 A	NULL
 +	NULL
 E	NULL
@@ -432,18 +422,13 @@ U	NULL
 J	NULL
 ø	NULL
 ő	o
-ʷ	bʷ
 @	NULL
-ᵇ	ᵐb
 ̐	NULL
 ᷄	NULL
 <	NULL
-̪		NULL
+̪	NULL
 4	NULL
 7	NULL
 9	NULL
 0	NULL
 I	NULL
-"	NULL
-\	NULL
--ⁿ	ⁿ
