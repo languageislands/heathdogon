@@ -7,37 +7,41 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Heath, Jeffrey, Laura McPherson, Kirill Prokhorov and Steven Moran's \"Dogon Comparative Wordlist\" from 2015",
-    "dcat:accessURL": "https://github.com/languageislands/heathdogon",
+    "dcat:accessURL": "https://github.com/dogonlanguages/heathdogon",
     "prov:wasDerivedFrom": [
         {
+            "rdf:about": "https://github.com/dogonlanguages/heathdogon",
             "rdf:type": "prov:Entity",
-            "dc:title": "Repository",
-            "rdf:about": "https://github.com/languageislands/heathdogon",
-            "dc:created": "8dd344c"
+            "dc:created": "c8f7c92",
+            "dc:title": "Repository"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Glottolog",
             "rdf:about": "https://github.com/glottolog/glottolog",
-            "dc:created": "v4.3"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v4.3",
+            "dc:title": "Glottolog"
         },
         {
-            "rdf:type": "prov:Entity",
-            "dc:title": "Concepticon",
             "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "dc:created": "v2.4.0"
+            "rdf:type": "prov:Entity",
+            "dc:created": "v2.4.0-25-g5b433a5",
+            "dc:title": "Concepticon"
         },
         {
+            "rdf:about": "clts",
             "rdf:type": "prov:Entity",
-            "dc:title": "CLTS",
-            "rdf:about": "https://github.com/cldf-clts/clts/",
-            "dc:created": "v2.0.0"
+            "dc:created": "v2.1.0-13-gd42171f",
+            "dc:title": "CLTS"
         }
     ],
     "prov:wasGeneratedBy": [
         {
+            "dc:title": "lingpy-rcParams",
+            "dc:relation": "lingpy-rcParams.json"
+        },
+        {
             "dc:title": "python",
-            "dc:description": "3.9.4"
+            "dc:description": "3.9.5"
         },
         {
             "dc:title": "python-packages",
@@ -52,7 +56,8 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 107677,
+            "dc:description": "\nRaw lexical data item as it can be pulled out of the original datasets.\n\nThis is the basis for creating rows in CLDF representations of the data by\n- splitting the lexical item into forms\n- cleaning the forms\n- potentially tokenizing the form\n",
+            "dc:extent": 107554,
             "tableSchema": {
                 "columns": [
                     {

@@ -15,6 +15,7 @@ á:	áː/aː
 áá	áː/aː
 à:	àː/aː
 àà	àː/aː
+à̀:	àː/aː
 â:	âː/aː
 áà	âː/aː
 ǎ:	ǎː/aː
@@ -52,7 +53,6 @@ bʷ	bʷ
 ɔⁿ	ɔ̃
 ɔ̃́	ɔ̃́/ɔ
 ɔ́ⁿ	ɔ̃́/ɔ̃
-ɔ́ⁿ	ɔ̃́/ɔ̃
 ɔ̃̀	ɔ̃̀/ɔ̃
 ɔ̀ⁿ	ɔ̃̀/ɔ̃
 ɔ̀ⁿ̀	ɔ̃̀/ɔ̃
@@ -63,6 +63,7 @@ bʷ	bʷ
 ɔ:	ɔː
 ɔ́:	ɔ́ː/ɔː
 ɔ́ɔ́	ɔ́ː/ɔː
+ɔ:́	ɔ́ː/ɔː
 ɔ̀:	ɔ̀ː/ɔː
 ɔ̀:̀	ɔ̀ː/ɔː
 ɔ̀=ɔ̀	ɔ̀ː/ɔː
@@ -139,6 +140,8 @@ È	ɛ̀/ɛ
 ɛ:	ɛː
 ɛ́:	ɛ́ː/ɛː
 ɛ́ɛ́	ɛ́ː/ɛː
+ɛ:́	ɛ́ː/ɛ
+ɛ̊:	ɛ́ː/ɛː
 ɛ̀:	ɛ̀ː/ɛː
 ɛ̀ɛ̀	ɛ̀ː/ɛː
 ɛ̂:	ɛ̂ː/ɛː
@@ -167,6 +170,7 @@ hʷ	hʷ
 i	i
 í	í/i
 í̀	í/i
+ì́	í/i
 ɪ́	ɪ́/ɪ
 ì	ì/i
 ɪ̀	ɪ̀/ɪ
@@ -182,6 +186,7 @@ i᷈:	i᷈/ĩ
 îⁿ	ĩ̂/ĩ
 ǐⁿ	ĩ̌/ĩ
 i:	iː
+ì::	ìː/iː
 i:́	íː/iː
 í:	íː/iː
 íí	íː/iː
@@ -250,21 +255,20 @@ ǹ:	ǹ/ɲ
 ɲ̀	ɲ̀/ɲ
 ɳ	ɲ
 2	NULL
--	NULL
+-	+
 ̀	NULL
 !	NULL
 #	NULL
+#_	+
+#wⁿ	ɔwⁿ	NULL
 (	NULL
 )	NULL
 .	NULL
 /	NULL
--:	NULL
+-:	+
 ;	NULL
 ?	NULL
 ?#	NULL
-[	NULL
-\\	NULL
-]	NULL
 =	NULL
 =:	NULL
 >	NULL
@@ -412,7 +416,6 @@ R	NULL
 P	NULL
 N	NULL
 ň	ň/n
-#	NULL
 å	a
 U	NULL
 ɖ	ɗ
@@ -432,3 +435,42 @@ J	NULL
 9	NULL
 0	NULL
 I	NULL
+_X_$	NULL
+_X$	NULL
+_$	NULL
+__$	NULL
+_...$	NULL
+-̀$	NULL
+^_	NULL
+^__	NULL
+^_...	NULL
+^..._	NULL
+^-_	NULL
+__	+
+_..._	+
+...	NULL
+᷈:	NULL
+́	NULL
+_X_	+
+_=_	+
+^X__	NULL
+^X_	NULL
+^X-	NULL
+^-	NULL
+-$	NULL
+	NULL
+	NULL
+:	ː
+ɔ̊	ɔ
+́:́	ː
+	NULL
+ ̀_	NULL
+g-́_ ɡ
+ɔ̌:-́	ɔ:/ɔ:
+^:_	NULL
+á́́́	á/a
+PRON	NULL
+á" á/a
+̌_#_	+
+mî:#_	m î/i
+mî: #	m î/i

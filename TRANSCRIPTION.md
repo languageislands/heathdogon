@@ -5,236 +5,234 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| n | 33942 | ✓ | ✓ |
-| ɡ | 33640 | ✓ | ✓ |
-| m | 31135 | ✓ | ✓ |
-| + | 30623 | ✓ | ✓ |
-| á/a | 27577 | ✓ | ✓ |
-| à/a | 27153 | ✓ | ✓ |
-| r | 26868 | ✓ | ✓ |
-| l | 25523 | ✓ | ✓ |
-| d | 23988 | ✓ | ✓ |
-| ú/u | 23483 | ✓ | ✓ |
-| b | 23339 | ✓ | ✓ |
-| k | 22816 | ✓ | ✓ |
-| í/i | 21602 | ✓ | ✓ |
-| ù/u | 20247 | ✓ | ✓ |
-| ɛ́/ɛ | 18902 | ✓ | ✓ |
-| s | 18869 | ✓ | ✓ |
-| ì/i | 18348 | ✓ | ✓ |
-| j | 18149 | ✓ | ✓ |
-| t | 17754 | ✓ | ✓ |
-| ó/o | 15602 | ✓ | ✓ |
-| ɔ́/ɔ | 14213 | ✓ | ✓ |
-| ɛ̀/ɛ | 13918 | ✓ | ✓ |
-| dʒ | 13791 | ✓ | ✓ |
-| é/e | 13145 | ✓ | ✓ |
-| ŋ | 12809 | ✓ | ✓ |
-| ɔ̀/ɔ | 12458 | ✓ | ✓ |
-| p | 11745 | ✓ | ✓ |
-| è/e | 11333 | ✓ | ✓ |
-| w | 11070 | ✓ | ✓ |
-| ò/o | 10662 | ✓ | ✓ |
-| x | 10357 | ✓ | ✓ |
-| r̃ | 6936 | ✓ | ✓ |
-| a | 4547 | ✓ | ✓ |
-| áː/aː | 4120 | ✓ | ✓ |
-| àː/aː | 3965 | ✓ | ✓ |
-| ɲ/ɲ | 3767 | ✓ | ✓ |
-| j̃ | 3079 | ✓ | ✓ |
-| u/u | 2764 | ✓ | ✓ |
-| tʃ | 2616 | ✓ | ✓ |
-| ɛ | 2609 | ✓ | ✓ |
-| ɔ | 2430 | ✓ | ✓ |
-| z | 2349 | ✓ | ✓ |
-| w̃ | 2346 | ✓ | ✓ |
-| i | 2193 | ✓ | ✓ |
-| o | 2094 | ✓ | ✓ |
-| ɛ́ː/ɛː | 2060 | ✓ | ✓ |
-| íː/iː | 2015 | ✓ | ✓ |
-| ǎ/a | 1989 | ✓ | ✓ |
-| e | 1946 | ✓ | ✓ |
-| ǎː/aː | 1559 | ✓ | ✓ |
-| ɔ́ː/ɔː | 1442 | ✓ | ✓ |
-| óː/oː | 1313 | ✓ | ✓ |
-| h | 1312 | ✓ | ✓ |
-| îː/iː | 1306 | ✓ | ✓ |
-| ìː/iː | 1271 | ✓ | ✓ |
-| â/a | 1252 | ✓ | ✓ |
-| ɛ̀ː/ɛː | 1208 | ✓ | ✓ |
-| ɔ̀ː/ɔː | 1191 | ✓ | ✓ |
-| éː/eː | 1119 | ✓ | ✓ |
-| ùː/uː | 1039 | ✓ | ✓ |
-| òː/oː | 989 | ✓ | ✓ |
-| úː/uː | 873 | ✓ | ✓ |
-| âː/aː | 871 | ✓ | ✓ |
-| èː/eː | 782 | ✓ | ✓ |
-| ɔ̌ː/ɔː | 752 | ✓ | ✓ |
-| ɛ̌/ɛ | 742 | ✓ | ✓ |
-| ǒː/oː | 740 | ✓ | ✓ |
-| ǹ/n | 692 | ✓ | ✓ |
-| ǒ/o | 662 | ✓ | ✓ |
-| ɔ̌/ɔ | 650 | ✓ | ✓ |
-| ɛ̌ː/ɛː | 637 | ✓ | ✓ |
-| î/i | 633 | ✓ | ✓ |
-| ʔ | 627 | ✓ | ✓ |
-| êː/eː | 618 | ✓ | ✓ |
-| f | 599 | ✓ | ✓ |
-| ɛ̂ː/ɛː | 591 | ✓ | ✓ |
-| ǔ/u | 578 | ✓ | ✓ |
-| ûː/uː | 515 | ✓ | ✓ |
-| m̀/m | 495 | ✓ | ✓ |
-| ě/e | 493 | ✓ | ✓ |
-| j́/j | 483 | ✓ | ✓ |
-| ɛ̂/ɛ | 471 | ✓ | ✓ |
-| ô/o | 460 | ✓ | ✓ |
-| j̀/j | 427 | ✓ | ✓ |
-| ôː/oː | 424 | ✓ | ✓ |
-| ɣ | 420 | ✓ | ✓ |
-| ɔ̂/ɔ | 371 | ✓ | ✓ |
-| ɔ̂ː/ɔː | 367 | ✓ | ✓ |
-| ǐ/i | 359 | ✓ | ✓ |
-| ŋ̀/ŋ | 340 | ✓ | ✓ |
-| û/u | 324 | ✓ | ✓ |
-| q | 317 | ✓ | ✓ |
-| ê/e | 301 | ✓ | ✓ |
-| ǐː/iː | 297 | ✓ | ✓ |
-| ěː/eː | 267 | ✓ | ✓ |
-| ĩ̂ː/ĩː | 206 | ✓ | ✓ |
-| ń/n | 200 | ✓ | ✓ |
-| ɔ̃́ː/ɔ̃ː | 184 | ✓ | ✓ |
-| ɛ̃́ː/ɛː | 183 | ✓ | ✓ |
-| ĩ́ː/ĩː | 182 | ✓ | ✓ |
-| ŋ́/ŋ | 181 | ✓ | ✓ |
-| ã̀ː/ãː | 173 | ✓ | ✓ |
-| ǔː/uː | 166 | ✓ | ✓ |
-| ĩ/i | 158 | ✓ | ✓ |
-| ã́/a | 154 | ✓ | ✓ |
-| ĩ̀ː/ĩː | 135 | ✓ | ✓ |
-| ĩ́/ĩ | 132 | ✓ | ✓ |
-| ã́ː/ãː | 126 | ✓ | ✓ |
-| ɔ̃́/ɔ̃ | 124 | ✓ | ✓ |
-| ɛ̃́/ɛ̃ | 124 | ✓ | ✓ |
-| ṹː/ũː | 113 | ✓ | ✓ |
-| ɔ̃̀/ɔ̃ | 109 | ✓ | ✓ |
-| ã̂ː/ãː | 105 | ✓ | ✓ |
-| j̃́/j̃ | 104 | ✓ | ✓ |
-| ã̀/a | 100 | ✓ | ✓ |
-| ũ̀/ũ | 99 | ✓ | ✓ |
-| ḿ/m | 88 | ✓ | ✓ |
-| ã̌ː/ãː | 83 | ✓ | ✓ |
-| ɔ̃̌ː/ɔ̃ː | 83 | ✓ | ✓ |
-| ũ̀ː/ũː | 78 | ✓ | ✓ |
-| ɔ̃̂ː/ɔ̃ː | 78 | ✓ | ✓ |
-| ũː/ũ | 77 | ✓ | ✓ |
-| ɛ̃̀/ɛ̃ | 74 | ✓ | ✓ |
-| ṹ/ũ | 74 | ✓ | ✓ |
-| ɛ̃̀ː/ɛː | 73 | ✓ | ✓ |
+| + | 54273 | ✓ | ✓ |
+| n | 30370 | ✓ | ✓ |
+| ɡ | 30114 | ✓ | ✓ |
+| m | 27131 | ✓ | ✓ |
+| r | 24604 | ✓ | ✓ |
+| á/a | 23982 | ✓ | ✓ |
+| à/a | 23968 | ✓ | ✓ |
+| d | 21432 | ✓ | ✓ |
+| l | 21234 | ✓ | ✓ |
+| ú/u | 20918 | ✓ | ✓ |
+| b | 20425 | ✓ | ✓ |
+| k | 20349 | ✓ | ✓ |
+| í/i | 19432 | ✓ | ✓ |
+| ù/u | 18065 | ✓ | ✓ |
+| ɛ́/ɛ | 17404 | ✓ | ✓ |
+| s | 17137 | ✓ | ✓ |
+| j | 16249 | ✓ | ✓ |
+| t | 15884 | ✓ | ✓ |
+| ì/i | 14545 | ✓ | ✓ |
+| ó/o | 13609 | ✓ | ✓ |
+| ɔ́/ɔ | 12581 | ✓ | ✓ |
+| dʒ | 12548 | ✓ | ✓ |
+| ɛ̀/ɛ | 12393 | ✓ | ✓ |
+| é/e | 12181 | ✓ | ✓ |
+| ŋ | 11568 | ✓ | ✓ |
+| ɔ̀/ɔ | 11479 | ✓ | ✓ |
+| p | 10561 | ✓ | ✓ |
+| x | 10191 | ✓ | ✓ |
+| w | 10057 | ✓ | ✓ |
+| ò/o | 9302 | ✓ | ✓ |
+| è/e | 9250 | ✓ | ✓ |
+| r̃ | 6215 | ✓ | ✓ |
+| a | 4374 | ✓ | ✓ |
+| áː/aː | 3829 | ✓ | ✓ |
+| àː/aː | 3615 | ✓ | ✓ |
+| ɲ/ɲ | 3459 | ✓ | ✓ |
+| j̃ | 2847 | ✓ | ✓ |
+| u/u | 2742 | ✓ | ✓ |
+| ɛ | 2596 | ✓ | ✓ |
+| ɔ | 2422 | ✓ | ✓ |
+| tʃ | 2294 | ✓ | ✓ |
+| w̃ | 2152 | ✓ | ✓ |
+| o | 2007 | ✓ | ✓ |
+| i | 1940 | ✓ | ✓ |
+| z | 1912 | ✓ | ✓ |
+| ɛ́ː/ɛː | 1856 | ✓ | ✓ |
+| ǎ/a | 1801 | ✓ | ✓ |
+| e | 1754 | ✓ | ✓ |
+| íː/iː | 1692 | ✓ | ✓ |
+| ǎː/aː | 1408 | ✓ | ✓ |
+| ɔ́ː/ɔː | 1340 | ✓ | ✓ |
+| óː/oː | 1211 | ✓ | ✓ |
+| â/a | 1206 | ✓ | ✓ |
+| h | 1150 | ✓ | ✓ |
+| îː/iː | 1136 | ✓ | ✓ |
+| ɔ̀ː/ɔː | 1122 | ✓ | ✓ |
+| ìː/iː | 1063 | ✓ | ✓ |
+| ɛ̀ː/ɛː | 1015 | ✓ | ✓ |
+| éː/eː | 974 | ✓ | ✓ |
+| ùː/uː | 959 | ✓ | ✓ |
+| òː/oː | 901 | ✓ | ✓ |
+| úː/uː | 790 | ✓ | ✓ |
+| âː/aː | 782 | ✓ | ✓ |
+| èː/eː | 731 | ✓ | ✓ |
+| ǒː/oː | 698 | ✓ | ✓ |
+| ɔ̌ː/ɔː | 697 | ✓ | ✓ |
+| ɛ̌/ɛ | 697 | ✓ | ✓ |
+| ǹ/n | 642 | ✓ | ✓ |
+| ǒ/o | 624 | ✓ | ✓ |
+| î/i | 601 | ✓ | ✓ |
+| ɔ̌/ɔ | 596 | ✓ | ✓ |
+| ʔ | 584 | ✓ | ✓ |
+| êː/eː | 542 | ✓ | ✓ |
+| ɛ̌ː/ɛː | 522 | ✓ | ✓ |
+| ǔ/u | 518 | ✓ | ✓ |
+| f | 512 | ✓ | ✓ |
+| m̀/m | 467 | ✓ | ✓ |
+| ɛ̂ː/ɛː | 459 | ✓ | ✓ |
+| ě/e | 458 | ✓ | ✓ |
+| ô/o | 450 | ✓ | ✓ |
+| ɛ̂/ɛ | 448 | ✓ | ✓ |
+| ûː/uː | 441 | ✓ | ✓ |
+| ɣ | 407 | ✓ | ✓ |
+| ôː/oː | 394 | ✓ | ✓ |
+| j́/j | 392 | ✓ | ✓ |
+| ɔ̂/ɔ | 356 | ✓ | ✓ |
+| ɔ̂ː/ɔː | 337 | ✓ | ✓ |
+| ǐ/i | 321 | ✓ | ✓ |
+| q | 316 | ✓ | ✓ |
+| û/u | 304 | ✓ | ✓ |
+| ŋ̀/ŋ | 297 | ✓ | ✓ |
+| ê/e | 282 | ✓ | ✓ |
+| ǐː/iː | 257 | ✓ | ✓ |
+| ěː/eː | 225 | ✓ | ✓ |
+| ĩ̂ː/ĩː | 199 | ✓ | ✓ |
+| ń/n | 185 | ✓ | ✓ |
+| ŋ́/ŋ | 174 | ✓ | ✓ |
+| ĩ́ː/ĩː | 171 | ✓ | ✓ |
+| ɛ̃́ː/ɛː | 170 | ✓ | ✓ |
+| ĩ/i | 157 | ✓ | ✓ |
+| ɔ̃́ː/ɔ̃ː | 157 | ✓ | ✓ |
+| ã̀ː/ãː | 156 | ✓ | ✓ |
+| j̀/j | 149 | ✓ | ✓ |
+| ã́/a | 148 | ✓ | ✓ |
+| ǔː/uː | 146 | ✓ | ✓ |
+| ĩ́/ĩ | 129 | ✓ | ✓ |
+| ĩ̀ː/ĩː | 124 | ✓ | ✓ |
+| ɛ̃́/ɛ̃ | 120 | ✓ | ✓ |
+| ã́ː/ãː | 118 | ✓ | ✓ |
+| ɔ̃́/ɔ̃ | 111 | ✓ | ✓ |
+| ṹː/ũː | 108 | ✓ | ✓ |
+| ã̂ː/ãː | 104 | ✓ | ✓ |
+| ɔ̃̀/ɔ̃ | 103 | ✓ | ✓ |
+| ã̀/a | 91 | ✓ | ✓ |
+| ũ̀/ũ | 81 | ✓ | ✓ |
+| ɔ̃̌ː/ɔ̃ː | 81 | ✓ | ✓ |
+| ũː/ũ | 76 | ✓ | ✓ |
+| ũ̀ː/ũː | 75 | ✓ | ✓ |
+| ḿ/m | 74 | ✓ | ✓ |
 | ã/a | 72 | ✓ | ✓ |
-| ɔ᷈ː/ɔː | 71 | ✓ | ✓ |
-| ɛ᷈ː/ɛː | 61 | ✓ | ✓ |
-| ʃ | 61 | ✓ | ✓ |
-| ɔ̃̀ː/ɔ̃ː | 59 | ✓ | ✓ |
-| ə̀/ə | 59 | ✓ | ✓ |
-| ɛ̃̂ː/ɛː | 59 | ✓ | ✓ |
-| ṍː/õː | 59 | ✓ | ✓ |
-| j̃̀/j̃ | 56 | ✓ | ✓ |
-| ɛ̃̌ː/ɛː | 54 | ✓ | ✓ |
-| v | 52 | ✓ | ✓ |
-| ĩ̌ː/ĩː | 52 | ✓ | ✓ |
+| ɛ̃̀ː/ɛː | 72 | ✓ | ✓ |
+| ɔ̃̂ː/ɔ̃ː | 71 | ✓ | ✓ |
+| ã̌ː/ãː | 70 | ✓ | ✓ |
+| ɛ̃̀/ɛ̃ | 70 | ✓ | ✓ |
+| j̃́/j̃ | 58 | ✓ | ✓ |
+| ṍː/õː | 58 | ✓ | ✓ |
+| ɔ᷈ː/ɔː | 57 | ✓ | ✓ |
+| ʃ | 57 | ✓ | ✓ |
+| ṹ/ũ | 56 | ✓ | ✓ |
+| ɛ̃̂ː/ɛː | 55 | ✓ | ✓ |
+| ɔ̃̀ː/ɔ̃ː | 54 | ✓ | ✓ |
 | ɛ̃/ɛ̃ | 52 | ✓ | ✓ |
-| ĩ̀/ĩ | 49 | ✓ | ✓ |
-| ə́/ə | 48 | ✓ | ✓ |
-| ã̌/a | 43 | ✓ | ✓ |
+| ə̀/ə | 51 | ✓ | ✓ |
+| j̃̀/j̃ | 50 | ✓ | ✓ |
+| ĩ̌ː/ĩː | 50 | ✓ | ✓ |
+| ɛ̃̌ː/ɛː | 50 | ✓ | ✓ |
+| ĩ̀/ĩ | 45 | ✓ | ✓ |
 | ɔ̃ | 42 | ✓ | ✓ |
-| ũ̂ː/ũː | 39 | ✓ | ✓ |
 | ɛ̃̌/ɛ̃ | 38 | ✓ | ✓ |
-| a᷈/a | 37 | ✓ | ✓ |
-| <<́>> | 36 | ? | ? |
-| ẁ/w | 36 | ✓ | ✓ |
-| o᷈ː/oː | 35 | ✓ | ✓ |
-| a᷈ː/ãː | 30 | ✓ | ✓ |
-| ɔ̃̌/ɔ̃ | 30 | ✓ | ✓ |
+| a᷈/a | 36 | ✓ | ✓ |
+| ã̌/a | 36 | ✓ | ✓ |
+| ɛ᷈ː/ɛː | 36 | ✓ | ✓ |
+| ũ̂ː/ũː | 35 | ✓ | ✓ |
+| ə́/ə | 35 | ✓ | ✓ |
+| ẁ/w | 33 | ✓ | ✓ |
+| o᷈ː/oː | 32 | ✓ | ✓ |
+| a᷈ː/ãː | 29 | ✓ | ✓ |
+| v | 28 | ✓ | ✓ |
 | õ̀ː/õː | 28 | ✓ | ✓ |
-| ũ̂/ũ | 28 | ✓ | ✓ |
-| õ̂ː/õː | 27 | ✓ | ✓ |
+| ɔ̃̌/ɔ̃ | 28 | ✓ | ✓ |
+| õ̂ː/õː | 26 | ✓ | ✓ |
 | v́/v | 24 | ✓ | ✓ |
 | hʷ | 23 | ✓ | ✓ |
 | ɲ̀/ɲ | 23 | ✓ | ✓ |
-| ũ̌/ũ | 22 | ✓ | ✓ |
-| ɗ | 20 | ✓ | ✓ |
+| ũ̌/ũ | 20 | ✓ | ✓ |
 | ʄ | 20 | ✓ | ✓ |
-| ẽ̀/ẽ | 20 | ✓ | ✓ |
-| õ̀/õ | 19 | ✓ | ✓ |
-| ã̂/a | 18 | ✓ | ✓ |
+| <<́>> | 18 | ? | ? |
 | ẽ̀ː/ẽː | 18 | ✓ | ✓ |
-| ẽ́/ẽ | 18 | ✓ | ✓ |
-| <<>> | 17 | ? | ? |
-| <<:>> | 17 | ? | ? |
 | <<ⁿ>> | 17 | ? | ? |
+| ẽ̀/ẽ | 17 | ✓ | ✓ |
+| ã̂/a | 16 | ✓ | ✓ |
+| õ̀/õ | 16 | ✓ | ✓ |
+| ɗ | 15 | ✓ | ✓ |
 | ĩ̌/ĩ | 14 | ✓ | ✓ |
-| ũ̌ː/ũː | 14 | ✓ | ✓ |
-| ɓ | 13 | ✓ | ✓ |
-| <<\>> | 12 | ? | ? |
-| iː | 12 | ✓ | ✓ |
+| ẽ́/ẽ | 14 | ✓ | ✓ |
+| ũ̂/ũ | 13 | ✓ | ✓ |
+| ː | 12 | ? | ? |
 | ẃ/w | 12 | ✓ | ✓ |
 | ẽ́ː/ẽː | 12 | ✓ | ✓ |
 | w̃̀/w̃ | 11 | ✓ | ✓ |
+| ɓ | 11 | ✓ | ✓ |
 | ɔ̃̂/ɔ̃ | 11 | ✓ | ✓ |
-| ɛ᷈/ɛ̃ | 11 | ✓ | ✓ |
-| aː | 10 | ✓ | ✓ |
 | w̃́/w̃ | 10 | ✓ | ✓ |
-| <<">> | 9 | ? | ? |
-| i᷈/ĩ | 9 | ✓ | ✓ |
-| <<̌>> | 8 | ? | ? |
-| ɛː | 8 | ✓ | ✓ |
-| ɛ̃̂/ɛ̃ | 8 | ✓ | ✓ |
-| ṍ/õ | 8 | ✓ | ✓ |
+| ũ̌ː/ũː | 10 | ✓ | ✓ |
+| ɛ᷈/ɛ̃ | 10 | ✓ | ✓ |
+| iː | 8 | ✓ | ✓ |
+| i᷈/ĩ | 8 | ✓ | ✓ |
+| aː | 7 | ✓ | ✓ |
 | e᷈/ẽ | 7 | ✓ | ✓ |
+| ɛː | 7 | ✓ | ✓ |
+| <<]>> | 6 | ? | ? |
+| <<̌>> | 6 | ? | ? |
 | u᷈ː/uː | 6 | ✓ | ✓ |
 | v̀/v | 6 | ✓ | ✓ |
-| ɔː | 6 | ✓ | ✓ |
-| ɔ̃᷈ː/ɔ̃ː | 6 | ✓ | ✓ |
+| ɛ̃̂/ɛ̃ | 6 | ✓ | ✓ |
+| ṍ/õ | 6 | ✓ | ✓ |
 | ẽ̌ː/ẽː | 6 | ✓ | ✓ |
+| <<">> | 5 | ? | ? |
+| ɔ̃᷈ː/ɔ̃ː | 5 | ✓ | ✓ |
 | o᷈/o | 4 | ✓ | ✓ |
 | ã᷈ː/ãː | 4 | ✓ | ✓ |
 | õ̌ː/õː | 4 | ✓ | ✓ |
 | ĩ᷈ː/ĩː | 4 | ✓ | ✓ |
 | ɲ́/ɲ | 4 | ✓ | ✓ |
-| <<#>> | 3 | ? | ? |
-| e᷈ː/ẽː | 3 | ✓ | ✓ |
 | kʷ | 3 | ✓ | ✓ |
 | æ̂/æ | 3 | ✓ | ✓ |
 | ĩ̂/ĩ | 3 | ✓ | ✓ |
-| ɔ̃ː/ɔ̃ː | 3 | ✓ | ✓ |
-| ɔ᷈/ɔ | 3 | ✓ | ✓ |
-| <<̊>> | 2 | ? | ? |
+| ɔː | 3 | ✓ | ✓ |
+| <<#>> | 2 | ? | ? |
 | jː | 2 | ✓ | ✓ |
 | j̃̂/j̃ | 2 | ✓ | ✓ |
 | æ̃́ː/æ̃ː | 2 | ✓ | ✓ |
 | õ̂/õ | 2 | ✓ | ✓ |
 | ǽ/æ | 2 | ✓ | ✓ |
+| ɔ̃ː/ɔ̃ː | 2 | ✓ | ✓ |
 | ɔ̃́/ɔ | 2 | ✓ | ✓ |
+| ɔ᷈/ɔ | 2 | ✓ | ✓ |
 | ʒ | 2 | ✓ | ✓ |
-| ẽ | 2 | ✓ | ✓ |
-| <<᷈>> | 1 | ? | ? |
 | dʷ | 1 | ✓ | ✓ |
-| eː | 1 | ✓ | ✓ |
+| e᷈ː/ẽː | 1 | ✓ | ✓ |
 | lː | 1 | ✓ | ✓ |
 | oː | 1 | ✓ | ✓ |
 | æ̃̀ː/æ̃ː | 1 | ✓ | ✓ |
 | æ̃̂ː/æ̃ː | 1 | ✓ | ✓ |
 | ň/n | 1 | ✓ | ✓ |
 | ǹ/ɲ | 1 | ✓ | ✓ |
+| ɔ:/ɔ: | 1 | ✓ | ✓ |
 | ɔ̃᷈/ɔ̃ | 1 | ✓ | ✓ |
+| ɛ́ː/ɛ | 1 | ✓ | ✓ |
 | ɛ̃᷈ː/ɛː | 1 | ✓ | ✓ |
 | ɛ̄/ɛ | 1 | ✓ | ✓ |
 | ɞ́/ɞ | 1 | ✓ | ✓ |
 | ɪ | 1 | ✓ | ✓ |
 | ɲ | 1 | ✓ | ✓ |
+| ẽ | 1 | ✓ | ✓ |
 | ẽ̌/ẽ | 1 | ✓ | ✓ |
 
-(228 rows)
+(226 rows)
 
 
 
@@ -250,107 +248,107 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:----------------------------------------------------------------------------------------------------------------------|:--------------------|:--------------------------------------------------------------------------------------------------|:--------------------------------|:--------------------------------------------------------|
-| Ampari-2941_child-1 | Ampari | 2941_child | bé:_ | b éː/eː + |
-| Ampari-3478_die-1 | Ampari | 3478_die | dɔ̂:_ | d ɔ̂ː/ɔː + |
-| Ampari-3595_dog-1 | Ampari | 3595_dog | ìjɛ́_ | ì/i dʒ ɛ́/ɛ + |
-| Ampari-3769_egg-1 | Ampari | 3769_egg | pórì_ | p ó/o r ì/i + |
-| Ampari-6327_new-1 | Ampari | 6327_new | kà:ndà_ | k àː/aː n d à/a + |
-| Ampari-6661_personhumanbeing-1 | Ampari | 6661_personhumanbeing | ìndà-ró_ | ì/i n d à/a r ó/o + |
-| BankanTey-2941_child-1 | BankanTey | 2941_child | yí-m\\yì::tɛ̂: | j í/i m j ìː/iː <s> <<:>> </s> t ɛ̂ː/ɛː |
-| BenTey-1394_womanbegintohavelaborpains-1 | BenTey | 1394_womanbegintohavelaborpains | nɔ́rⁿí_[X_mâ:]_yá_bú | n ɔ́/ɔ r̃ í/i + + m âː/aː + j á/a + b ú/u |
-| BenTey-4397_girl-1 | BenTey | 4397_girl | yà:-yî-m\\yà-[yì-tɛ᷈:]_=_yà:-yî: | j àː/aː j î/i m j à/a j ì/i t ɛ᷈ː/ɛː + + j àː/aː j îː/iː |
-| BenTey-509_foetusineggtakeshapedevelopintoachickbeforehatching-1 | BenTey | 509_foetusineggtakeshapedevelopintoachickbeforehatching | tɔ́:ⁿ-rⁿú_ | t ɔ̃́ː/ɔ̃ː r̃ ú/u + |
-| BenTey-584_henbroodsitoneggs-1 | BenTey | 584_henbroodsitoneggs | ɔ́w-yí_ | ɔ́/ɔ w j í/i + |
-| Bunoge-1390_womanbeinlaborchildbirth-1 | Bunoge | 1390_womanbeinlaborchildbirth | ʔébè_ | ʔ é/e b è/e + |
-| Bunoge-2063_bachelorunmarriedyoungman-1 | Bunoge | 2063_bachelorunmarriedyoungman | ʔòbó_kànà:-lì_ | ʔ ò/o b ó/o + k à/a n àː/aː l ì/i + |
-| Bunoge-2941_child-1 | Bunoge | 2941_child | bé_ | b é/e + |
-| Bunoge-3232_cowbullanybovine-1 | Bunoge | 3232_cowbullanybovine | ná_ | n á/a + |
-| Bunoge-4981_horse-1 | Bunoge | 4981_horse | sé_ | s é/e + |
-| Bunoge-8385_stirrup-1 | Bunoge | 8385_stirrup | tá:-gè_ | t áː/aː ɡ è/e + |
-| Bunoge-9122_unmarriedwoman-1 | Bunoge | 9122_unmarriedwoman | [yɔ̂:_nɔ̀]_ʔòbó_kànà:-lì_ | j ɔ̂ː/ɔː + n ɔ̀/ɔ + ʔ ò/o b ó/o + k à/a n àː/aː l ì/i + |
-| Bunoge-9577_womanfemaleperson-1 | Bunoge | 9577_womanfemaleperson | yɔ́_ | j ɔ́/ɔ + |
-| DogulDomB-2822_cat-1 | DogulDomB | 2822_cat | gâ:ŋ_ | ɡ âː/aː ŋ + |
-| DogulDomB-2941_child-1 | DogulDomB | 2941_child | ěg_ | ě/e ɡ + |
-| DogulDomB-2981_christeningnamingceremonyfornewbornoneweekafterbirth-1 | DogulDomB | 2981_christeningnamingceremonyfornewbornoneweekafterbirth | lábùrùŋ_ | l á/a b ù/u r ù/u ŋ + |
-| DogulDomB-3232_cowbullanybovine-1 | DogulDomB | 3232_cowbullanybovine | nǎ:g_ | n ǎː/aː ɡ + |
-| DogulDomB-3595_dog-1 | DogulDomB | 3595_dog | ùŋɔ́-ŋ́_ | ù/u ŋ ɔ́/ɔ ŋ́/ŋ + |
-| DogulDomB-3605_donkey-1 | DogulDomB | 3605_donkey | dúlùg_ | d ú/u l ù/u ɡ + |
-| DogulDomB-4544_grassherbs-1 | DogulDomB | 4544_grassherbs | kɔ̌:g_ | k ɔ̌ː/ɔː ɡ + |
-| DogulDomB-5884_manmaleperson-1 | DogulDomB | 5884_manmaleperson | ánà_ | á/a n à/a + |
-| DogulDomB-6661_personhumanbeing-1 | DogulDomB | 6661_personhumanbeing | nǒ:_ | n ǒː/oː + |
-| DonnoSo-2427_billygoatuncastrated-1 | DonnoSo | 2427_billygoatuncastrated | ɛ̀nɛ̀_kálàndù_ | ɛ̀/ɛ n ɛ̀/ɛ + k á/a l à/a n d ù/u + |
-| DonnoSo-2698_bulluncastrated-1 | DonnoSo | 2698_bulluncastrated | nàŋà_kálàndù_ | n à/a ŋ à/a + k á/a l à/a n d ù/u + |
-| DonnoSo-4371_getoldageverb-1 | DonnoSo | 4371_getoldageverb | páy-nd-ɛ̀:-\\páy-nd-ì-ỳ_ | p á/a j n d ɛ̀ː/ɛː p á/a j n d ì/i j̀/j + |
-| DonnoSo-7085_ramuncastrated-1 | DonnoSo | 7085_ramuncastrated | pèdù_kálàndù_ | p è/e d ù/u + k á/a l à/a n d ù/u + |
-| DonnoSo-9697_young-1 | DonnoSo | 9697_young | ɔ̀rî:_ | ɔ̀/ɔ r îː/iː + |
-| JamsayMondoro-6707_pigeondomestic-1 | JamsayMondoro | 6707_pigeondomestic | gúmbà_ | ɡ ú/u m b à/a + |
-| Najamba-6548_overnightplacefordomesticanimalegdonkeyhorse-1 | Najamba | 6548_overnightplacefordomesticanimalegdonkeyhorse | júggàl\\júggɛ̀_=_júggàl | dʒ ú/u ɡ ɡ à/a l dʒ ú/u ɡ ɡ ɛ̀/ɛ + + dʒ ú/u ɡ ɡ à/a l |
-| Nanga-709_manimpregnatewoman-1 | Nanga | 709_manimpregnatewoman | pìré_X_ńdí | p ì/i r é/e + + ń/n d í/i |
-| Penange-178_basketchairbewornout-1 | Penange | 178_basketchairbewornout | úlɛ́_ | ú/u l ɛ́/ɛ + |
-| Penange-3478_die-1 | Penange | 3478_die | dɔ́gɛ́_ | d ɔ́/ɔ ɡ ɛ́/ɛ + |
-| Penange-4492_goat-1 | Penange | 4492_goat | úná_ | ú/u n á/a + |
-| Penange-6706_pig-1 | Penange | 6706_pig | àlgà_ | à/a l ɡ à/a + |
-| Penange-6707_pigeondomestic-1 | Penange | 6707_pigeondomestic | pólmálá:ndì_ | p ó/o l m á/a l áː/aː n d ì/i + |
-| Penange-7675_sheep-1 | Penange | 7675_sheep | àlàmùnɔ̀_ | à/a l à/a m ù/u n ɔ̀/ɔ + |
-| Penange-806_objectwearoutbecomewornout-1 | Penange | 806_objectwearoutbecomewornout | úlɛ́_ | ú/u l ɛ́/ɛ + |
-| TebulUre-2820_castrateanimalbycutting-1 | TebulUre | 2820_castrateanimalbycutting | pɔ́rɔ́_ | p ɔ́/ɔ r ɔ́/ɔ + |
-| TebulUre-3357_cutthroatofanimalslaughter-1 | TebulUre | 3357_cutthroatofanimalslaughter | sɛ́mɛ́_ | s ɛ́/ɛ m ɛ́/ɛ + |
-| TebulUre-3478_die-1 | TebulUre | 3478_die | tíbɛ́_ | t í/i b ɛ́/ɛ + |
-| TebulUre-3804_emasculatemaleanimalbycrushingitstesticles-1 | TebulUre | 3804_emasculatemaleanimalbycrushingitstesticles | bɔ̀tɔ́_ | b ɔ̀/ɔ t ɔ́/ɔ + |
-| TebulUre-4371_getoldageverb-1 | TebulUre | 4371_getoldageverb | pɛ́_ | p ɛ́/ɛ + |
-| TebulUre-465_egghatch-1 | TebulUre | 465_egghatch | sɔ́gɔ́_ | s ɔ́/ɔ ɡ ɔ́/ɔ + |
-| TebulUre-492_femalegivebirthtobaby-1 | TebulUre | 492_femalegivebirthtobaby | lǎ:_ | l ǎː/aː + |
+|:-----------------------------------------------------------------------------------------------------------------------------|:--------------------|:-------------------------------------------------------------------------------------------------------------------|:------------------------|:---------------------------------------------------------------------------|
+| BankanTey-7156_redspicepowderforricesauce-1 | BankanTey | 7156_redspicepowderforricesauce | tàmà:tì-_ | t à/a m àː/aː t ì/i + |
+| BenTey-2187_befastingeginramadanfastverb-1 | BenTey | 2187_befastingeginramadanfastverb | mò:-_páɣá | m òː/oː + + p á/a ɣ á/a |
+| BenTey-2598_breakonesfast-1 | BenTey | 2598_breakonesfast | mò:-_cɛ́sɛ́ | m òː/oː + + tʃ ɛ́/ɛ s ɛ́/ɛ |
+| BenTey-5488_laymidsizecrossbeamsacrossthemainbeamofaroof-1 | BenTey | 5488_laymidsizecrossbeamsacrossthemainbeamofaroof | bèrè-_pɛ́gɛ́ | b è/e r è/e + + p ɛ́/ɛ ɡ ɛ́/ɛ |
+| BenTey-6003_metalstrainingladlewithsmallholes-1 | BenTey | 6003_metalstrainingladlewithsmallholes | kùtù_-wɔ̀gìrî: | k ù/u t ù/u + + w ɔ̀/ɔ ɡ ì/i r îː/iː |
+| BenTey-7803_simpleouthouseforbathingandurinatingliquidsdrainintothestreetthroughaholeatbaseofwall-1 | BenTey | 7803_simpleouthouseforbathingandurinatingliquidsdrainintothestreetthroughaholeatbaseofwall | nì:-_ | n ìː/iː + |
+| BenTey-9183_varietyofcowpeapodsharplycurvedbroughtinfromsegouveryfastgrowingvinedoesnotspreadfar-1 | BenTey | 9183_varietyofcowpeapodsharplycurvedbroughtinfromsegouveryfastgrowingvinedoesnotspreadfar | nùwⁿì:_-ùrúm] | n ù/u w̃ ìː/iː + + ù/u r ú/u m <s> <<]>> </s> |
+| BenTey-9496_widower-1 | BenTey | 9496_widower | àrⁿà_pàlú-m]]pàlú | à/a r̃ à/a + p à/a l ú/u + m <s> <<]>> </s> <s> <<]>> </s> p à/a l ú/u |
+| DogulDomB-2460_bladder-1 | DogulDomB | 2460_bladder | ǹjà:-_ | ǹ/n dʒ àː/aː + |
+| DogulDomB-4125_firewood-1 | DogulDomB | 4125_firewood | tê:ⁿ | t êː/eː <s> <<ⁿ>> </s> |
+| DogulDomB-4464_gogetfirewoodinthebushbyanymethodiecollectingorchopping-1 | DogulDomB | 4464_gogetfirewoodinthebushbyanymethodiecollectingorchopping | tê:ⁿ_ténè | t êː/eː <s> <<ⁿ>> </s> + t é/e n è/e |
+| DogulDomB-4637_hamstringachillestendon-1 | DogulDomB | 4637_hamstringachillestendon | nà:g-_kásò: | n àː/aː ɡ + + k á/a s òː/oː |
+| DogulDomB-4852_heel-1 | DogulDomB | 4852_heel | nà:g-́_ | n àː/aː ɡ + <s> <<́>> </s> |
+| DogulDomB-8093_softspotonundersideofknee-1 | DogulDomB | 8093_softspotonundersideofknee | nà:g-_ | n àː/aː ɡ + |
+| DonnoSo-1926_animalfatinmeat-1 | DonnoSo | 1926_animalfatinmeat | sê:ⁿ | s êː/eː <s> <<ⁿ>> </s> |
+| DonnoSo-3619_dousefireputoutfirewithwater-1 | DonnoSo | 3619_dousefireputoutfirewithwater | sê:ⁿ | s êː/eː <s> <<ⁿ>> </s> |
+| JamsayDouentza-2598_breakonesfast-1 | JamsayDouentza | 2598_breakonesfast | kà:-_cɛ́jɛ́ | k àː/aː + + tʃ ɛ́/ɛ dʒ ɛ́/ɛ |
+| JamsayDouentza-3042_coarselycrushedmilletboiledinpotdriedinsuncrushedwithsomepeanutsandsalt-1 | JamsayDouentza | 3042_coarselycrushedmilletboiledinpotdriedinsuncrushedwithsomepeanutsandsalt | pìrⁿè-_wǎ:m | p ì/i r̃ è/e + + w ǎː/aː m |
+| JamsayDouentza-3045_coarselycrushedmilletuncooked-1 | JamsayDouentza | 3045_coarselycrushedmilletuncooked | pìrⁿè-_kòró | p ì/i r̃ è/e + + k ò/o r ó/o |
+| JamsayDouentza-6886_predawnmealonfastingday-1 | JamsayDouentza | 6886_predawnmealonfastingday | kà:-_mà_ɲǎ: | k àː/aː + + m à/a + ɲ/ɲ ǎː/aː |
+| JamsayDouentza-7156_redspicepowderforricesauce-1 | JamsayDouentza | 7156_redspicepowderforricesauce | sɔ̀mɔ̀yⁿ-_bán | s ɔ̀/ɔ m ɔ̀/ɔ j̃ + + b á/a n |
+| JamsayDouentza-9568_womansheadshawlwithtasselfringeatendwoven-1 | JamsayDouentza | 9568_womansheadshawlwithtasselfringeatendwoven | yìrù-_mà_músɔ́:rɔ̀ | j ì/i r ù/u + + m à/a + m ú/u s ɔ́ː/ɔː r ɔ̀/ɔ |
+| JamsayMondoro-8059_sneezeverbonly-1 | JamsayMondoro | 8059_sneezeverbonly | sá" | s á/a <s> <<">> </s> |
+| Mombo-8425_straightnosedadverb-1 | Mombo | 8425_straightnosedadverb | té:yⁿ_→ | t éː/eː j̃ + |
+| Najamba-2038_attachonesbelt-1 | Najamba | 2038_attachonesbelt | yàbà-_págí | j à/a b à/a + + p á/a ɡ í/i |
+| Najamba-3761_eatlunch-1 | Najamba | 3761_eatlunch | kèn-_tɛ́gɛ́ | k è/e n + + t ɛ́/ɛ ɡ ɛ́/ɛ |
+| Najamba-4190_flintstoneinnature-1 | Najamba | 4190_flintstoneinnature | gòlò-_kìnù: | ɡ ò/o l ò/o + + k ì/i n ùː/uː |
+| Najamba-4192_flintforlighter-1 | Najamba | 4192_flintforlighter | gòlò-_kìnù: | ɡ ò/o l ò/o + + k ì/i n ùː/uː |
+| Najamba-6449_oldfashionedwomanshidewaistbeltwithpommel-1 | Najamba | 6449_oldfashionedwomanshidewaistbeltwithpommel | sàbì-_pàgù-rù | s à/a b ì/i + + p à/a ɡ ù/u + r ù/u |
+| Najamba-6842_poundgraininmortarintoflour-1 | Najamba | 6842_poundgraininmortarintoflour | sè:-_dwɛ́ | s èː/eː + + d w ɛ́/ɛ |
+| Najamba-7774_sievewithclothforfilteringwater-1 | Najamba | 7774_sievewithclothforfilteringwater | ìŋgè-_tɛ̀mɛ̀ | ì/i ŋ ɡ è/e + + t ɛ̀/ɛ m ɛ̀/ɛ |
+| Najamba-8007_smallroundcalabashwithlightcoloredinteriorforofferingwatertovisitors-1 | Najamba | 8007_smallroundcalabashwithlightcoloredinteriorforofferingwatertovisitors | kɔ̀rìyɔ̀-_pílɛ̀-ŋgò | k ɔ̀/ɔ r ì/i j ɔ̀/ɔ + + p í/i l ɛ̀/ɛ + ŋ ɡ ò/o |
+| Nanga-2280_bethirsty-1 | Nanga | 2280_bethirsty | _..._yá-sò | + j á/a + s ò/o |
+| Nanga-2748_calabashforsourmilk-1 | Nanga | 2748_calabashforsourmilk | ́_kɔ́sì | <s> <<́>> </s> + k ɔ́/ɔ s ì/i |
+| Nanga-5200_ishealive-1 | Nanga | 5200_ishealive | úmâ-ⁿ_mà | ú/u m â/a + <s> <<ⁿ>> </s> + m à/a |
+| Nanga-6155_mortarforgunpowder-1 | Nanga | 6155_mortarforgunpowder | tùndì_- | t ù/u n d ì/i + |
+| Nanga-7927_smallbasketforcottonspinninggear-1 | Nanga | 7927_smallbasketforcottonspinninggear | nà:mbì-_tóndí | n àː/aː m b ì/i + + t ó/o n d í/i |
+| Penange-6140_molar-1 | Penange | 6140_molar | ágálámjá_)y-) | á/a ɡ á/a l á/a m dʒ á/a + j + |
+| PergeTegu-2598_breakonesfast-1 | PergeTegu | 2598_breakonesfast | kà:-_kɛ́sɛ́ | k àː/aː + + k ɛ́/ɛ s ɛ́/ɛ |
+| PergeTegu-3043_coarselycrushedmilletcookeddrythencrushedbystone-1 | PergeTegu | 3043_coarselycrushedmilletcookeddrythencrushedbystone | pìrⁿè-_wà:mbú | p ì/i r̃ è/e + + w àː/aː m b ú/u |
+| PergeTegu-3234_cowpeagreensforfodder-1 | PergeTegu | 3234_cowpeagreensforfodder | nùm_-bèrú | n ù/u m + + b è/e r ú/u |
+| PergeTegu-7468_sauceladle-1 | PergeTegu | 7468_sauceladle | tònì:-kòŋgòrò_- | t ò/o n ìː/iː + k ò/o ŋ ɡ ò/o r ò/o + |
+| TebulUre-1121_sbsweatperspire-1 | TebulUre | 1121_sbsweatperspire | sògó_gǒ-_ | s ò/o ɡ ó/o + ɡ ǒ/o + |
+| TebulUre-1398_womangetoneshairbraided-1 | TebulUre | 1398_womangetoneshairbraided | ɛ̀rì-lé_óm-_ | ɛ̀/ɛ r ì/i + l é/e + ó/o m + |
+| TebulUre-158_animalpersongrowhair-1 | TebulUre | 158_animalpersongrowhair | tɛ́yɛ́-_ | t ɛ́/ɛ j ɛ́/ɛ + |
+| TebulUre-1955_anus-1 | TebulUre | 1955_anus | dùmbò-_ | d ù/u m b ò/o + |
+| TebulUre-2385_belchburpverbonly-1 | TebulUre | 2385_belchburpverbonly | bě:l-_ | b ěː/eː l + |
+| TebulUre-2386_belchemitabelch-1 | TebulUre | 2386_belchemitabelch | bè:líyá_bě:l-_ | b èː/eː l í/i j á/a + b ěː/eː l + |
+| TebulUre-2490_blowonegfire-1 | TebulUre | 2490_blowonegfire | útú_púb-í:-_ | ú/u t ú/u + p ú/u b + íː/iː + |
+| TebulUre-2617_breathe-1 | TebulUre | 2617_breathe | nindù-gó_nìndí-_ | n i n d ù/u + ɡ ó/o + n ì/i n d í/i + |
+| TebulUre-2618_breatheverbonly-1 | TebulUre | 2618_breatheverbonly | nìndí-_ | n ì/i n d í/i + |
+| TebulUre-3002_cleanpoundedgrainbypickingoutandremovingparticlessuchasbitsofsand-1 | TebulUre | 3002_cleanpoundedgrainbypickingoutandremovingparticlessuchasbitsofsand | yɛ̀mbi_- | j ɛ̀/ɛ m b i + |
+| TebulUre-3200_coughemitacough-1 | TebulUre | 3200_coughemitacough | kón-gó_kónó-_ | k ó/o n + ɡ ó/o + k ó/o n ó/o + |
+| TebulUre-3706_eardrum-1 | TebulUre | 3706_eardrum | sùrⁿò-ɪ̌n | s ù/u r̃ ò/o + ɪ <s> <<̌>> </s> n |
+| TebulUre-3933_extinguishputoutfire-1 | TebulUre | 3933_extinguishputoutfire | jɛ̌_-) | dʒ ɛ̌/ɛ + + |
+| TebulUre-3997_fartverbonly-1 | TebulUre | 3997_fartverbonly | jě-_ | dʒ ě/e + |
+| TebulUre-4001_fartletoutafart-1 | TebulUre | 4001_fartletoutafart | jì-ŋgé_jě-_ | dʒ ì/i + ŋ ɡ é/e + dʒ ě/e + |
+| TebulUre-4090_filluponesmouthwithfoodordrink-1 | TebulUre | 4090_filluponesmouthwithfoodordrink | m̀bù-gɔ́_bǎ-_ | m̀/m b ù/u + ɡ ɔ́/ɔ + b ǎ/a + |
+| TebulUre-4394_girdegagirlwithawrap-1 | TebulUre | 4394_girdegagirlwithawrap | zìbì-rí-_ | z ì/i b ì/i + r í/i + |
+| TebulUre-4405_giveadrinktosbhavesbanimalsdrink-1 | TebulUre | 4405_giveadrinktosbhavesbanimalsdrink | ìnjè-_ńdì | ì/i n dʒ è/e + + ń/n d ì/i |
 | TebulUre-5481_layegg-1 | TebulUre | 5481_layegg | tálɛ́_tá:-_ | t á/a l ɛ́/ɛ + t áː/aː + |
-| TebulUre-584_henbroodsitoneggs-1 | TebulUre | 584_henbroodsitoneggs | úb-í:_ | ú/u b íː/iː + |
-| TebulUre-597_herderwatchovertendflock-1 | TebulUre | 597_herderwatchovertendflock | bè-:ŋgó_bè:mí_ | b è/e ŋ ɡ ó/o + b èː/eː m í/i + |
-| TebulUre-6430_oldthinganimal-1 | TebulUre | 6430_oldthinganimal | pɛ̀y-gɔ́\\pɛ̌:_ | p ɛ̀/ɛ j ɡ ɔ́/ɔ p ɛ̌ː/ɛː + |
-| TebulUre-7073_raiselivestockinaherd-1 | TebulUre | 7073_raiselivestockinaherd | màŋí_ | m à/a ŋ í/i + |
-| TebulUre-7075_raisebringupchildanimal-1 | TebulUre | 7075_raisebringupchildanimal | kɔ́\\kwà-lí_ | k ɔ́/ɔ k w à/a l í/i + |
-| TebulUre-740_midwifehelpwomantodeliverchild-1 | TebulUre | 740_midwifehelpwomantodeliverchild | lǎ:-m_ | l ǎː/aː m + |
-| TebulUre-7841_skinandbutchercarcassofslaughteredanimal-1 | TebulUre | 7841_skinandbutchercarcassofslaughteredanimal | ùrɔ́_ | ù/u r ɔ́/ɔ + |
-| TebulUre-806_objectwearoutbecomewornout-1 | TebulUre | 806_objectwearoutbecomewornout | sɛ́mbílíyɛ́_ | s ɛ́/ɛ m b í/i l í/i j ɛ́/ɛ + |
-| TebulUre-8271_spurverbprodhorsewithspurs-1 | TebulUre | 8271_spurverbprodhorsewithspurs | námbí_ | n á/a m b í/i + |
-| TebulUre-868_plantbearfruitorgrain-1 | TebulUre | 868_plantbearfruitorgrain | lǎ:_ | l ǎː/aː + |
-| TebulUre-9719_youthsetofyoungmeninavillage-1 | TebulUre | 9719_youthsetofyoungmeninavillage | bàntɔ́ndɔ́-mbɔ́_ | b à/a n t ɔ́/ɔ n d ɔ́/ɔ m b ɔ́/ɔ + |
-| Tiranige-2929_chicken-1 | Tiranige | 2929_chicken | sìjá\\sìjà-gé_ | s ì/i dʒ á/a s ì/i dʒ à/a ɡ é/e + |
-| Tiranige-3418_death-1 | Tiranige | 3418_death | tíwɔ́_ | t í/i w ɔ́/ɔ + |
-| Tiranige-3478_die-1 | Tiranige | 3478_die | tíwɔ́_ | t í/i w ɔ́/ɔ + |
-| Tiranige-3599_domesticanimalesplivestock-1 | Tiranige | 3599_domesticanimalesplivestock | bèl_ | b è/e l + |
-| Tiranige-3605_donkey-1 | Tiranige | 3605_donkey | kɔ́lɔ́ŋɔ̀_ | k ɔ́/ɔ l ɔ́/ɔ ŋ ɔ̀/ɔ + |
-| Tiranige-3769_egg-1 | Tiranige | 3769_egg | pólŋgé_ | p ó/o l ŋ ɡ é/e + |
-| Tiranige-4544_grassherbs-1 | Tiranige | 4544_grassherbs | bélŋge_ | b é/e l ŋ ɡ e + |
-| Tiranige-4981_horse-1 | Tiranige | 4981_horse | sóɲóní_ | s ó/o ɲ/ɲ ó/o n í/i + |
-| Tiranige-5884_manmaleperson-1 | Tiranige | 5884_manmaleperson | ndà-báná\\-báná-gé_ | n d à/a b á/a n á/a b á/a n á/a ɡ é/e + |
-| Tiranige-596_herdertakeanimalstopasture-1 | Tiranige | 596_herdertakeanimalstopasture | gíró_ | ɡ í/i r ó/o + |
-| Tiranige-6439_oldperson-1 | Tiranige | 6439_oldperson | ndà-báy_ | n d à/a b á/a j + |
-| Tiranige-9577_womanfemaleperson-1 | Tiranige | 9577_womanfemaleperson | ndà-yé:\\-yé:-gé_ | n d à/a j éː/eː j éː/eː ɡ é/e + |
-| Tiranige-9697_young-1 | Tiranige | 9697_young | sɛ́gɛ́_ | s ɛ́/ɛ ɡ ɛ́/ɛ + |
-| TommoSoTongoTongo-1446_youngherdersfavoritelivestockanimalkeptapartfromherd-1 | TommoSoTongoTongo | 1446_youngherdersfavoritelivestockanimalkeptapartfromherd | [X]_dínnú | + d í/i n n ú/u |
-| TommoSoTongoTongo-2552_boy-1 | TommoSoTongoTongo | 2552_boy | àn-nà-ý_\\_ànà_úlùm | à/a n n à/a j́/j + + à/a n à/a + ú/u l ù/u m |
-| TommoSoTongoTongo-2941_child-1 | TommoSoTongoTongo | 2941_child | íí_\\_úlùm | íː/iː + + ú/u l ù/u m |
-| TommoSoTongoTongo-4397_girl-1 | TommoSoTongoTongo | 4397_girl | ì-yà-ý_\\_yàà_úlùm | ì/i j à/a j́/j + + j àː/aː + ú/u l ù/u m |
-| TommoSoTongoTongo-6452_olderoftwoyoungchildrenchildaround23yearsoldthatamothermustcareforwhilealsotakingcareofababy-1 | TommoSoTongoTongo | 6452_olderoftwoyoungchildrenchildaround23yearsoldthatamothermustcareforwhilealsotakingcareofababy | ɔ́rɔ́_\\_ɔ́rɔ́-m | ɔ́/ɔ r ɔ́/ɔ + + ɔ́/ɔ r ɔ́/ɔ m |
-| TomoKanDiangassagou-3769_egg-1 | TomoKanDiangassagou | 3769_egg | tá-w_ | t á/a w + |
-| TomoKanDiangassagou-4981_horse-1 | TomoKanDiangassagou | 4981_horse | sò-wⁿ_ | s ò/o w̃ + |
-| TomoKanDiangassagou-6706_pig-1 | TomoKanDiangassagou | 6706_pig | tó-ẃ_ | t ó/o ẃ/w + |
-| TomoKanDiangassagou-9577_womanfemaleperson-1 | TomoKanDiangassagou | 9577_womanfemaleperson | ɲò-wⁿ_ | ɲ/ɲ ò/o w̃ + |
-| TomoKanDiangassagou-9699_youngadolescentwomannotyetamother-1 | TomoKanDiangassagou | 9699_youngadolescentwomannotyetamother | ʔɲ̀ɲò-ẁⁿ_ | ʔ ɲ̀/ɲ ɲ/ɲ ò/o w̃̀/w̃ + |
-| TomoKanSegue-3357_cutthroatofanimalslaughter-1 | TomoKanSegue | 3357_cutthroatofanimalslaughter | [X_kɔ́lɔ́]_cɛ̀ʔɛ́ | + k ɔ́/ɔ l ɔ́/ɔ + tʃ ɛ̀/ɛ ʔ ɛ́/ɛ |
-| TomoKanSegue-3769_egg-1 | TomoKanSegue | 3769_egg | tá-w_ | t á/a w + |
-| TomoKanSegue-4371_getoldageverb-1 | TomoKanSegue | 4371_getoldageverb | pyɛ́:ⁿ_ | p j ɛ̃́ː/ɛː + |
-| TomoKanSegue-4688_harnesshitchupdonkeyoroxtocart-1 | TomoKanSegue | 4688_harnesshitchupdonkeyoroxtocart | gɔ̀ʔɔ̀rì_ | ɡ ɔ̀/ɔ ʔ ɔ̀/ɔ r ì/i + |
-| TomoKanSegue-4981_horse-1 | TomoKanSegue | 4981_horse | sɔ̀-wⁿ_ | s ɔ̀/ɔ w̃ + |
-| TomoKanSegue-5884_manmaleperson-1 | TomoKanSegue | 5884_manmaleperson | ʔà:wⁿ_ | ʔ àː/aː w̃ + |
-| TomoKanSegue-6706_pig-1 | TomoKanSegue | 6706_pig | tó-ẃ_ | t ó/o ẃ/w + |
-| TomoKanSegue-9577_womanfemaleperson-1 | TomoKanSegue | 9577_womanfemaleperson | ɲɔ̀wⁿ_ | ɲ/ɲ ɔ̀/ɔ w̃ + |
-| ToroTegu-1400_womanhaveanabortion-1 | ToroTegu | 1400_womanhaveanabortion | [..._púrò]_yⁿǎm\\yⁿàwⁿá | + p ú/u r ò/o + j̃ ǎ/a m j̃ à/a w̃ á/a |
-| ToroTegu-4371_getoldageverb-1 | ToroTegu | 4371_getoldageverb | yɔ̌w\\yɔ̀wɔ́_=_yɔ̌: | j ɔ̌/ɔ w j ɔ̀/ɔ w ɔ́/ɔ + + j ɔ̌ː/ɔː |
-| YandaDom-2941_child-1 | YandaDom | 2941_child | ènè\\èné_ | è/e n è/e è/e n é/e + |
-| YandaDom-6661_personhumanbeing-1 | YandaDom | 6661_personhumanbeing | nò\\nò-mó_ | n ò/o n ò/o m ó/o + |
-| YandaDom-9577_womanfemaleperson-1 | YandaDom | 9577_womanfemaleperson | yɛ̀\\yɛ̀-mù_ | j ɛ̀/ɛ j ɛ̀/ɛ m ù/u + |
-| YornoSo-1446_youngherdersfavoritelivestockanimalkeptapartfromherd-1 | YornoSo | 1446_youngherdersfavoritelivestockanimalkeptapartfromherd | X-dínù_ | d í/i n ù/u + |
-| YornoSo-2734_byoneselfadverb-1 | YornoSo | 2734_byoneselfadverb | [kû:_X]_lè | k ûː/uː + + l è/e |
+| TebulUre-5941_mealtobreakafastinramadan-1 | TebulUre | 5941_mealtobreakafastinramadan | m̀bù-_zà | m̀/m b ù/u + + z à/a |
+| TebulUre-7255_resuscitatebringbacktolifecorpse-1 | TebulUre | 7255_resuscitatebringbacktolifecorpse | bí-bílɛ́_tá-_ | b í/i + b í/i l ɛ́/ɛ + t á/a + |
+| TebulUre-8880_togunacentralmenspalaverpowwowshedinvillageorneighbhorhood-1 | TebulUre | 8880_togunacentralmenspalaverpowwowshedinvillageorneighbhorhood | tògù-_dɛ́-ŋgɛ́ | t ò/o ɡ ù/u + + d ɛ́/ɛ + ŋ ɡ ɛ́/ɛ |
+| TebulUre-9358_waterjarshardforcarryingembers-1 | TebulUre | 9358_waterjarshardforcarryingembers | gò:-_ | ɡ òː/oː + |
+| TebulUre-9679_yawnverbonly-1 | TebulUre | 9679_yawnverbonly | nɔ́:rⁿ-í:-_ | n ɔ́ː/ɔː r̃ + íː/iː + |
+| Tiranige-2473_blinkoneseyes-1 | Tiranige | 2473_blinkoneseyes | jíró_-_kán | dʒ í/i r ó/o + + + k á/a n |
+| Tiranige-2474_blinkingnoun-1 | Tiranige | 2474_blinkingnoun | jíró_- | dʒ í/i r ó/o + |
+| TogoKan-1170_sickoroldpersonoranimalbeneartheendegbedriddenwithaterminalillness-1 | TogoKan | 1170_sickoroldpersonoranimalbeneartheendegbedriddenwithaterminalillness | kìrⁿì-_dɔ̌: | k ì/i r̃ ì/i + + d ɔ̌ː/ɔː |
+| TogoKan-2682_buildajamsaystyleconicalroofforagranary-1 | TogoKan | 2682_buildajamsaystyleconicalroofforagranary | gɔ̀:-_tɛ́: | ɡ ɔ̀ː/ɔː + + t ɛ́ː/ɛː |
+| TogoKan-4587_groundlevelgranarybuiltlikeanormalhousenotonaraisedplatform-1 | TogoKan | 4587_groundlevelgranarybuiltlikeanormalhousenotonaraisedplatform | gɔ̀:_-dàŋá | ɡ ɔ̀ː/ɔː + + d à/a ŋ á/a |
+| TogoKan-5941_mealtobreakafastinramadan-1 | TogoKan | 5941_mealtobreakafastinramadan | kàⁿ-_ɲá: | k ã̀/a + + ɲ/ɲ áː/aː |
+| TommoSoTongoTongo-2734_byoneselfadverb-1 | TommoSoTongoTongo | 2734_byoneselfadverb | kúú_X-mɔ_le | k úː/uː + + m ɔ + l e |
+| TommoSoTongoTongo-5408_largehidesackespofbellasformilletgrainlessoftencassavaetccarriedbyanimals-1 | TommoSoTongoTongo | 5408_largehidesackespofbellasformilletgrainlessoftencassavaetccarriedbyanimals | ̀_bálàlù | + b á/a l à/a l ù/u |
+| TommoSoTongoTongo-5631_liver-1 | TommoSoTongoTongo | 5631_liver | ̀_kíndɛ́ | + k í/i n d ɛ́/ɛ |
+| TommoSoTongoTongo-9657_wrapwomansgarment-1 | TommoSoTongoTongo | 9657_wrapwomansgarment | ̀_jíbú | + dʒ í/i b ú/u |
+| TomoKanDiangassagou-9189_veinbloodvessel-1 | TomoKanDiangassagou | 9189_veinbloodvessel | nì:-_ | n ìː/iː + |
+| TomoKanSegue-5030_hungry-1 | TomoKanSegue | 5030_hungry | _jà"_kɔ́ | dʒ à/a <s> <<">> </s> + k ɔ́/ɔ |
+| TomoKanSegue-8920_trackstrailofpawprintsegofanimal-1 | TomoKanSegue | 8920_trackstrailofpawprintsegofanimal | nɔ̌: | n ɔ <s> <<̌>> </s> <s> ː </s> |
+| ToroTegu-4977_horizontalwoodenslaboverdoorway-1 | ToroTegu | 4977_horizontalwoodenslaboverdoorway | kà-_bèrè | k à/a + + b è/e r è/e |
+| ToroTegu-5135_indexfingerforefinger-1 | ToroTegu | 5135_indexfingerforefinger | lɔ̀-_kásétè | l ɔ̀/ɔ + + k á/a s é/e t è/e |
+| ToroTegu-5629_littletoe-1 | ToroTegu | 5629_littletoe | kùwɔ̀-_dùŋěy | k ù/u w ɔ̀/ɔ + + d ù/u ŋ ě/e j |
+| ToroTegu-6026_middlefingermiddletoe-1 | ToroTegu | 6026_middlefingermiddletoe | lɔ̀-_bɛ̀l-célá | l ɔ̀/ɔ + + b ɛ̀/ɛ l + tʃ é/e l á/a |
+| ToroTegu-6733_pinkyfinger-1 | ToroTegu | 6733_pinkyfinger | lɔ̀-_dùŋěy | l ɔ̀/ɔ + + d ù/u ŋ ě/e j |
+| ToroTegu-8857_tinycottonclothbagusedbyoldpeopletosavecoins-1 | ToroTegu | 8857_tinycottonclothbagusedbyoldpeopletosavecoins | "cinquante-six"_bɔ̀tɔ̀_ | <s> <<">> </s> tʃ i n q u/u a n t e + s i x <s> <<">> </s> + b ɔ̀/ɔ t ɔ̀/ɔ |
+| YandaDom-2873_causetokneel-1 | YandaDom | 2873_causetokneel | ̀̌tú:-ndɛ́ | <s> <<̌>> </s> t úː/uː + n d ɛ́/ɛ |
+| YandaDom-3613_doubleormultiplemilletgrainspikeonthesamestemaftertheoriginalspikehasgraduallysplit-1 | YandaDom | 3613_doubleormultiplemilletgrainspikeonthesamestemaftertheoriginalspikehasgraduallysplit | yù:_-kálè | j ùː/uː + + k á/a l è/e |
+| YornoSo-2202_behungry-1 | YornoSo | 2202_behungry | gɛ̌:_X-ỳ_á: | ɡ ɛ̌ː/ɛː + + j̀/j + áː/aː |
+| YornoSo-2207_beindeaththroesflailaroundasoneisdying-1 | YornoSo | 2207_beindeaththroesflailaroundasoneisdying | yìm-_píríg-ɛ́:- | j ì/i m + + p í/i r í/i ɡ + ɛ́ː/ɛː |
+| YornoSo-3583_dospotsowingduringtheweedingseason-1 | YornoSo | 3583_dospotsowingduringtheweedingseason | tòy-_dàŋá-rá | t ò/o j + + d à/a ŋ á/a + r á/a |
+| YornoSo-3626_drainfromtoiletintostreet-1 | YornoSo | 3626_drainfromtoiletintostreet | dì:-_bònɔ́ | d ìː/iː + + b ò/o n ɔ́/ɔ |
+| YornoSo-3771_eggyolkyellow-1 | YornoSo | 3771_eggyolkyellow | tàl_-kɔ̌l | t à/a l + + k ɔ̌/ɔ l |
+| YornoSo-6554_oversowresowhereandthereseedswherethefirstseedssowndidnotsproutasaseparateactivitybeforethefirstweedingperiod-1 | YornoSo | 6554_oversowresowhereandthereseedswherethefirstseedssowndidnotsproutasaseparateactivitybeforethefirstweedingperiod | dàŋá-rá́ | d à/a ŋ á/a + r á/a <s> <<́>> </s> |
+| YornoSo-6555_oversowresowhereandthereverbonly-1 | YornoSo | 6555_oversowresowhereandthereverbonly | dàŋá-rá́- | d à/a ŋ á/a + r á/a <s> <<́>> </s> |
+| YornoSo-7609_settledownsettleinsw-1 | YornoSo | 7609_settledownsettleinsw | dàyⁿ-ɛ́: | d à/a j <s> <<ⁿ>> </s> + ɛ́ː/ɛː |
+| YornoSo-7750_shuteyes-1 | YornoSo | 7750_shuteyes | gìrì-ý:_kúm-ɛ́:- | ɡ ì/i r ì/i + j́/j <s> ː </s> + k ú/u m + ɛ́ː/ɛː |
+| YornoSo-7775_sievewithlargeholesforseparatingofflargegrainbits-1 | YornoSo | 7775_sievewithlargeholesforseparatingofflargegrainbits | tɛ̀mɛ̀_-dùgù | t ɛ̀/ɛ m ɛ̀/ɛ + + d ù/u ɡ ù/u |
+| YornoSo-7825_sitsitdown-1 | YornoSo | 7825_sitsitdown | dàyⁿ-ɛ́: | d à/a j <s> <<ⁿ>> </s> + ɛ́ː/ɛː |
+| YornoSo-7828_sittingstillintensifier-1 | YornoSo | 7828_sittingstillintensifier | dɔ́m-dɔ́m_dàyⁿ-ɛ́: | d ɔ́/ɔ m + d ɔ́/ɔ m + d à/a j <s> <<ⁿ>> </s> + ɛ́ː/ɛː |
+| YornoSo-7998_smallpitdugforcorpseinsidelargerfuneralpit-1 | YornoSo | 7998_smallpitdugforcorpseinsidelargerfuneralpit | ɔ̀:ⁿ-_î: | ɔ̃̀ː/ɔ̃ː + + îː/iː |
 
 (100 rows)
 
