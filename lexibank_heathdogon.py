@@ -47,6 +47,8 @@ class Dataset(BaseDataset):
             ("ⁿ ~ wⁿ (human)", ""),
             ("\u030ck", "k"),
             ("\u030cd", "d"),
+            ("jògù dùyé ` dónì", "jògù dùyé dónì"),
+            (" PRON ", ""),
             (' ', '_'),
             ],  # replacements with spaces
     )
@@ -108,7 +110,41 @@ class Dataset(BaseDataset):
                     entry = row[lname].replace('-', '').strip()
                     if entry and entry[0] in "([{" and entry[-1] in ")]}":
                         continue
-                    elif entry in ["ⁿ ~ wⁿ (human)", ]:
+                    elif entry in ["ⁿ ~ wⁿ (human)", 
+                            "→ (prolongation, final Htone)",
+                            ": (length, falling tone)",
+                            "[ǹdò ŋ̀gá] ... wɔ́",
+                            "(floating L) X",
+                            "[kú ôm] X wǒ",
+                            "[ú yà→] [bírɛ́ yà→], [bìrɛ̀ wó] pǒ:",
+                            "[bɛ̀nnà: íŋ]̀ nì:",
+                            "X yà Y yà",
+                            "X=: (length)",
+                            "→ (vowel prolongation, rising pitch)",
+                            " ̀(final Ltone)",
+                            "[X lè] Y tégé",
+                            "(jɛ̀mbɛ)̀ bálàlù",
+                            "(nàmà)̀ kíndɛ́",
+                            "V gɛ díɛ́", 
+                            "(sɔ̀w yàa)̀ jíbú, yàà jìbé",
+                            'sɔ̀: [kû: sɛ̀lɛ̀] [dúlɔ̀ sɛ̀lɛ̀] ("talk without a head or a tail")', 
+                            "=∴",
+                            "N",
+                            "\u0060",
+                            "\u0060(final Ltone)",
+                            "[X jɛ́ nɛ̀] X",
+                            "ADJ, ADJ=ẃ (Inan), ADJ=ŋ́ (AnSg), ADJ=yɛ́ (AnPl)",
+                            "Y [X bày] kíyɛ́",
+                            "ní: ! nì:",
+                            "hàlí ... [X là] ... (mɛ̀)",
+                            "[X dá:rú] Y sà",
+                            "{L} after Lfinal pronoun or " 
+                            "undetermined noun, {HL} after others",
+                            "mì X=:",
+                            ] or "VERB" in entry or "{L}, Astem)" in entry or \
+                                    "final Ltone" in entry or "..." in entry \
+                                    or "…" in entry or "∅" in entry or "X" in \
+                                    entry or "VERB" in entry:
                         continue
                     if entry:
                         args.writer.add_forms_from_value(
