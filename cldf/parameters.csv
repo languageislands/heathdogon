@@ -27,10 +27,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,PartOfSpeech
 26_3plallpurposealienablepossessor,(3Pl all-purpose alienable possessor),,,
 27_3plallpurposeinalienablepossessor,(3Pl all-purpose inalienable possessor),,,
 28_3plallpurposeindependentpronoun,(3Pl all-purpose independent pronoun),,,
-29_3plallpurposepossessor,(3Pl all-purpose possessor),,,
 30_3plallpurposesubjectpronominal,(3Pl all-purpose subject pronominal),,,
 33_3planimateincludinghumanpronoun,(3Pl animate [including human] pronoun),,,
-35_3planimateallpurposepossessor,(3Pl animate all-purpose possessor),,,
 36_3plhumanalienablepossessorallforms,"(3Pl human alienable possessor, all forms)",,,
 37_3plhumanallpurposepossessor,(3Pl human all-purpose possessor),,,
 38_3plhumaninalienablepossessor,(3Pl human inalienable possessor),,,
@@ -42,10 +40,8 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,PartOfSpeech
 46_3sgallpurposealienablepossessor,(3Sg all-purpose alienable possessor),,,
 47_3sgallpurposeinalienablepossessor,(3Sg all-purpose inalienable possessor),,,
 48_3sgallpurposeindependentpronoun,(3Sg all-purpose independent pronoun),,,
-49_3sgallpurposepossessor,(3Sg all-purpose possessor),,,
 50_3sgallpurposesubjectpronominal,(3Sg all-purpose subject pronominal),,,
 53_3sganimateincludinghumanpronoun,(3Sg animate [including human] pronoun),,,
-55_3sganimateallpurposepossessor,(3Sg animate all-purpose possessor),,,
 56_3sghumanalienablepossessorallforms,"(3Sg human alienable possessor, all forms)",,,
 57_3sghumanallpurposepossessor,(3Sg human all-purpose possessor),,,
 58_3sghumaninalienablepossessor,(3Sg human inalienable possessor),,,
@@ -615,7 +611,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,PartOfSpeech
 623_imampreachgiveasermon,"(imam) preach, give a sermon",304,PREACH,verb
 624_imamreadthefixedpartofasermon,(imam) read the fixed part of a sermon,,,
 625_imamreciteaprayeronthetwomajormuslimholidays,(imam) recite a prayer on the two major Muslim holidays,,,
-626_imperativepositivesgtonesvocalismforegccverb,"(imperative positive Sg: tones, vocalism for e.g. Cɛ̀Cɛ́ verb)",,,
 628_imperfectivenegativefor3sgonly,(imperfective negative for 3Sg only),,,
 629_imperfectivenegativestemfor1st2ndpersonsonly,(imperfective negative stem for 1st/2nd persons only),,,
 630_imperfectivenegativesuffixallpersons,"(imperfective negative suffix, all persons)",,,
@@ -869,7 +864,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,PartOfSpeech
 878_pondwelldryup,"(pond, well) dry up",1786,DRY UP,verb
 879_poorqualitymeatoftheconsistencyofsnot,(poor-quality meat) of the consistency of snot,,,
 880_positioninfrontlocativeadverb,(position) in front (locative adverb),2194,FRONT (PART),noun
-881_possessorcontrolledtoneoverlay,(possessor controlled tone overlay),,,
 882_pottermakegiveshapetopottery,"(potter) make, give shape to (pottery)",734,MAKE,verb
 883_presentnegativesuffix,(present negative suffix),,,
 884_presentpositivesuffixnotalsofuture,"(present positive suffix, not also future)",,,
@@ -995,7 +989,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,PartOfSpeech
 1005_sbbelyingdownononesback,(sb) be lying down on one's back,,,
 1006_sbbelyingdownononesbelly,(sb) be lying down on one's belly,,,
 1007_sbbenegligentforgetfulslowtodothings,"(sb) be negligent, forgetful, slow (to do things)",701,SLOW,adjective
-1008_sbbenutsbecrazyslang,"(sb) be nuts, be crazy (slang)",1899,MAD,adjective
 1009_sbbeparaplegiccrippledwithparalyzedlegs,"(sb) be paraplegic, crippled (with paralyzed legs)",,,
 1010_sbbepossessive,(sb) be possessive,,,
 1011_sbbeproudvain,"(sb) be proud, vain",174,PROUD,adjective
@@ -1160,7 +1153,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,PartOfSpeech
 1170_sickoroldpersonoranimalbeneartheendegbedriddenwithaterminalillness,(sick or old person or animal) be near the end (e.g. bedridden with a terminal illness),725,OLD PERSON,noun
 1171_sickorwoundedpersonrecoverrecuperategetwell,"(sick or wounded person) recover, recuperate, get well",1978,RECOVER,verb
 1172_sickpersonbeinacomatosestate,(sick person) be in a comatose state,,,
-1173_simpleperfectivepositivestemallpersons,(simple perfective positive stem [all persons]),,,
 1176_singlegrainseednut,"(single) grain, seed, nut",714,SEED,noun
 1177_situationplacebepeacefulforbewithouttroubleforsb,"(situation, place) be peaceful for, be without trouble for (sb)",,,
 1178_skinbeitchytosb,(skin) be itchy (to sb),149,ITCHY,adjective
@@ -1264,7 +1256,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,PartOfSpeech
 1276_stonewallfalloverononeside,(stone wall) fall over on one side,,,
 1277_stopstilladverbial,(stop) still (adverbial),2919,STILL (CONTINUING),other
 1278_storedgraincowpeasetcbewormeatenbedamagedbytinyinsects,"(stored grain, cow-peas, etc.) be worm-eaten, be damaged by tiny insects",,,
-1280_subjectmarkingonverballsgsubjects,"(subject marking on verb, all Sg subjects)",,,
 1281_sunbeonthecrownoftheheadaroundnoon,(sun) be on the crown of the head (around noon),,,
 1282_sunburnsbsth,"(sun) burn (sb, sth)",2102,BURN,verb
 1283_sunrise,(sun) rise,568,RISE (MOVE UPWARDS),verb
@@ -1292,7 +1283,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,PartOfSpeech
 1305_timepass,(time) pass,1951,PASS,verb
 1306_tirebepuncturedhaveaflat,"(tire) be punctured, have a flat",,,
 1307_tireballoonpop,"(tire, balloon) pop",,,
-1308_toneforagentivecompoundegbasketweavernounvverb,"(tone for agentive compound, e.g. 'basket-weaver', n[oun] v[verb])",,,
 1309_tonguestickingoutslightlyasofaretardedchildadverb,(tongue) sticking out slightly (as of a retarded child) (adverb),,,
 1310_traditionalhealerutterspellsinpublicwhilestirringpotionwithacowstail,(traditional healer) utter spells in public (while stirring potion with a cow's tail),,,
 1311_trainorbusstation,(train or bus) station,,,
@@ -1600,7 +1590,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,PartOfSpeech
 1673_acasteoftommoleatherworkersalsomakedecoratedrattlingcalabashes,a caste of Tommo leatherworkers (also make decorated rattling calabashes),,,
 1674_achildsdiseaseinvolvingsoftbulgingfontaneltopofhead,"a child's disease involving soft, bulging fontanel (top of head)",,,
 1675_achildrensdisease,a children's disease,,,
-1676_aconstellationhunterandhisdogperhapsorionpluscanismajorandorcanisminor,"a constellation (hunter and his dog), perhaps Orion plus Canis Major and/or Canis Minor",,,
 1677_adiseaseofsheepandgoats,a disease of sheep and goats,,,
 1678_adivisionoftheblacksmithcastearoundbandiagaraspecializedinmakingrifles,a division of the blacksmith caste around Bandiagara specialized in making rifles,,,
 1679_adivisionoftheblacksmithcasteintheplains,a division of the blacksmith caste in the plains,,,
@@ -4204,7 +4193,6 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,PartOfSpeech
 4282_frightenscare,"frighten, scare",2109,FEAR OR FRIGHTEN,verb
 4283_friskpatdownsb,"frisk, pat down (sb)",,,
 4284_frittersandcakesmadewithcrushedcowpeas,fritters and cakes made with crushed cow-peas,,,
-4285_fromplacetoanotherplace,"from (place, to another place)",693,FROM,other
 4286_fromnowonhenceforth,"from now on, henceforth",,,
 4287_fromtimetotimeoccasionally,"from time to time, occasionally",,,
 4288_frondleafofdoumpalmcutintostripsforweaving,frond (leaf) of doum palm (cut into strips for weaving),,,
@@ -5020,9 +5008,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,PartOfSpeech
 5100_infullsunlightintensifier,in full sunlight (intensifier),,,
 5101_ingoodconditiongoodsizedanimal,"in good condition, good-sized (animal)",,,
 5102_inordertopurposiveclausesubordinator,in order to (purposive clause subordinator),,,
-5103_inordertotonalpurposiveclausemarkedbytonesnnounvverb,"in order to (tonal purposive clause marked by tones, n[noun] v[verb])",,,
 5104_inpoorphysicalshapeadverb,in poor physical shape (adverb),,,
-5105_inspiteof,in spite of,,,
 5106_insubgroupsdividedintogroupspeopleoranimals,"in subgroups, divided into groups (people or animals)",,,
 5107_inthatcaseifthatistrue,"in that case (if that is true), ...",,,
 5108_inthatcase,"in that case, ...",,,
@@ -7514,7 +7500,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,PartOfSpeech
 7598_setcockofriflebypullingitback,"set (cock of rifle, by pulling it back)",160,SET (HEAVENLY BODIES),verb
 7599_setadateordeadline,set a date or deadline,,,
 7600_setconsistingoftwoflexiblecombsandtwofootpedalsmovedupanddownbytheweaver,set consisting of two flexible combs and two foot-pedals (moved up and down by the weaver),,,
-7601_setoffourcellsseparatedbylowmudbrickwallsinsideaspecialgranarythreeforstoringshelledcowpeasgroundnutsroselleseedsallmixedwithfinesandtokeepinsectsoffthefourthforunshelledpeanutswithoutsand,"set of four cells separated by low mud-brick walls inside a special granary, three for storing shelled cow-peas, groundnuts, roselle seeds (all mixed with fine sand to keep insects off), the fourth for unshelled peanuts (without sand)",595,GROUNDNUTS,noun
+7601_setoffourcellsseparatedbylowmudbrickwallsinsideaspecialgranarythreeforstoringshelledcowpeasgroundnutsroselleseedsallmixedwithfinesandtokeepinsectsoffthefourthforunshelledpeanutswithoutsand,"set of four cells separated by low mud-brick walls inside a special granary, three for storing shelled cow-peas, groundnuts, roselle seeds (all mixed with fine sand to keep insects off), the fourth for unshelled peanuts (without sand)",595,GROUNDNUT (PEANUT),noun
 7602_setofpeoplewholiveinthesamehousingunitwithasharedcourtyard,set of people who live in the same housing unit (with a shared courtyard),,,
 7603_setofpersonsborninthesameyear,set of persons born in the same year,,,
 7604_setofpersonsdescendedfromafairlyrecentmaleancestor,set of persons descended from a fairly recent male ancestor,,,
