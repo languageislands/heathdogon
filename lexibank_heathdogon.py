@@ -55,26 +55,18 @@ class Dataset(BaseDataset):
     
     def cmd_download(self, args):
 
-        URL = "https://github.com/clld/dogonlanguages-data/raw/master/beta/Dogon.comp.vocab.UNICODE-2017.xls"
-        self.raw_dir.download(URL, "Dogon.comp.vocab.UNICODE-2017.xls")
+        url = "https://github.com/clld/dogonlanguages-data/raw/master/beta/Dogon.comp.vocab.UNICODE-2017.xls"
+        self.raw_dir.download(url, "Dogon.comp.vocab.UNICODE-2017.xls")
         self.raw_dir.xls2csv("Dogon.comp.vocab.UNICODE-2017.xls")
-        #lexicon = self.raw_dir.read_csv("Dogon.comp.vocab.UNICODE-2017.lexicon.csv")
-        #concepts = sorted(set([(row[14], row[15], row[7], row[8], row[0]+'/'+row[1],
-        #    row[2]+'/'+row[3]) for row in lexicon]))
-        #with open(self.etc_dir.joinpath("concepts-new.tsv"), "w", encoding="utf-8") as f:
-        #    f.write("NUMBER\tENGLISH\tFRENCH\tENGLISH_SHORT\tFRENCH_SHORT\tENGLISH_CATEGORY\tFRENCH\tCATEGORY\n")
-        #    for i, row in enumerate(concepts):
-        #        f.write(str(i+1)+'\t'+'\t'.join(row)+"\n")
-        #with open(self.etc_dir.joinpath("languages-new.tsv"), "w") as f:
-        #    f.write("ID\tLANGUAGE\n")
-        #    for language in lexicon[0][17:43]:
-        #        f.write(slug(language, lowercase=False)+"\t"+language+"\n")
-
 
     def cmd_makecldf(self, args):
         """
         Convert the raw data to a CLDF dataset.
         """
+        # select IDS concept list to check for concepts to be added
+        ids = {c.concepticon_gloss for c in
+                self.concepticon.conceptlists["Key-2016-1310"].concepts.values() if
+                c.concepticon_gloss}
 
         # Write source
         args.writer.add_sources()
@@ -85,7 +77,7 @@ class Dataset(BaseDataset):
         # Write concepts
         concepts = {}
         for concept in self.concepts:
-            if concept['CONCEPTICON_GLOSS'] != "THANK (SOMEBODY)":
+            if concept['CONCEPTICON_GLOSS'] in ids:
                 idx = concept['NUMBER']+'_'+slug(concept['ENGLISH'])
                 args.writer.add_concept(
                         ID=idx,
@@ -153,6 +145,4 @@ class Dataset(BaseDataset):
                                 Parameter_ID=concepts[concept.replace('"', '')],
                                 Source='heathdogon'
                                 )
-        for m in missing:
-            args.log.info("MISSING CONCEPT: {0}".format(m))
-
+        args.log.info("ignoring deliberately {0} rows".format(len(missing)))

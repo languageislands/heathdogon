@@ -1249,7 +1249,7 @@ concepts-4484	4484	go to sleep, fall asleep, sleep	dormir, s'endormir	sleep	dorm
 concepts-4489	4489	go up (a slope), climb	monter (une pente), grimper	climb, go up	grimper, monter	direction/up	direction/haut	1102	CLIMB	verb
 concepts-4490	4490	go up, rise	monter	go up, rise	monter	direction/up	direction/haut	705	GO UP (ASCEND)	verb
 concepts-4492	4492	goat	chèvre	goat	chèvre	animal/goat	animal/chèvre	1502	GOAT	noun
-concepts-4493	4493	goat kid	cabri, chevreau	goat kid	cabri, chevreau	animal/goat	animal/chèvre	1972	KID	noun
+concepts-4493	4493	goat kid	cabri, chevreau	goat kid	cabri, chevreau	animal/goat	animal/chèvre	1972	YOUNG GOAT (KID)	noun
 concepts-4496	4496	going out, end (of a season)	sortie, fin (d'une saison)	go out, end	sortie, fin	motion/exit	mouvement/sortir	1107	GO OUT	verb
 concepts-4497	4497	goiter (swollen thyroid due to iodine deficiency)	goitre (thyroïde gonflée due à l'insuffisance d'iode)	goiter	goitre	medicine/internal condition	médecine/maladie interne	1957	GOITER	noun
 concepts-4498	4498	gold	or (métal)	gold	or	metal/gold	métal/or	1369	GOLD	noun
