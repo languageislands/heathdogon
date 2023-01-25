@@ -9,6 +9,7 @@ import attr
 @attr.s
 class CustomConcept(Concept):
     PartOfSpeech = attr.ib(default=None)
+    Swadesh = attr.ib(default=None)
 
 
 @attr.s
@@ -67,6 +68,10 @@ class Dataset(BaseDataset):
         ids = {c.concepticon_gloss for c in
                 self.concepticon.conceptlists["Key-2016-1310"].concepts.values() if
                 c.concepticon_gloss}
+        # select only swadesh 207 terms (Comrie's list combining Swadesh 100
+        # and Swadesh 200)
+        swadesh = {c.concepticon_gloss for c in 
+                   self.concepticon.conceptlists["Comrie-1977-207"].concepts.values()}
 
         # Write source
         args.writer.add_sources()
@@ -79,12 +84,17 @@ class Dataset(BaseDataset):
         for concept in self.concepts:
             if concept['CONCEPTICON_GLOSS'] in ids:
                 idx = concept['NUMBER']+'_'+slug(concept['ENGLISH'])
+                if concept["CONCEPTICON_GLOSS"] in swadesh:
+                    swad = "1"
+                else:
+                    swad = "0"
                 args.writer.add_concept(
                         ID=idx,
                         Name=concept['ENGLISH'],
                         PartOfSpeech=concept['POS'],
                         Concepticon_ID=concept["CONCEPTICON_ID"],
-                        Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
+                        Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
+                        Swadesh=swad
                         )
                 concepts[concept['ENGLISH'].replace('"', '')] = idx
 

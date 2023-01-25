@@ -12,13 +12,13 @@
         {
             "rdf:about": "https://github.com/languageislands/heathdogon",
             "rdf:type": "prov:Entity",
-            "dc:created": "e787a90",
+            "dc:created": "52debf0",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.6",
+            "dc:created": "v4.7",
             "dc:title": "Glottolog"
         },
         {
@@ -41,7 +41,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.9"
+            "dc:description": "3.9.16"
         },
         {
             "dc:title": "python-packages",
@@ -257,6 +257,10 @@
                     {
                         "datatype": "string",
                         "name": "PartOfSpeech"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "Swadesh"
                     }
                 ],
                 "primaryKey": [
