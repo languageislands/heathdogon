@@ -13,21 +13,21 @@ If you use these data please cite
 ## Statistics
 
 
-![Glottolog: 89%](https://img.shields.io/badge/Glottolog-89%25-yellowgreen.svg "Glottolog: 89%")
+![Glottolog: 88%](https://img.shields.io/badge/Glottolog-88%25-yellowgreen.svg "Glottolog: 88%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 25
+- **Varieties:** 24
 - **Concepts:** 944
-- **Lexemes:** 16,120
+- **Lexemes:** 15,262
 - **Sources:** 1
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
-- **Tokens:** 81,061
-- **Segments:** 212 (0 BIPA errors, 0 CLTS sound class errors, 210 CLTS modified)
-- **Inventory size (avg):** 85.04
+- **Tokens:** 76,972
+- **Segments:** 208 (0 BIPA errors, 0 CLTS sound class errors, 206 CLTS modified)
+- **Inventory size (avg):** 86.92
 
 # Contributors
 
