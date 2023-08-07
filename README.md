@@ -1,4 +1,4 @@
-# CLDF dataset derived from Heath, Jeffrey, Laura McPherson, Kirill Prokhorov and Steven Moran's "Dogon Comparative Wordlist" from 2015
+# CLDF dataset derived from Heath et al's "Dogon Comparative Wordlist" from 2015
 
 ## How to cite
 
