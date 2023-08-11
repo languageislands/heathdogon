@@ -12,13 +12,13 @@
         {
             "rdf:about": "https://github.com/languageislands/heathdogon",
             "rdf:type": "prov:Entity",
-            "dc:created": "3229075",
+            "dc:created": "45c9fd4",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.7",
+            "dc:created": "v4.8",
             "dc:title": "Glottolog"
         },
         {
