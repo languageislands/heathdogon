@@ -10,6 +10,7 @@ import attr
 class CustomConcept(Concept):
     PartOfSpeech = attr.ib(default=None)
     Swadesh = attr.ib(default=None)
+    IDS_Gloss = attr.ib(default=None)
 
 
 @attr.s
@@ -65,7 +66,7 @@ class Dataset(BaseDataset):
         Convert the raw data to a CLDF dataset.
         """
         # select IDS concept list to check for concepts to be added
-        ids = {c.concepticon_gloss for c in
+        ids = {c.concepticon_gloss: c.english for c in
                 self.concepticon.conceptlists["Key-2016-1310"].concepts.values() if
                 c.concepticon_gloss}
         # select only swadesh 207 terms (Comrie's list combining Swadesh 100
@@ -94,7 +95,8 @@ class Dataset(BaseDataset):
                         PartOfSpeech=concept['POS'],
                         Concepticon_ID=concept["CONCEPTICON_ID"],
                         Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
-                        Swadesh=swad
+                        Swadesh=swad,
+                        IDS_Gloss=ids[concept["CONCEPTICON_GLOSS"]]
                         )
                 concepts[concept['ENGLISH'].replace('"', '')] = idx
 

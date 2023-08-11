@@ -1,18 +1,18 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Heath, Jeffrey, Laura McPherson, Kirill Prokhorov and Steven Moran 2015. Dogon Comparative Wordlist. http://cdstar.shh.mpg.de/bitstreams/EAEA0-C97A-A1D2-2E76-0/a.xls",
+    "dc:bibliographicCitation": "Moran, Steven & Forkel, Robert & Heath, Jeffrey (eds.) 2016. Dogon and Bangime Linguistics. Jena: Max Planck Institute for the Science of Human History. (Available online at http://dogonlanguages.org, Accessed on 2023-08-10.)",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:isVersionOf": null,
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dc:title": "CLDF dataset derived from Heath et al's \"Dogon Comparative Wordlist\" from 2015",
+    "dc:title": "CLDF dataset derived from Heath et al's \"Dogon Comparative Wordlist\" from 2016",
     "dcat:accessURL": "https://github.com/languageislands/heathdogon",
     "prov:wasDerivedFrom": [
         {
             "rdf:about": "https://github.com/languageislands/heathdogon",
             "rdf:type": "prov:Entity",
-            "dc:created": "51135d1",
+            "dc:created": "3229075",
             "dc:title": "Repository"
         },
         {
@@ -261,6 +261,10 @@
                     {
                         "datatype": "string",
                         "name": "Swadesh"
+                    },
+                    {
+                        "datatype": "string",
+                        "name": "IDS_Gloss"
                     }
                 ],
                 "primaryKey": [

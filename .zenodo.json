@@ -1,5 +1,5 @@
 {
-    "title": "CLDF dataset derived from Heath et al's \"Dogon Comparative Wordlist\" from 2015",
+    "title": "CLDF dataset derived from Heath et al's \"Dogon Comparative Wordlist\" from 2016",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -35,5 +35,5 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Heath, Jeffrey, Laura McPherson, Kirill Prokhorov and Steven Moran 2015. Dogon Comparative Wordlist. http://cdstar.shh.mpg.de/bitstreams/EAEA0-C97A-A1D2-2E76-0/a.xls</p>\n</blockquote>"
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Moran, Steven &amp; Forkel, Robert &amp; Heath, Jeffrey (eds.) 2016. Dogon and Bangime Linguistics. Jena: Max Planck Institute for the Science of Human History. (Available online at http://dogonlanguages.org, Accessed on 2023-08-10.)</p>\n</blockquote>"
 }

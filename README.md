@@ -1,10 +1,10 @@
-# CLDF dataset derived from Heath et al's "Dogon Comparative Wordlist" from 2015
+# CLDF dataset derived from Heath et al's "Dogon Comparative Wordlist" from 2016
 
 ## How to cite
 
 If you use these data please cite
 - the original source
-  > Heath, Jeffrey, Laura McPherson, Kirill Prokhorov and Steven Moran 2015. Dogon Comparative Wordlist. http://cdstar.shh.mpg.de/bitstreams/EAEA0-C97A-A1D2-2E76-0/a.xls
+  > Moran, Steven & Forkel, Robert & Heath, Jeffrey (eds.) 2016. Dogon and Bangime Linguistics. Jena: Max Planck Institute for the Science of Human History. (Available online at http://dogonlanguages.org, Accessed on 2023-08-10.)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
