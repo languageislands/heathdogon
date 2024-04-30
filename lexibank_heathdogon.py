@@ -1,6 +1,6 @@
 from pathlib import Path
 from clldutils.misc import slug
-from pylexibank import FormSpec, Lexeme, Concept, Language
+from pylexibank import FormSpec, Lexeme, Concept, Language, Lexeme
 from pylexibank import Dataset as BaseDataset
 from pylexibank import progressbar
 from lingpy import *
@@ -19,11 +19,29 @@ class CustomLanguage(Language):
     NameInSource = attr.ib(default=None)
 
 
+@attr.s
+class CustomLexeme(Lexeme):
+    Grouped_Segments = attr.ib(
+            default=None,
+            metadata={"datatype": "string", "separator": " "}
+            )
+
+def ungroup(sounds):
+    out = []
+    for segment in sounds:
+        if "." in segment:
+            out += segment.split(".")
+        else:
+            out += [segment]
+    return out
+
+
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "heathdogon"
     language_class = CustomLanguage
     concept_class = CustomConcept
+    lexeme_class = CustomLexeme
     # define the way in which forms should be handled
     form_spec = FormSpec(
         brackets={"(": ")", "[": "]"},  # characters that function as brackets
@@ -151,10 +169,33 @@ class Dataset(BaseDataset):
                                     entry or "VERB" in entry:
                         continue
                     if entry:
-                        args.writer.add_forms_from_value(
-                                Value=entry,
-                                Language_ID=lid,
-                                Parameter_ID=concepts[concept.replace('"', '')],
-                                Source='heathdogon'
-                                )
+                        if entry in self.lexemes:
+                            entry = self.lexemes[entry]
+                        form = self.form_spec.split(
+                                self.form_spec.separators,
+                                entry)
+                        if form:
+                            form = form[0]
+                            form = self.form_spec.clean(form)
+                            for s, t in self.form_spec.replacements:
+                                form = form.replace(s, t)
+                            segments = self.tokenizer(None, form)
+                            args.writer.add_form_with_segments(
+                                    Language_ID=lid,
+                                    Parameter_ID=concepts[concept.replace('"',
+                                                                          '')],
+                                    Value=entry,
+                                    Form=form,
+                                    Segments=ungroup(segments),
+                                    Grouped_Segments=segments,
+                                    Source="heathdogon")
+
+                        #for lex in args.writer.add_forms_from_value(
+                        #        Value=entry,
+                        #        Language_ID=lid,
+                        #        Parameter_ID=concepts[concept.replace('"', '')],
+                        #        Source='heathdogon'
+                        #        ):
+                        #    lex["Grouped_Segments"] = lex["Segments"]
+                        #    lex["Segments"] = ungroup(lex["Segments"])
         args.log.info("ignoring deliberately {0} rows".format(len(missing)))
