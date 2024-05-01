@@ -108,7 +108,7 @@ class Dataset(BaseDataset):
         language_mapper = {
                 "BonduSoNajamba": "Najamba",
                 "JamsayGourou": "Gourou",
-                "TiranigeBuoi": "Tiranige",
+                "TiranigeBoui": "Tiranige",
                 "TiranigeNingo": "Tiranige",
                 }
 
@@ -120,16 +120,13 @@ class Dataset(BaseDataset):
             elif row["FORM"]:
                 form = normalize("NFD", row["FORM"]).replace("-", "")
             else:
-                args.log.info("No form found in linne {0} (ID: {1})".format(
+                args.log.info("No form found in line {0} (ID: {1})".format(
                     i, row["ID"]))
                 form = ""
-            manual[
-                    language_mapper.get(
-                        row["DOCULECT"], 
-                        row["DOCULECT"]),
-                    row["GLOSS"], 
-                    form
-                    ] = row
+            lng = language_mapper.get(row["DOCULECT"], row["DOCULECT"])
+            manual[lng, row["GLOSS"], form] = row
+            manual[lng, row["GLOSS"], 
+                   normalize("NFD", row["VALUE_ORG"]).replace("-", "")] = row
 
         # Write concepts
         concepts = {}
@@ -224,7 +221,10 @@ class Dataset(BaseDataset):
                             simple_form = normalize(
                                     "NFD", form.replace("-", "").replace("_", " "))
                             if (lid, concept, simple_form) not in manual:
-                                missing_values.add((lid, concept, simple_form))
+                                if (lid, concept, entry) not in manual:
+                                    missing_values.add((lid, concept,
+                                                        simple_form,
+                                                        entry.replace("-", "")))
 
                             args.writer.add_form_with_segments(
                                     Language_ID=lid,
@@ -234,7 +234,8 @@ class Dataset(BaseDataset):
                                     Form=form,
                                     Segments=ungroup(segments),
                                     Grouped_Segments=segments,
-                                    Source="heathdogon")
+                                    Source="heathdogon"
+                                    )
 
                         #for lex in args.writer.add_forms_from_value(
                         #        Value=entry,
@@ -245,6 +246,6 @@ class Dataset(BaseDataset):
                         #    lex["Grouped_Segments"] = lex["Segments"]
                         #    lex["Segments"] = ungroup(lex["Segments"])
         args.log.info("ignoring deliberately {0} rows".format(len(missing)))
-        for a, b, c in missing_values:
-            print(a, b, c)
+        for a, b, c, d in missing_values:
+            print(a, b, c, d)
         print(len(missing_values))
