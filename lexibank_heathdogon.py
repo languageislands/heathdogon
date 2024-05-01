@@ -26,9 +26,31 @@ class CustomLexeme(Lexeme):
             default=None,
             metadata={"datatype": "string", "separator": " "}
             )
+    Grouped_Plural_Segments = attr.ib(
+            default=None,
+            metadata={"datatype": "string", "separator": " "})
+    Plural_Segments = attr.ib(
+            default=None,
+            metadata={"datatype": "string", "separator": " "})
+    Plural_Form = attr.ib(
+            default=None)
     Dialect = attr.ib(default=None)
-    Numerus = attr.ib(default=None)
-    Lexeme_ID = attr.ib(default=None)
+
+
+def get_forms(entry, dataset):
+    forms = dataset.form_spec.split(
+            dataset.form_spec.separators,
+            entry)
+    for form in forms:
+        form = dataset.form_spec.clean(form)
+        for s, t in dataset.form_spec.replacements:
+            form = form.replace(s, t)
+        segments = dataset.tokenizer({}, form)
+        yield (form, segments)
+
+
+def get_form(form, dataset):
+    return list(get_forms(form, dataset))[0]
 
 
 def ungroup(sounds):
@@ -153,6 +175,9 @@ class Dataset(BaseDataset):
                 dicts=True)
         missing = set()
         missing_values = set()
+        visited = set()
+        double_entries = set()
+        missing_plurals = 0
         for row in progressbar(lexicon, desc="cldfify"):
             concept = row["English"].replace('"', '')
             if concept not in concepts:
@@ -202,16 +227,17 @@ class Dataset(BaseDataset):
                     if entry:
                         if entry in self.lexemes:
                             entry = self.lexemes[entry]
-                        forms = self.form_spec.split(
-                                self.form_spec.separators,
-                                entry)
-                        if forms:
-                            form = forms[0]
-                            form = self.form_spec.clean(form)
-                            for s, t in self.form_spec.replacements:
-                                form = form.replace(s, t)
-                            segments = self.tokenizer({}, form)
-                            variety = ""
+                        for form, segments in get_forms(entry, self):
+
+                            #forms = self.form_spec.split(
+                            #        self.form_spec.separators,
+                            #        entry)
+                            #for form in forms:
+                            #    form = self.form_spec.clean(form)
+                            #    for s, t in self.form_spec.replacements:
+                            #        form = form.replace(s, t)
+                            #    segments = self.tokenizer({}, form)
+                            #    variety = ""
                             if "Boui" in entry:
                                 variety = "Boui"
                             elif "Ningo" in entry:
@@ -220,22 +246,60 @@ class Dataset(BaseDataset):
                             # check for match in the manually edited file
                             simple_form = normalize(
                                     "NFD", form.replace("-", "").replace("_", " "))
-                            if (lid, concept, simple_form) not in manual:
-                                if (lid, concept, entry) not in manual:
-                                    missing_values.add((lid, concept,
-                                                        simple_form,
-                                                        entry.replace("-", "")))
+                            manual_data = manual.get((lid, concept,
+                                                      simple_form))
+                            if not manual_data:
+                                simple_form = entry
+                                manual_data = manual.get((lid, concept,
+                                                          simple_form))
+                            if manual_data:
+                                if (lid, concept, simple_form) not in visited:
+                                    visited.add((lid, concept, simple_form))
+                                    plurals = ['', []]
+                                    if manual_data["SINGULAR"].strip():
+                                        new_form, new_segments = get_form(
+                                                manual_data["SINGULAR"],
+                                                self)
+                                        try:
+                                            plurals = get_form(
+                                                    manual_data["PLURAL"],
+                                                    self)
+                                        except:
+                                            missing_plurals += 1
+                                    elif manual_data["PARSED FORM"].strip():
+                                        new_form, new_segments = get_form(
+                                                manual_data["PARSED FORM"].strip(),
+                                                self)
+                                    elif manual_data["FORM"].strip() and manual_data["FORM"].strip() != "?":
+                                        new_form, new_segments = get_form(
+                                                manual_data["FORM"],
+                                                self)
+    
+                                    else:
+                                        new_form, new_segments = form, segments
+                                # if (lid, concept, simple_form) not in manual:
+                                #     if (lid, concept, entry) not in manual:
+                                #         missing_values.add((lid, concept,
+                                #                             simple_form,
+                                #                             entry.replace("-", "")))
 
-                            args.writer.add_form_with_segments(
-                                    Language_ID=lid,
-                                    Parameter_ID=concepts[concept.replace('"',
-                                                                          '')],
-                                    Value=entry,
-                                    Form=form,
-                                    Segments=ungroup(segments),
-                                    Grouped_Segments=segments,
-                                    Source="heathdogon"
-                                    )
+                                    args.writer.add_form_with_segments(
+                                            Language_ID=lid,
+                                            Parameter_ID=concepts[concept.replace('"', '')],
+                                            Value=entry,
+                                            Form=new_form,
+                                            Segments=ungroup(new_segments),
+                                            Grouped_Segments=new_segments,
+                                            Plural_Form=plurals[0],
+                                            Plural_Segments=ungroup(plurals[1]),
+                                            Grouped_Plural_Segments=plurals[1],
+                                            Source="heathdogon"
+                                            )
+                                else:
+                                    double_entries.add((lid, concept, simple_form))
+                            else:
+                                if simple_form != "XXX":
+                                    missing_values.add((lid, concept, simple_form))
 
                         #for lex in args.writer.add_forms_from_value(
                         #        Value=entry,
@@ -246,6 +310,10 @@ class Dataset(BaseDataset):
                         #    lex["Grouped_Segments"] = lex["Segments"]
                         #    lex["Segments"] = ungroup(lex["Segments"])
         args.log.info("ignoring deliberately {0} rows".format(len(missing)))
-        for a, b, c, d in missing_values:
-            print(a, b, c, d)
+        for a, b, c in missing_values:
+            print(a, b, c)
         print(len(missing_values))
+        for a, b, c in double_entries:
+            print(a, b, c)
+        print(len(double_entries))
+        print(missing_plurals)
