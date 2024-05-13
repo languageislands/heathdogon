@@ -21,13 +21,13 @@ If you use these data please cite
 
 - **Varieties:** 24
 - **Concepts:** 944
-- **Lexemes:** 15,262
+- **Lexemes:** 15,251
 - **Sources:** 1
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
-- **Tokens:** 76,972
-- **Segments:** 208 (0 BIPA errors, 0 CLTS sound class errors, 206 CLTS modified)
-- **Inventory size (avg):** 86.92
+- **Tokens:** 85,379
+- **Segments:** 115 (0 BIPA errors, 0 CLTS sound class errors, 115 CLTS modified)
+- **Inventory size (avg):** 73.54
 
 # Contributors
 
