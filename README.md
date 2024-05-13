@@ -25,9 +25,9 @@ If you use these data please cite
 - **Sources:** 1
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
-- **Tokens:** 85,379
+- **Tokens:** 84,819
 - **Segments:** 115 (0 BIPA errors, 0 CLTS sound class errors, 115 CLTS modified)
-- **Inventory size (avg):** 73.54
+- **Inventory size (avg):** 74.17
 
 # Contributors
 

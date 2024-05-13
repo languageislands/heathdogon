@@ -229,15 +229,6 @@ class Dataset(BaseDataset):
                             entry = self.lexemes[entry]
                         for form, segments in get_forms(entry, self):
 
-                            #forms = self.form_spec.split(
-                            #        self.form_spec.separators,
-                            #        entry)
-                            #for form in forms:
-                            #    form = self.form_spec.clean(form)
-                            #    for s, t in self.form_spec.replacements:
-                            #        form = form.replace(s, t)
-                            #    segments = self.tokenizer({}, form)
-                            #    variety = ""
                             if "Boui" in entry:
                                 variety = "Boui"
                             elif "Ningo" in entry:
@@ -277,11 +268,6 @@ class Dataset(BaseDataset):
     
                                     else:
                                         new_form, new_segments = form, segments
-                                # if (lid, concept, simple_form) not in manual:
-                                #     if (lid, concept, entry) not in manual:
-                                #         missing_values.add((lid, concept,
-                                #                             simple_form,
-                                #                             entry.replace("-", "")))
 
                                     args.writer.add_form_with_segments(
                                             Language_ID=lid,
@@ -301,19 +287,11 @@ class Dataset(BaseDataset):
                                 if simple_form != "XXX":
                                     missing_values.add((lid, concept, simple_form))
 
-                        #for lex in args.writer.add_forms_from_value(
-                        #        Value=entry,
-                        #        Language_ID=lid,
-                        #        Parameter_ID=concepts[concept.replace('"', '')],
-                        #        Source='heathdogon'
-                        #        ):
-                        #    lex["Grouped_Segments"] = lex["Segments"]
-                        #    lex["Segments"] = ungroup(lex["Segments"])
         args.log.info("ignoring deliberately {0} rows".format(len(missing)))
         for a, b, c in missing_values:
-            print(a, b, c)
-        print(len(missing_values))
+            args.log.info("missing values: {0} / {1} / {2}".format(a, b, c))
+        args.log.info("there are {0} missing values".format(len(missing_values)))
         for a, b, c in double_entries:
-            print(a, b, c)
-        print(len(double_entries))
-        print(missing_plurals)
+            args.log.info("there are duplicated entries {0} / {1} / {2}".format(a, b, c))
+        args.log.info("there are {0} duplicated entries".format(len(double_entries)))
+        args.log.info("there are {0} missing plurals".format(missing_plurals))
