@@ -1,0 +1,945 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss,PartOfSpeech,Swadesh,IDS_Gloss
+3690_dust,dust,2,DUST,noun,1,dust
+3839_energeticvigorouscourageousperson,"energetic, vigorous, courageous (person)",3,BRAVE,adjective,0,brave
+4348_gatherthings,gather (things),7,GATHER,verb,0,"collect, gather"
+3323_cursesbverbonly,curse (sb) (verb only),8,CURSE,verb,0,curse
+1944_announceproclaim,"announce, proclaim",9,ANNOUNCE,verb,0,announce
+4125_firewood,firewood,10,FIREWOOD,noun,0,firewood
+3395_darkness,darkness,11,DARKNESS,noun,0,darkness
+6008_midday10am2pm,mid-day (10 AM-2 PM),12,MIDDAY,noun,0,"noon, midday"
+6010_middaynoon,"mid-day, noon",12,MIDDAY,noun,0,"noon, midday"
+9694_yokewrappedinclotharounddonkeysneckandtiedbyaropetothetwolongpolesofacart,yoke wrapped in cloth around donkey's neck and tied by a rope to the two long poles of a cart,14,YOKE,noun,0,yoke
+3953_eyelid,eyelid,17,EYELID,noun,0,eyelid
+3708_earlobe,earlobe,18,EARLOBE,noun,0,earlobe
+8665_tasteafoodetc,"taste (a food, etc.)",21,TASTE (SOMETHING),verb,0,taste
+8667_tastesthbylicking,"taste (sth, by licking)",21,TASTE (SOMETHING),verb,0,taste
+88_muslimprayverbonly,(Muslim) pray (verb only),24,PRAY,verb,0,pray
+89_muslimpraysayorperformonesprayer,"(Muslim) pray, say or perform one's prayer",24,PRAY,verb,0,pray
+1854_airegintire,air (e.g. in tire),27,AIR,noun,0,air
+1855_airatmospherethatonebreathes,"air, atmosphere (that one breathes)",27,AIR,noun,0,air
+3746_earwax,earwax,32,EARWAX,noun,0,earwax
+6936_pubichairofman,pubic hair (of man),36,PUBIC HAIR,noun,0,pubic hair
+6937_pubichairofwoman,pubic hair (of woman),36,PUBIC HAIR,noun,0,pubic hair
+662_legsbespreadbeseparated,"(legs) be spread, be separated",38,SPREAD OUT,verb,0,spread out
+8258_spreadoutfingersofhand,spread out (fingers of hand),38,SPREAD OUT,verb,0,spread out
+8260_spreadoutseparatelegsarms,"spread out, separate (legs, arms)",38,SPREAD OUT,verb,0,spread out
+1059_sbenvysbnearbywhoiseatingfoodsonecraves,(sb) envy (sb nearby who is eating foods one craves),40,ENVY,noun,0,"envy, jealousy"
+4258_foulstinkingintensifier,"foul, stinking (intensifier)",42,STINKING,adjective,0,"stinking, bad smelling"
+4259_foulstinkingodor,"foul, stinking (odor)",42,STINKING,adjective,0,"stinking, bad smelling"
+384_eghostactasguideforavisitor,(e.g. host) act as guide for (a visitor),43,LEAD (GUIDE),verb,0,lead (vb)
+2810_carveoutaholeinwoodremovingthedebriseginadoorframetofittheendofanotherpieceofwood,"carve out a hole in wood (removing the debris, e.g. in a door frame, to fit the end of another piece of wood)",46,HOLLOW OUT,verb,0,hollow out
+5820_makeaholeinwoodenhandle,make a hole (in wooden handle),46,HOLLOW OUT,verb,0,hollow out
+2268_besilentbequiet,"be silent, be quiet",48,BE SILENT,verb,0,silent (be)
+7174_refuserejectaproposaloragreement,"refuse, reject (a proposal or agreement)",49,REFUSE,verb,0,refuse
+1127_sbtremblebeshakingshiver,"(sb) tremble, be shaking, shiver",52,SHIVER,verb,0,shiver
+1269_sthvibratebeshaking,"(sth) vibrate, be shaking",52,SHIVER,verb,0,shiver
+9447_whisperverbonly,whisper (verb only),55,WHISPER,verb,0,whisper
+2073_badluck,bad luck,56,BAD LUCK,noun,0,"misfortune, bad luck"
+1141_sbcamelkneel,"(sb, camel) kneel",66,KNEEL,verb,0,kneel
+4994_hotcoalember,"hot coal, ember",67,EMBERS,noun,0,embers
+2999_clawtalon,"claw, talon",72,CLAW,noun,1,claw
+9698_youngadolescentmannotyetbearded,"young (adolescent) man, not yet bearded",76,YOUNG MAN,noun,0,young man (adolescent)
+9699_youngadolescentwomannotyetamother,"young (adolescent) woman, not yet a mother",77,YOUNG WOMAN,noun,0,young woman (adolescent)
+3610_doorwaypassage,doorway (passage),80,DOORPOST,noun,0,"doorpost, jamb"
+1920_anger,anger,82,ANGER,noun,0,anger
+1068_sbforbidsth,(sb) forbid (sth),83,FORBID,verb,0,forbid
+4414_givebackreturnsthtosb,"give back, return (sth, to sb)",85,GIVE BACK,verb,0,give back
+2350_beehiveintreesorrocks,beehive (in trees or rocks),88,BEEHIVE,noun,0,beehive
+5154_innocentnotinvolvedperson,"innocent, not involved (person)",90,INNOCENT,adjective,0,innocent
+6043_milkverbdrawmilkfromcowgoat,"milk (verb), draw milk from (cow, goat)",93,DRAW MILK,verb,0,milk (vb)
+1868_allentirelyinterjectionlikeadverbial,"all, entirely (interjection-like adverbial)",98,ALL,other,1,"every, all"
+1869_allevery,"all, every",98,ALL,other,1,"every, all"
+3891_everything,everything,98,ALL,other,1,"every, all"
+2168_beboastfulspeakandwalkarrogantly,"be boastful, speak and walk arrogantly",101,BOAST,verb,0,boast
+4809_headcold,head cold,102,COMMON COLD (DISEASE),noun,0,cold (catarrh)
+6459_omenaugurofsomethingtocome,"omen, augur (of something to come)",107,OMEN,noun,0,"omen, portent"
+5066_imitate,imitate,117,IMITATE,verb,0,imitate
+3542_diveforwardintowaterheadfirstusuallywitharunningstart,"dive forward into water (headfirst, usually with a running start)",119,DIVE,verb,0,dive
+1268_sthturnspinrotate,"(sth) turn, spin, rotate",121,SPIN,verb,0,spin
+8213_spinsth,spin (sth),121,SPIN,verb,0,spin
+2807_cartdrawnbydonkeysoroxen,cart drawn by donkeys or oxen,122,CART,noun,0,"carriage, wagon, cart"
+4234_forehead,forehead,123,FOREHEAD,noun,0,forehead
+1121_sbsweatperspire,"(sb) sweat, perspire",126,SWEAT (PERSPIRE),verb,0,perspire
+3933_extinguishputoutfire,"extinguish, put out (fire)",127,EXTINGUISH,verb,0,extinguish
+9015_turnofflight,turn off (light),127,EXTINGUISH,verb,0,extinguish
+2965_chokeononesfood,choke (on one's food),129,CHOKE,verb,0,choke
+8432_strangle,strangle,129,CHOKE,verb,0,choke
+9385_weavefabricfromcottonthread,"weave (fabric, from cotton thread)",133,WEAVE,verb,0,weave
+4030_faultbeinginthewrongatfault,"fault, being in the wrong (at fault)",134,FAULT,noun,0,fault
+8596_takeabathorshowerbathe,"take a bath or shower, bathe",138,BATHE,verb,0,bathe
+4607_gumsfleshonoutsideofbaseofteeth,gums (flesh on outside of base of teeth),139,GUMS,noun,0,gums
+2709_burnegpapergrassfabric,"burn (e.g. paper, grass, fabric)",141,BURN (SOMETHING),verb,0,burn (vb trans)
+8525_sugarcane,sugar cane,146,SUGAR CANE,noun,0,sugar cane
+5231_itchyarearash,"itchy area, rash",148,ITCH,noun,0,itch
+7104_razor,razor,151,RAZOR,noun,0,razor
+9062_udder,udder,154,UDDER,noun,0,udder
+2979_chopcutfirewood,"chop, cut (firewood)",155,CHOP,verb,0,"chop, hew"
+7144_redincludingbrownandorange,red (including brown and orange),156,RED,adjective,1,red
+3696_dyeapplycolorstofabric,"dye, apply colors to (fabric)",157,DYE,verb,0,dye
+1404_womanputonshawl,(woman) put on (shawl),158,PUT ON,verb,0,put on (clothes)
+6996_putpantsonsb,put (pants) on (sb),158,PUT ON,verb,0,put on (clothes)
+7029_putonwearpantscoveringoneslegs,"put on, wear (pants, covering one's legs)",158,PUT ON,verb,0,put on (clothes)
+7030_putonwearshoe,"put on, wear (shoe)",158,PUT ON,verb,0,put on (clothes)
+2814_cassavamaniocorsweetpotato,cassava (manioc) or sweet potato,925,CASSAVA,noun,0,"tapioca, manioc, cassava"
+8554_sweetpotato,sweet potato,159,SWEET POTATO,noun,0,sweet potato
+6088_misstargetegwithashot,"miss (target, e.g. with a shot)",161,MISS (A TARGET),verb,0,miss (target)
+4878_hiccupverbonly,hiccup (verb only),162,HICCOUGH,verb,0,hiccough
+2448_blackdark,"black, dark",163,BLACK,adjective,1,black
+7251_restrelax,"rest, relax",168,REST,verb,0,rest
+7737_shoulderblade,shoulderblade,172,SHOULDERBLADE,noun,0,shoulderblade
+1011_sbbeproudvain,"(sb) be proud, vain",174,PROUD,adjective,0,proud
+7306_ripefruit,ripe (fruit),178,RIPE,adjective,0,ripe
+7307_ripegrain,ripe (grain),178,RIPE,adjective,0,ripe
+2078_bakebreadinanoven,bake (bread) in an oven,183,BAKE,verb,0,bake
+7112_reapcutstemsegharvestingriceorrosellebyslashingwithasickle,"reap, cut (stems, e.g. harvesting rice or roselle) by slashing with a sickle",190,MOW,verb,0,"mow, reap"
+7113_reapcutoffmilletgrainspikes,"reap, cut off (millet grain spikes)",190,MOW,verb,0,"mow, reap"
+3184_cornerexternalofhouse,"corner (external, of house)",192,CORNER,noun,0,corner
+3185_cornerinternal,corner (internal),192,CORNER,noun,0,corner
+3984_familyindependenthousehold,family (independent household),194,FAMILY,noun,0,family
+5011_householdfamilysetofpeoplewhoeattogether,"household, family (set of people who eat together)",194,FAMILY,noun,0,family
+5920_mat,mat,195,MAT,noun,0,mat
+3985_faminewidespreadandserioushunger,"famine, widespread and serious hunger",199,FAMINE,noun,0,famine
+712_manmarrywoman,(man) marry (woman),203,MARRY,verb,0,marry
+1844_againoncemore,"again, once more",204,AGAIN,other,0,again
+8989_troughofwoodormetalfordrinkingortobeatasadrum,"trough (of wood or metal, for drinking or to beat as a drum)",205,TROUGH,noun,0,trough
+2514_boogersnotlargeremovedbyblowingnose,"booger, snot (large, removed by blowing nose)",208,NASAL MUCUS (SNOT),noun,0,mucus (nasal)
+1192_sorcerorcastaspell,(sorceror) cast (a spell),211,CAST,verb,0,cast (metals)
+3314_cultivatedfieldformilletetcgeneralword,cultivated field (for millet etc.) (general word),212,FIELD,noun,0,field (for cultivation)
+8450_stretcheganimalhideslingshotouttoitsfulllengthbypulling,"stretch (e.g. animal hide, slingshot) out to its full length by pulling",214,STRETCH,verb,0,stretch
+5566_liedowngotobed,"lie down, go to bed",215,LIE DOWN,verb,0,lie down
+4105_finepenalty,fine (penalty),218,FINE (PENALTY),noun,0,fine
+4122_fire,fire,221,FIRE,noun,1,fire
+6855_poundingmortaranykind,pounding mortar (any kind),224,MORTAR,noun,0,mortar (2)
+6668_pestleforpoundinginamortar,pestle (for pounding in a mortar),225,PESTLE,noun,0,pestle
+2808_carvewood,carve (wood),228,CARVE,verb,0,carve
+3580_dosomecarvingofwood,do some carving (of wood),228,CARVE,verb,0,carve
+8550_sweepgroundcourtyard,"sweep (ground, courtyard)",230,SWEEP,verb,0,sweep
+8340_stepmothermotherscowife,"step-mother, mother's co-wife",236,STEPMOTHER,noun,0,stepmother
+8338_stepfather,step-father,237,STEPFATHER,noun,0,stepfather
+4197_floweroftreeorherb,flower (of tree or herb),239,FLOWER,noun,1,flower
+8499_stumpofachoppeddowntree,stump (of a chopped-down tree),241,TREE STUMP,noun,0,tree stump
+5525_lefthandetc,"left (hand, etc.)",244,LEFT,adjective,1,left (side)
+2653_broom,broom,245,BROOM,noun,0,broom
+6090_mistfog,"mist, fog",249,FOG,noun,1,fog
+4222_foodsustenance,"food, sustenance",256,FOOD,noun,0,food
+9650_worshipgod,worship (God),257,WORSHIP,verb,0,worship
+50_3sgallpurposesubjectpronominal,(3Sg all-purpose subject pronominal),262,HE OR SHE OR IT,pronoun,0,he/she/it
+2835_cattleherdercowherd,"cattle herder, cowherd",263,HERDSMAN,noun,0,herdsman
+6836_poultry,poultry,265,FOWL,noun,0,fowl
+7495_scaleoffishorsnake,scale (of fish or snake),266,SCALE,noun,0,fishscale
+3813_emitsomeslobberdrool,"emit some slobber, drool",268,DRIBBLE,verb,0,dribble
+7906_slobberdroolverbonly,"slobber, drool (verb only)",268,DRIBBLE,verb,0,dribble
+724_mealbecookedbedone,"(meal) be cooked, be done",269,COOKED,adjective,0,cooked
+3174_cookeddonemeat,"cooked, done (meat)",269,COOKED,adjective,0,cooked
+8891_tongsblacksmithslargeplierslikeinstrument,tongs (blacksmith's large pliers-like instrument),272,TONGS,noun,0,tongs
+3618_doughmadebypoundingmilletgraininmortarwithwaterforcreamofmillet,"dough made by pounding millet grain in mortar with water, for cream of millet",273,DOUGH,noun,0,dough
+5306_kneaddoughformilletcakeswithaflatkneadingstick,"knead (dough for millet cakes, with a flat kneading stick)",274,KNEAD,verb,0,knead
+6621_peelfruitgingerrootwithknife,"peel (fruit, gingerroot) with knife",275,PEEL,verb,0,peel
+2499_bobbincylindricalspindleintheshuttleofaweaversloomaroundwhichthecottonthreadiswound,"bobbin (cylindrical spindle) in the shuttle of a weaver's loom, around which the cotton thread is wound",277,SPINDLE,noun,0,spindle
+2055_awlforpenetratingleather,awl for penetrating leather,278,AWL,noun,0,awl
+3370_dabahoeliketoolforweedingusingapullingactionalltypes,"daba (hoe-like tool for weeding, using a pulling action, all types)",284,HOE,noun,0,hoe
+8806_threshbypoundinghardriceoccasionallymilletwithlargeclubsonthegroundoronamat,"thresh by pounding hard (rice, occasionally millet) with large clubs on the ground or on a mat",285,THRESH,noun,0,thresh
+3576_doforgingdoablacksmithswork,"do forging, do a blacksmith's work",288,FORGE,verb,0,forge
+7841_skinandbutchercarcassofslaughteredanimal,skin and butcher (carcass of slaughtered animal),291,PULL OFF (SKIN),noun,0,"flay, skin"
+8280_squat,squat,296,CROUCH,verb,0,crouch
+3272_crookedwithseveralfairlysharpbendsorcurvesegstick,"crooked, with several fairly sharp bends or curves (e.g. stick)",297,CROOKED,adjective,0,crooked
+7743_shriekscreamverbonly,"shriek, scream (verb only)",298,SHRIEK,verb,0,"shriek, screech"
+7507_scoldreprimandsb,"scold, reprimand (sb)",299,SCOLD,verb,0,"rebuke, scold"
+2939_chiefhoodstatusofbeingtraditionalchief,"chiefhood, status of being (traditional) chief",301,CHIEFTAIN,noun,0,"chief, chieftain"
+2993_clandescendedfromonemaleancestor,clan (descended from one male ancestor),302,CLAN,noun,0,"tribe, clan"
+130_actoffasting,(act of) fasting,303,ABSTAIN FROM FOOD,verb,0,fast (vb)
+623_imampreachgiveasermon,"(imam) preach, give a sermon",304,PREACH,verb,0,preach
+4227_footprint,footprint,318,FOOTPRINT,noun,0,footprint
+5559_lick,lick,319,LICK,verb,0,lick
+2922_chewegatoughpieceofmeat,chew (e.g. a tough piece of meat),321,CHEW,verb,0,chew
+4006_fatcorpulent,fat (corpulent),323,FAT (ORGANIC SUBSTANCE),noun,1,"grease, fat"
+7054_ragtattersoldclothing,"rag, tatters (old clothing)",332,RAG,noun,0,"handkerchief, rag"
+7078_raketool,rake (tool),338,RAKE,noun,0,rake
+8995_trunkoftree,trunk (of tree),344,TREE TRUNK,noun,0,tree trunk
+9144_untieundoloosenknot,"untie, undo, loosen (knot)",352,UNTIE,verb,0,untie
+6842_poundgraininmortarintoflour,"pound (grain, in mortar, into flour)",354,POUND,verb,0,pound with fist
+2975_chopdowncutdowntreewithax,"chop down, cut down (tree, with ax)",355,CUT DOWN,verb,0,cut down
+7505_scissors,scissors,356,SHEARS,noun,0,"scissors, shears"
+4655_hangsthuponahookornail,hang (sth) up on a hook or nail,357,HANG UP,verb,0,hang up
+3986_fanafire,fan (a fire),360,FAN (ACTION),verb,0,fan (vb)
+2216_belodgeddwellinacertainhouse,"be lodged, dwell (in a certain house)",363,"DWELL (LIVE, RESIDE)",verb,0,"dwell, live"
+1363_watersplashsprayegatawaterfall,"(water) splash, spray (e.g. at a waterfall)",365,SPLASH,verb,0,splash
+5607_limpwalkwithalimp,"limp, walk with a limp",366,LIMP,verb,0,limp
+7278_ridedonkeyhorsecamel,"ride (donkey, horse, camel)",367,RIDE,verb,0,ride
+6692_pickupsthegongroundwithoneshand,"pick up (sth, e.g. on ground) with one's hand",371,PICK UP,verb,0,pick up
+2250_bepointed,be pointed,372,POINTED,adjective,0,pointed
+8061_sniffsmellanodor,"sniff, smell (an odor)",375,SNIFF,verb,0,sniff
+6366_noisymachineetc,"noisy (machine, etc.)",377,LOUD,adjective,0,loud
+6727_pinchegapimpletoexpelthepus,"pinch (e.g a pimple, to expel the pus)",378,PINCH,verb,0,pinch
+2496_bluntnotsharpblade,"blunt, not sharp (blade)",379,BLUNT,adjective,1,"blunt, dull"
+9669_wrinkledadjective,wrinkled (adjective),380,WRINKLED,adjective,0,wrinkled
+5919_masterofslave,master (of slave),383,MASTER,noun,0,master
+7896_slingforstonesinchildrensgame,"sling (for stones, in children's game)",387,SLING,noun,0,sling
+164_anyfishtrap,(any) fish trap,389,FISH TRAP,noun,0,fish trap
+1034_sbbestowablessingonsb,(sb) bestow a blessing (on sb),391,BLESS,verb,0,bless
+5753_magicmagictricksillusions,"magic (magic tricks, illusions)",392,MAGIC,noun,0,"magic, witchcraft, sorcery"
+163_anyalcoholicbeverage,(any) alcoholic beverage,404,ALCOHOL (FERMENTED DRINK),noun,0,fermented drink
+6435_oldman,old man,406,OLD MAN,noun,0,old man
+167_anymenspalavershed,(any) men's palaver shed,408,MEN'S HOUSE,noun,0,men's house
+9675_yamdioscorea,yam (Dioscorea),410,YAM,noun,0,yam
+2737_calabashgeneralterm,calabash (general term),411,GOURD,noun,0,gourd
+4513_gourdnonecksmallholeforcarryingwaterorsprinkling,"gourd (no neck, small hole, for carrying water or sprinkling)",411,GOURD,noun,0,gourd
+2794_carryegchildradioinhandsagainstonesribsorabdomen,"carry (e.g. child, radio) in hands against one's ribs or abdomen",412,CARRY IN HAND,verb,0,carry-in-hand
+2795_carryegsuitcasebyholdingitshandleorstrapinoneshand,carry (e.g. suitcase) by holding its handle or strap in one's hand,412,CARRY IN HAND,verb,0,carry-in-hand
+2788_carrybagriflebyslingingstrapoveronesshoulder,"carry (bag, rifle) by slinging strap over one's shoulder",413,CARRY ON SHOULDER,verb,0,carry-on-shoulder
+2798_carrysthononeshead,"carry (sth, on one's head)",414,CARRY ON HEAD,verb,0,carry-on-head
+2792_carrychildononessidewithoutawrapusuallywithoneofthechildslegsinfrontandtheotherbehind,carry (child) on one's side without a wrap (usually with one of the child's legs in front and the other behind),415,CARRY UNDER ARM,verb,0,carry-underarm
+8803_threetimes,three times,417,THREE TIMES,other,0,three times
+1687_alongtimealongwhile,"a long time, a long while",418,FOR A LONG TIME,adjective,0,long-time (for a)
+4454_gobackwardbackupretreat,"go backward, back up, retreat",421,RETREAT,verb,0,retreat
+1004_sbbelatedobelatedly,"(sb) be late, do belatedly",425,BE LATE,verb,0,"retard, delay"
+8758_thighupperlegofperson,"thigh, upper leg (of person)",471,UPPER LEG (THIGH),noun,0,thigh
+2384_belatedlylateadverb,"belatedly, late (adverb)",477,LATE,other,0,late
+5617_lipofmouth,lip (of mouth),478,LIP,noun,0,lip
+4591_growplants,grow (plants),479,GROW,verb,0,grow
+6364_noblefreebornperson,"noble, freeborn person",482,NOBLE,noun,0,"noble, nobleman"
+1208_speciesbecomelocallyextinctdisappearfromazone,"(species) become locally extinct, disappear from a zone",485,DISAPPEAR,verb,0,disappear
+5894_mannerway,"manner, way",488,MANNER,noun,0,"way, manner"
+5288_kidney,kidney,489,KIDNEY,noun,0,kidney
+8802_three,three,492,THREE,numeral,1,three
+4147_five,five,493,FIVE,numeral,1,five
+7500_scarnoun,scar (noun),497,SCAR,noun,0,scar
+2763_calfofleg,calf (of leg),498,CALF OF LEG,noun,0,calf of leg
+1423_woundheal,(wound) heal,499,CURE,verb,0,"cure, heal"
+5574_liftpickupsthinoneshands,"lift, pick up (sth) in one's hands",501,LIFT,verb,0,"raise, lift"
+8210_spikenailtack,"spike, nail, tack",502,NAIL (TOOL),noun,0,nail
+5514_learnbetrained,"learn, be trained",504,LEARN,verb,0,learn
+6585_parentsfatherandmother,parents (father and mother),505,PARENTS,noun,0,parents
+3183_cornmaize,"corn, maize",506,MAIZE,noun,0,"maize, corn"
+981_sbbecertainofsth,(sb) be certain (of sth),509,CERTAIN,adjective,0,"sure, certain"
+305_doghowlbayverbonly,"(dog) howl, bay (verb only)",526,HOWL,verb,0,howl
+702_mancopulatewithfuckwoman,"(man) copulate with, fuck (woman)",549,COPULATE,verb,0,have sexual intercourse
+1283_sunrise,(sun) rise,568,RISE (MOVE UPWARDS),verb,0,rise
+4453_gobackreturn,"go back, return",581,COME BACK,verb,0,come back
+5537_lendanobjecttosb,"lend (an object, to sb)",582,LEND,verb,0,lend
+3481_difficultwork,difficult (work),584,DIFFICULT,adjective,0,difficult
+2515_bootofsoldierorgendarme,boot (of soldier or gendarme),585,BOOT,noun,0,boot
+9187_vegetablegarden,vegetable garden,586,GARDEN,noun,0,garden
+1416_woodenhandleofaxeetcbebrokenatbusinessend,(wooden handle of axe etc.) be broken (at business end),588,BROKEN,adjective,0,broken
+2222_benaked,be naked,590,NAKED,adjective,0,"naked, bare"
+9169_urinatehaveapiss,"urinate, have a piss",592,PISS,verb,0,urinate
+6835_potato,potato,593,POTATO,noun,0,potato
+3589_doctor,doctor,597,PHYSICIAN,noun,0,physician
+2779_carapaceshelloftortoise,"carapace, shell (of tortoise)",598,SHELL,noun,0,shell
+7483_saysthfalselieexaggerationorhonestmistake,"say sth false (lie, exaggeration, or honest mistake)",601,LIE (MISLEAD),verb,0,"lie, tell lies"
+4883_hideconcealsth,"hide, conceal (sth)",602,HIDE (CONCEAL),verb,0,"hide, conceal"
+4428_glassmaterialegbottleorwindow,"glass (material, e.g. bottle or window)",604,GLASS,noun,0,glass
+4544_grassherbs,"grass, herbs",606,GRASS,noun,1,grass
+6066_milletharvestnoun,millet harvest (noun),611,HARVEST,noun,0,"crop, harvest"
+4981_horse,horse,615,HORSE,noun,0,horse (equine)
+1152_sbsthstickingoutandhangingoutoveranedgeofaroofprecipiceadverb,"(sb, sth) sticking out and hanging out over an edge (of a roof, precipice) (adverb)",618,PRECIPICE,noun,0,"cliff, precipice"
+5195_ironsteelmetal,"iron, steel, metal",621,IRON,noun,0,iron
+5505_leafofplant,leaf (of plant),628,LEAF,noun,1,leaf
+3599_domesticanimalesplivestock,domestic animal (esp. livestock),631,LIVESTOCK,noun,0,livestock
+5899_market,market,633,MARKET,noun,0,market (place)
+5957_meat,meat,634,MEAT,noun,0,meat
+6042_milk,milk,635,MILK,noun,0,milk (noun)
+6190_mud,mud,640,MUD,noun,0,mud
+6312_neednounnecessity,"need (noun), necessity",643,NEED (NOUN),noun,0,"need, necessity"
+2007_ashes,ashes,646,ASH,noun,1,ashes
+6569_paintnoun,paint (noun),647,PAINT (PIGMENTS),noun,0,paint (noun)
+6580_paper,paper,648,PAPER,noun,0,paper
+6596_pasture,pasture,649,PASTURE,noun,0,pasture
+6756_plainflatlowland,"plain, flat lowland",652,PLAIN,noun,0,"plain, field"
+6757_plainsimplewithoutanythingspecial,"plain, simple, without anything special",,PLAIN,adjective,0,"plain, field"
+6789_poisoneginsecticide,poison (e.g. insecticide),655,POISON,noun,0,poison
+6902_price,price,657,PRICE,noun,0,price
+7056_rainnoun,rain (noun),658,RAIN (PRECIPITATION),noun,0,rain (noun)
+7184_religionislam,"religion, Islam",661,RELIGION,noun,0,religion
+4899_highwaywideroad,"highway, wide road",667,ROAD,noun,1,road
+7348_root,root,670,ROOT,noun,1,root
+7459_sandsandysoil,"sand, sandy soil",671,SAND,noun,1,sand
+3709_early,early,672,EARLY,adjective,0,early
+6180_mouth,mouth,674,MOUTH,noun,1,mouth
+3435_defecateverbonly,defecate (verb only),676,SHIT (DEFECATE),verb,0,defecate
+2057_axgeneralword,ax (general word),677,AXE,noun,0,ax
+2298_beard,beard,678,BEARD,noun,0,beard
+2580_breakegbreadcassavainhalfwiththehands,"break (e.g. bread, cassava) in half with the hands",680,BREAK (DESTROY OR GET DESTROYED),verb,0,break
+3470_destroyegavillage,destroy (e.g. a village),681,DESTROY,verb,0,destroy
+7761_sideofsth,side (of sth),682,SIDE,noun,0,side
+6661_personhumanbeing,"person, human being",683,PERSON,noun,1,"person, human being"
+3749_easywork,easy (work),686,EASY,adjective,0,easy
+5747_lung,lung,688,LUNG,noun,0,lung
+2519_bottombottompartofsth,"bottom, bottom part (of sth)",690,BOTTOM,noun,0,bottom
+2640_bring,bring,692,BRING,verb,0,bring
+4380_getobtain,"get, obtain",694,GET,verb,0,"get, obtain"
+7124_receiveaccepttakesthgiven,"receive, accept, take (sth given)",694,GET,verb,0,"get, obtain"
+4441_go,go,695,GO,verb,0,go
+2255_beprudentwise,"be prudent, wise",698,WISE,adjective,0,wise
+2292_bewisepossesswisdom,"be wise, possess wisdom",698,WISE,adjective,0,wise
+2804_carrytransportsthegonacart,"carry, transport (sth, e.g. on a cart)",700,CARRY,verb,0,carry (bear)
+7911_slowadjective,slow (adjective),701,SLOW,adjective,0,slow
+2829_catchtakeholdofsth,"catch, take hold of (sth)",702,CATCH,verb,0,catch (ball)
+8131_soon,soon,703,SOON,other,0,soon
+3009_cleanness,cleanness,704,CLEAN,adjective,0,clean
+4490_gouprise,"go up, rise",705,GO UP (ASCEND),verb,0,go up
+2316_becomeblackordark,become black or dark,706,DARK,adjective,0,dark (in color)
+7191_remember,remember,707,REMEMBER,verb,0,remember
+402_egmetallicsurfaceshinebeshiny,"(e.g. metallic surface) shine, be shiny",708,SHINE,verb,0,shine
+8677_teachinstructsbhowtodosth,"teach, instruct (sb, how to do sth)",709,TEACH,verb,0,teach
+8421_straightandlongortallstafftreeperson,"straight and long or tall (staff, tree, person)",711,TALL,,0,tall
+7275_richpersonwealthyperson,"rich person, wealthy person",712,RICH,adjective,0,rich
+8326_stealsth,steal (sth),713,STEAL,verb,0,steal
+7569_seedstockseedsforsowing,"seedstock, seeds for sowing",714,SEED,noun,1,seed
+9685_yellshoutloudlyegageneralwarningtoanyonewithinearshot,"yell, shout loudly (e.g. a general warning, to anyone within earshot)",715,SHOUT,verb,0,"shout, cry out"
+4581_groanmoanverbonly,"groan, moan (verb only)",716,GROAN,verb,0,groan
+8560_sweetsugarytaste,"sweet, sugary (taste)",717,SWEET,adjective,0,sweet
+3140_contributemoneypaydues,"contribute (money), pay (dues)",718,PAY,verb,0,pay (vb)
+6607_payrepaysb,"pay, repay (sb)",718,PAY,verb,0,pay (vb)
+3826_encounterfindbychanceorbydesign,"encounter, find (by chance or by design)",719,FIND,verb,0,find
+4104_findrecoversthlost,"find, recover (sth lost)",719,FIND,verb,0,find
+4501_goodluck,good luck,720,GOOD LUCK,noun,0,"good fortune, luck"
+1349_waterindryingpondbelow,(water in drying pond) be low,721,LOW,adjective,0,low
+3979_fallonattack,"fall (on), attack",722,ATTACK,noun,0,attack
+6753_placelocation,"place, location",723,PLACE (POSITION),noun,0,place
+7111_readsth,read (sth),724,READ,verb,0,read
+9443_which,which?,727,WHICH,other,0,which?
+4127_firstadj,first (adj),728,FIRST,other,0,first
+3399_dawnsunrise,"dawn, sunrise",729,DAWN,noun,0,dawn
+3720_earnorgainsomethingmakeaprofit,"earn or gain something, make a profit",733,EARN,verb,0,earn
+9018_turnonlights,turn on (lights),737,LIGHT (IGNITE),verb,0,"light, kindle, ignite"
+8777_thinggeneralterm,thing (general term),738,THING,noun,0,thing
+7691_shipsteamboat,"ship, steamboat",740,SHIP,noun,0,ship
+3655_drivevehicle,drive (vehicle),741,DRIVE,verb,0,drive
+3835_endlimit,"end, limit",742,END (OF SPACE),noun,0,end
+3769_egg,egg,744,EGG,noun,1,egg
+8159_sowseedsinapitwithmanureafterthefirstrains,sow (seeds) in a pit with manure after the first rains,748,SOW SEEDS,verb,0,sow
+3851_entergoinsidesth,"enter, go inside (sth)",749,ENTER,verb,0,enter
+119_ashopstore,"(a) shop, store",752,STORE,noun,0,"store, shop"
+2727_buttonnoun,button (noun),757,BUTTON,noun,0,button
+7784_silvermetal,silver (metal),759,SILVER,noun,0,silver
+5327_knot,knot,760,KNOT,noun,0,knot (noun)
+3220_covertheopeningofegjarwithegacloth,"cover the opening of (e.g. jar, with e.g. a cloth)",761,COVER,verb,0,cover
+6540_outsideadverb,outside (adverb),762,OUTSIDE,other,0,outside
+7840_skin,skin,763,SKIN,noun,1,"skin, hide"
+6183_movetoanewdwellingrelocate,"move (to a new dwelling), relocate",765,MOVE,verb,0,move
+3411_deadpersoncorpse,"dead person, corpse",767,CORPSE,noun,0,corpse
+5746_lunch,lunch,768,LUNCH,noun,0,lunch
+7341_roof,roof,769,ROOF,noun,0,roof
+3721_earring,earring,770,EARRING,noun,0,earring
+2402_beltorbeltcordalltypes,belt or belt-cord (all types),772,BELT,noun,0,"belt, girdle"
+4720_have,have,773,HAVE,verb,0,have
+8042_smoke,smoke,778,SMOKE (EXHAUST),noun,1,smoke (noun)
+6591_partcomponentofapparatus,"part, component (of apparatus)",779,PART,noun,0,"part, piece"
+4033_fearnoun,fear (noun),781,FEAR (FRIGHT),noun,0,"fear, fright"
+3434_defeatoverpowervanquish,"defeat, overpower, vanquish",782,DEFEAT,noun,0,defeat
+8077_soap,soap,788,SOAP,noun,0,soap
+2503_boilliquidbringtoaboil,"boil (liquid), bring to a boil",792,BOIL (OF LIQUID),verb,0,boil (vb)
+6359_nippleofwomanorfemaleanimal,nipple (of woman or female animal),796,NIPPLE,noun,0,"nipple, teat"
+8703_testicles,testicles,797,TESTICLES,noun,0,testicle
+5237_jawlower,jaw (lower),798,JAW,noun,0,jaw
+9672_wrist,wrist,799,WRIST,noun,0,wrist
+7269_rib,rib,801,RIB,noun,0,rib
+1937_ankle,ankle,803,ANKLE,noun,0,ankle
+9578_womb,womb,804,WOMB,noun,0,womb
+8214_spinalcordspine,"spinal cord, spine",805,SPINE,noun,0,spine
+2464_blanketorsheetbodycoveringforsleeping,blanket or sheet (body covering for sleeping),806,BLANKET,noun,0,blanket
+6577_pants,pants,809,TROUSERS,noun,0,trousers
+8147_soul,soul,811,SOUL,noun,0,"soul, spirit"
+7861_slave,slave,812,SLAVE,noun,0,slave
+4624_half,half,816,HALF,noun,0,half
+39_3plhumanpronoun,(3Pl human pronoun),817,THEY,pronoun,1,they
+8390_stomach,stomach,819,STOMACH,noun,0,stomach
+5354_lamb,lamb,820,LAMB,noun,0,lamb
+7336_rollorflipsthoverontoitsotherside,roll or flip (sth) over onto its other side,827,ROLL,verb,0,roll
+3233_cowpea,cow-pea,832,BEAN,noun,0,bean
+2726_buttock,buttock,834,BUTTOCKS,noun,0,buttocks
+2492_blue,blue,837,BLUE,adjective,0,blue
+7189_remainderrest,"remainder, rest",838,REMAINS,noun,0,"remains, left overs"
+8785_thirst,thirst,848,THIRST,noun,0,thirst
+8272_squarerectangle,"square, rectangle",850,SQUARE,noun,0,square
+8675_teamakinggearburnerkettleetc,"tea-making gear (burner, kettle, etc.)",854,KETTLE,noun,0,kettle
+8418_stormwindandrain,"storm, wind and rain",858,STORM,noun,0,storm
+1084_sbjudgewhoisrightinadispute,"(sb) judge (who is right, in a dispute)",861,JUDGE,noun,0,judge (noun)
+5252_judgemagistrate,judge (magistrate),861,JUDGE,noun,0,judge (noun)
+8524_sugar,sugar,862,SUGAR,noun,0,sugar
+3765_edgecircumferenceofwell,"edge, circumference (of well)",863,EDGE,noun,0,edge
+8275_squash,squash,864,PUMPKIN,noun,0,"pumpkin, squash"
+8672_tax,tax,873,TAX,noun,0,"tax, tribute"
+5519_leatherworkercastetheymakeleatherbagsandamuletwallets,"leatherworker (caste, they make leather bags and amulet wallets)",875,SHOEMAKER,noun,0,"shoemaker, cobbler"
+4960_homebuildermason,"home-builder, mason",877,MASON,noun,0,mason
+4854_hell,hell,878,HELL,noun,0,hell
+3199_coughverbonly,cough (verb only),879,COUGH,verb,0,cough
+962_sbsportionshare,"(sb's) portion, share",884,SHARE,verb,0,share (distribute)
+2438_bitterintaste,bitter (in taste),887,BITTER,adjective,0,bitter
+4151_flame,flame,889,FLAME,noun,0,flame (noun)
+8851_timemomentintime,"time, moment in time",892,TIME,noun,0,time
+8542_swallow,swallow,897,SWALLOW,verb,0,swallow
+8963_treeorlargewoodyshrub,tree or large woody shrub,906,TREE,noun,1,tree (cf 08.600)
+6441_oldwoman,old woman,907,OLD WOMAN,noun,0,old woman
+8692_templesideofeye,"temple, side of eye",911,TEMPLE,noun,0,"temple, church"
+4993_hotchilipepper,hot chili pepper,919,CHILI PEPPER,noun,0,chili pepper
+5710_lovepassionforsborsth,"love, passion (for sb or sth)",923,LOVE,verb,0,love
+2813_cassava,cassava,925,CASSAVA,noun,0,"tapioca, manioc, cassava"
+7270_rice,rice,926,RICE,noun,0,rice
+5017_hugholdsbinabearhuginwrestling,"hug, hold (sb) in a bear-hug (in wrestling)",928,EMBRACE,verb,0,embrace
+9286_villagetownsettlement,"village, town, settlement",930,VILLAGE,noun,0,village
+9322_wallofhouse,wall (of house),933,WALL (OF HOUSE),noun,0,wall
+2430_birdany,bird (any),937,BIRD,noun,1,bird
+4963_honey,honey,942,HONEY,noun,0,honey
+8190_spearwithsimpleblade,spear with simple blade,945,SPEAR,noun,0,spear
+2480_blood,blood,946,BLOOD,noun,1,blood
+9347_water,water,948,WATER,noun,1,water
+763_modernweaponryarmaments,"(modern) weaponry, armaments",951,WEAPONS,noun,0,"weapons, arms"
+7418_runawayfleeescapebyrunning,"run away, flee, escape by running",956,FLEE,verb,0,flee
+9511_windairflow,wind (airflow),960,WIND,noun,1,wind
+9577_womanfemaleperson,"woman, female person",962,WOMAN,noun,1,woman
+9629_woolsubstance,wool (substance),964,WOOL,noun,0,wool
+9643_worldoftheliving,world (of the living),965,WORLD,noun,0,world
+3048_coconut,coconut,970,COCONUT,noun,0,coconut
+8868_tobaccoleavesorforcigarettes,"tobacco (leaves, or for cigarettes)",974,TOBACCO,noun,0,tobacco
+2003_arrow,arrow,977,ARROW,noun,0,arrow
+9375_wavesofwater,waves (of water),978,WAVE,noun,0,wave
+3994_farmerpeasant,"farmer, peasant",979,FARMER,noun,0,farmer
+4852_heel,heel,980,HEEL,noun,0,heel
+3780_elbow,elbow,981,ELBOW,noun,0,elbow
+9635_worknounproductiveactivity,"work (noun), productive activity",984,WORK (LABOUR),noun,0,work
+7187_remainstay,"remain, stay",987,REMAIN,verb,0,"remain, stay"
+2543_bowforarrow,bow (for arrow),994,BOW,noun,0,bow
+3415_deafmutedeafadjective,"deaf-mute, deaf (adjective)",996,DEAF,adjective,0,deaf
+7007_putsthinacontainer,"put (sth, in a container)",998,PUT,verb,0,put
+7008_putsthinaplace,"put (sth, in a place)",998,PUT,verb,0,put
+1957_anxietywhilewaitingfornews,anxiety (while waiting for news),1000,ANXIETY,noun,0,"anxiety, worry"
+2459_blacksmithmemberofblacksmithcaste,"blacksmith, member of blacksmith caste",1001,BLACKSMITH,noun,0,"smith, blacksmith"
+8317_statuette,statuette,1002,STATUE,noun,0,statue
+9032_twinperson,twin (person),1005,TWINS,noun,0,twins
+3227_cowfemale,cow (female),1007,COW,noun,0,cow
+2696_bull,bull,1008,BULL,noun,0,bull
+2541_boundaryoffield,boundary (of field),1010,BOUNDARY,noun,0,boundary
+2633_bridge,bridge,1011,BRIDGE,noun,0,bridge
+5999_metalplateholdingriflemechanismcocklatch,"metal plate holding rifle mechanism (cock, latch)",1012,LATCH,noun,0,"latch, door-bolt"
+6511_or,or,1014,OR,other,0,or
+7284_righthandetc,"right (hand, etc.)",1019,RIGHT,adjective,1,right (side)
+9450_whistlefromthemouthverbonly,whistle (from the mouth) (verb only),1025,WHISTLE,verb,0,whistle
+9679_yawnverbonly,yawn (verb only),1028,YAWN,verb,0,"yawn, gape"
+4499_good,good,1035,GOOD,adjective,1,good
+7742_showdisplaysthtosb,"show, display (sth, to sb)",1039,SHOW,verb,0,show
+2565_braidshairstyle,"braids, hairstyle",1043,BRAID,noun,0,braid
+6721_pillowofrags,pillow (of rags),1044,PILLOW,noun,0,pillow
+7753_shutcloseegdoor,"shut, close (e.g. door)",1046,SHUT,verb,0,"shut, close"
+5609_lineshape,line (shape),1048,LINE,noun,0,line
+6140_molar,molar,1049,MOLAR TOOTH,noun,0,molartooth
+5596_lightweight,lightweight,1052,LIGHT (WEIGHT),adjective,0,light (in weight)
+5476_lawbeinglawfulorintheright,"law, being lawful or in the right",1062,LAW,noun,0,law
+8209_spidersweb,spider's web,1065,SPIDER WEB,noun,0,spider web
+5255_judgementrulingonacase,"judgement, ruling (on a case)",1067,JUDGMENT,noun,0,judgment
+4434_glueanykind,glue (any kind),1069,GLUE,noun,0,glue
+4141_fishhook,fishhook,1074,FISHHOOK,noun,0,fishhook
+8935_trap,trap,1075,TRAP (PITFALL),noun,0,trap (noun)
+9433_wheat,wheat,1077,WHEAT,noun,0,wheat
+5989_merchant,merchant,1082,MERCHANT,noun,0,merchant
+2765_callsbtocomesummonconvokesb,"call (sb, to come), summon, convoke (sb)",1084,CALL,verb,0,call (=summon)
+4216_followsbsth,"follow (sb, sth)",1085,FOLLOW,verb,0,follow
+251_childbeborn,(child) be born,1090,BE BORN,verb,0,born (to be)
+7450_saltytasteadjective,salty (taste) (adjective),1091,SALTY,adjective,0,salty
+7183_releaseprisonerhostage,"release (prisoner, hostage)",1095,LET GO OR SET FREE,verb,0,"release, let go"
+3147_cookameal,cook (a meal),1100,COOK (SOMETHING),verb,0,cook
+4489_goupaslopeclimb,"go up (a slope), climb",1102,CLIMB,verb,0,climb
+117_asacrificeegaslaughteredanimal,(a) sacrifice (e.g. a slaughtered animal),1103,SACRIFICE,noun,0,"sacrifice, offering"
+4474_gooutexit,"go out, exit",1107,GO OUT,verb,0,go out
+9654_woundinjury,"wound, injury",1109,WOUND,noun,0,"wound, sore"
+8635_talknounspeechwords,"talk (noun), speech, words",1115,SPEECH,noun,0,speech (make a)
+5603_likesimilarto,"like, similar to",1558,SIMILAR,verb,0,"like, similar"
+3545_dividesharesth,"divide, share (sth)",1119,DIVIDE,verb,0,divide
+4880_hiddenfurtivesecret,"hidden, furtive, secret",1121,SECRET,adjective,0,secret
+6888_pregnantwoman,pregnant (woman),1123,PREGNANT,adjective,0,pregnant
+8873_tobaccopipe,tobacco pipe,1124,PIPE,noun,0,pipe
+7580_sendsbonanerrand,send (sb) on an errand,1127,SEND,verb,0,send
+5763_mainceilingbeam,main ceiling beam,1132,BEAM,noun,0,beam
+5286_kicksthsb,"kick (sth, sb)",1135,KICK,verb,0,kick
+6744_pitynoun,pity (noun),1141,PITY,noun,0,pity
+3225_coveredovenforroastingmeatchickenetc,"covered oven (for roasting meat, chicken, etc.)",1143,OVEN,noun,0,oven
+9540_witnessperson,witness (person),1144,WITNESS,noun,0,witness
+103_abruisefromablow,(a) bruise (from a blow),1148,BRUISE,noun,0,bruise
+6523_orphan,orphan,1149,ORPHAN,noun,0,orphan
+8821_thundernoun,thunder (noun),1150,THUNDER,noun,0,thunder
+2884_caveholeorhorizontalfractureincliff,cave (hole or horizontal fracture in cliff),1155,CAVE,noun,0,cave
+6491_openadoor,open (a door),1156,OPEN,verb,0,open
+2309_because,because,1157,BECAUSE,other,1,because
+4001_fartletoutafart,"fart, let out a fart",1159,FART,verb,0,break wind
+8757_thief,thief,1160,THIEF,noun,0,thief
+8800_threadanykind,thread (any kind),1161,THREAD,noun,0,thread
+5177_intentionplanofaction,"intention, plan (of action)",1162,INTENTION,noun,0,"intention, purpose"
+1126_sbtrapanimal,(sb) trap (animal),1170,TRAP (CATCH),verb,0,trap (vb)
+6082_mirror,mirror,1171,MIRROR,noun,0,mirror
+919_riflefiredischargegooff,"(rifle) fire, discharge, go off",1172,SHOOT,verb,0,shoot
+7711_shootsbsth,shoot (sb/sth),1172,SHOOT,verb,0,shoot
+2655_browincludingbone,brow (including bone),1173,EYEBROW,noun,0,eyebrow
+9693_yesterday,yesterday,1174,YESTERDAY,other,0,yesterday
+6671_phantomghostofperson,"phantom, ghost (of person)",1175,GHOST,noun,0,"ghost, phantom"
+6382_nostril,nostril,1178,NOSTRIL,noun,0,nostril
+8721_thedayaftertomorrow,the day after tomorrow,1179,DAY AFTER TOMORROW,other,0,day-after-tomorrow
+3401_daybeforeyesterday,day before yesterday,1180,DAY BEFORE YESTERDAY,other,0,day-before-yesterday
+6573_palmofhand,palm of hand,1183,PALM OF HAND,noun,0,palm of hand
+2908_charcoal,charcoal,1188,CHARCOAL,noun,0,charcoal
+8801_threatenscare,threaten (scare),1192,THREATEN,verb,0,threaten
+5898_manynumerous,"many, numerous",1198,MANY,other,1,"much, many"
+9499_wife,wife,1199,WIFE,noun,1,wife
+5041_husband,husband,1200,HUSBAND,noun,1,husband
+4040_feather,feather,1201,FEATHER,noun,1,feather
+2421_biglarge,"big, large",1202,BIG,adjective,1,"large, big"
+5656_longegrope,long (e.g. rope),1203,LONG,adjective,1,long
+8959_treebark,tree bark,1204,BARK,noun,1,bark
+8892_tongue,tongue,1205,TONGUE,noun,1,tongue
+9697_young,young,1207,YOUNG,adjective,0,young
+2822_cat,cat,1208,CAT,noun,0,cat
+14_1sgindependentpronoun,(1Sg independent pronoun),1209,I,pronoun,1,I
+4842_heavy,heavy,1210,HEAVY,adjective,1,heavy
+8_1plsubjectpronominal,(1Pl subject pronominal),1212,WE,pronoun,1,we
+6160_mother,mother,1216,MOTHER,noun,1,mother
+4025_fatherdad,"father, Dad",1217,FATHER,noun,1,father
+7356_ropecord,"rope, cord",1218,ROPE,noun,1,"rope, cord"
+8579_tailofdogsheepetc,"tail (of dog, sheep, etc.)",1220,TAIL,noun,1,tail
+8580_tailofscorpion,tail (of scorpion),1220,TAIL,noun,1,tail
+6375_nose,nose,1221,NOSE,noun,1,nose
+6624_penis,penis,1222,PENIS,noun,0,penis
+4830_heart,heart,1223,HEART,noun,1,heart
+5631_liver,liver,1224,LIVER,noun,1,liver
+3407_daytimenotnight,daytime (not night),1225,DAY (NOT NIGHT),noun,1,day
+9681_year,year,1226,YEAR,noun,1,year
+9597_woodenboardplank,"wooden board, plank",1227,BOARD,noun,0,board
+8099_soildirtearthsubstance,"soil, dirt, earth (substance)",1228,EARTH (SOIL),noun,1,"earth=ground, soil"
+6430_oldthinganimal,"old (thing, animal)",1229,OLD,adjective,1,old
+9645_wornoutoldnolongerusefulobject,"worn out, old, no longer useful (object)",1229,OLD,adjective,1,old
+3501_dirty,dirty,1230,DIRTY,adjective,1,"dirty, soiled"
+6327_new,new,1231,NEW,adjective,1,new
+6349_night,night,1233,NIGHT,noun,1,night
+8047_smoothsleekadjective,"smooth, sleek (adjective)",1234,SMOOTH,adjective,1,smooth
+9468_who,who?,1235,WHO,other,1,who?
+9431_what,what?,1236,WHAT,other,1,what?
+9437_wherelocation,where? (location),1237,WHERE,other,1,where?
+9435_whenatwhattime,when? (at what time?),1238,WHEN,other,1,when?
+5015_how,how?,1239,HOW,other,1,how?
+9472_widepassageway,wide (passageway),1243,WIDE,adjective,1,"wide, broad"
+8748_thickplanarobjectegwall,"thick (planar object, e.g. wall)",1244,THICK,adjective,1,thick (in dimension)
+2723_buttermoreorlesssolidifiedoil,butter (more or less solidified oil),1245,BUTTER,noun,0,butter
+8032_smalllittle,"small, little",1246,SMALL,adjective,1,"small, little"
+3705_ear,ear,1247,EAR,noun,1,ear
+3945_eye,eye,1248,EYE,noun,1,eye
+4999_house,house,1252,HOUSE,noun,0,house
+4808_head,head,1256,HEAD,noun,1,head
+9518_wingofbird,wing (of bird),1257,WING,noun,1,wing
+4116_fingernail,fingernail,1258,FINGERNAIL,noun,0,fingernail
+7812_singverbonly,sing (verb only),1261,SING,verb,1,sing
+7756_siblingofoppositesexolderoryounger,sibling of opposite sex (older or younger),1262,BROTHER,noun,0,brother
+696_manssister,(man's) sister,1263,SISTER,noun,0,sister
+1258_sthevolvechangefromwhatitwasbefore,"(sth) evolve, change (from what it was before)",1264,CHANGE,verb,0,change
+6262_narrowpassagewayroad,"narrow (passageway, road)",1267,NARROW,adjective,1,narrow
+9692_yes,yes!,1268,YES,other,0,"yes, affirmative"
+6361_no,no!,1269,NO,other,0,"no, negative"
+9470_why,why?,1270,WHY,other,0,why?
+6166_mothersyoungersister,mother's younger sister,1272,AUNT,noun,0,aunt
+7445_salt,salt,1274,SALT,noun,1,salt
+1950_answerreplytosb,"answer, reply to (sb)",1275,ANSWER,verb,0,answer
+2050_autumnpostharvestseasonnovemberdecember,"autumn, post-harvest season (November-December)",1276,AUTUMN,noun,0,autumn
+4638_hand,hand,1277,HAND,noun,1,hand
+9296_vomiremitvomit,"vomir, emit vomit",1278,VOMIT,verb,1,vomit
+3978_fall,fall,1280,FALL,verb,1,fall
+5235_jailprison,"jail, prison",1281,PRISON,noun,0,"prison, jail"
+8874_today,today,1283,TODAY,other,0,today
+1369_weatherbehot,(weather) be hot,1286,HOT,adjective,0,hot
+3054_coldegwater,cold (e.g. water),1287,COLD,adjective,1,cold
+2064_backbody,back (body),1291,BACK,noun,1,back
+2069_backrearofsth,"back, rear (of sth)",1291,BACK,noun,1,back
+2074_badnogood,"bad, no good",1292,BAD,adjective,1,bad
+3877_errormistake,"error, mistake",1293,MISTAKE,noun,0,"mistake, error"
+5530_leg,leg,1297,LEG,noun,1,leg
+3205_countryland,"country, land",1300,COUNTRY,noun,0,country
+4223_foot,foot,1301,FOOT,noun,1,foot
+4242_forkinroad,fork (in road),1302,FORK,noun,0,fork (2)
+4115_finger,finger,1303,FINGER,noun,0,finger
+5361_languagedialect,"language, dialect",1307,LANGUAGE,noun,0,language
+2012_askaquestionofsb,ask a question of (sb),1309,ASK (INQUIRE),verb,0,"ask (question, inquire)"
+3020_cleverastutesly,"clever, astute, sly",1310,CLEVER,adjective,0,clever
+6146_moon,moon,1313,MOON,noun,1,moon
+8698_tent,tent,1316,TENT,noun,0,tent
+2929_chicken,chicken,1318,CHICKEN,noun,0,chicken
+2611_breakfast,breakfast,1322,BREAKFAST,noun,0,breakfast
+7883_slideslip,"slide, slip",1324,SLIP,verb,0,"slide, slip"
+4277_friendcasual,friend (casual),1325,FRIEND,noun,0,"friend, companion"
+8886_tomorrow,tomorrow,1329,TOMORROW,other,0,tomorrow
+7675_sheep,sheep,1331,SHEEP,noun,0,sheep
+6320_neighbor,neighbor,1332,NEIGHBOUR,noun,0,neighbor
+6292_neck,neck,1333,NECK,noun,1,neck
+9466_whitelightcolored,"white, light-colored",1335,WHITE,adjective,1,white
+3754_eatmeal,eat (meal),1336,EAT,verb,1,eat
+6706_pig,pig,1337,PIG,noun,0,pig
+6609_peacetranquility,"peace, tranquility",1338,PEACE,noun,0,peace
+8529_sun,sun,1343,SUN,noun,1,sun
+2821_castratedbullrambillygoat,"castrated (bull, ram, billygoat)",1344,RAM,noun,0,ram
+7082_ram,ram,1344,RAM,noun,0,ram
+3902_ewe,ewe,1345,EWE,noun,0,ewe
+8809_throatexterior,throat (exterior),1346,THROAT,noun,0,throat
+8810_throatinterior,throat (interior),1346,THROAT,noun,0,throat
+6257_napebelowskull,nape (below skull),1347,NAPE (OF NECK),noun,0,nape of neck
+5310_knife,knife,1352,KNIFE,noun,0,knife
+5474_laughgiveoutalaugh,"laugh, give out a laugh",1355,LAUGH,verb,1,laugh
+3398_daughter,daughter,1357,DAUGHTER,noun,0,daughter
+3838_enemy,enemy,1358,ENEMY,noun,0,enemy
+7587_separateputspacebetweenthings,"separate, put space between (things)",1359,SEPARATE,verb,0,separate
+9293_voiceofsbcharacteristiccallofanimal,"voice (of sb), characteristic call (of animal)",1363,VOICE,noun,0,voice
+2200_behealthy,be healthy,1364,HEALTHY,adjective,0,"well, health"
+2552_boy,boy,1366,BOY,noun,0,boy
+2577_bread,bread,1368,BREAD,noun,0,bread
+4498_gold,gold,1369,GOLD,noun,0,gold
+6143_month,month,1370,MONTH,noun,0,month
+5307_knee,knee,1371,KNEE,noun,1,knee
+5966_medicationremedy,"medication, remedy",1372,MEDICINE,noun,0,"medicine, drug"
+7292_ringonfinger,ring (on finger),1374,RING,noun,0,ring (for finger)
+9515_windowfullsized,window (full-sized),1375,WINDOW,noun,0,window
+6398_now,now,1376,NOW,other,0,now
+8242_spoon,spoon,1378,SPOON,noun,0,spoon
+8895_tooth,tooth,1380,TOOTH,noun,1,tooth
+7698_shoefootwearanykind,"shoe, footwear (any kind)",1381,SHOE,noun,0,shoe
+6314_needlesewing,needle (sewing),1382,NEEDLE (FOR SEWING),noun,0,needle
+4535_grandfather,grandfather,1383,GRANDFATHER,noun,0,grandfather
+7549_secondordinal,second (ordinal),1384,SECOND,other,0,second
+1999_arriveatreach,"arrive at, reach",1387,ARRIVE,verb,0,"reach, arrive"
+7621_shadeshadows,"shade, shadows",1388,SHADE,noun,0,"shade, shadow"
+8875_toe,toe,1389,TOE,noun,0,toe
+3876_errbeinerrorbewrongverbonly,"err, be in error, be wrong (verb only)",1390,WRONG,adjective,0,wrong
+6321_neighborhoodquartersectionofavillageortown,"neighborhood, quarter (section of a village or town)",1391,TOWN,noun,0,"city, town"
+4978_hornofanimal,horn (of animal),1393,HORN (ANATOMY),noun,1,horn
+2508_bone,bone,1394,BONE,noun,1,bone
+5090_inacircleroundadverb,"in a circle, round (adverb)",1395,ROUND,adjective,1,round
+7649_sharpblade,sharp (blade),1396,SHARP,adjective,1,sharp
+3671_dryadjective,dry (adjective),1398,DRY,adjective,1,dry
+3000_clay,clay,1399,CLAY,noun,0,clay
+3649_drinksth,drink (sth),1401,DRINK,verb,1,drink
+4052_femalebreast,female breast,1402,BREAST,noun,1,breast (of woman)
+1142_sbmammalbitesb,"(sb, mammal) bite (sb)",1403,BITE,verb,1,bite
+1186_snakebitesb,(snake) bite (sb),1403,BITE,verb,1,bite
+8420_straightobject,straight (object),1404,STRAIGHT,adjective,1,straight
+8424_straightdirectroad,"straight, direct (road)",1404,STRAIGHT,adjective,1,straight
+5166_installnameachief,"install, name (a chief)",1405,NAME,noun,1,name
+3536_distantremotekinship,"distant, remote (kinship)",1406,FAR,adjective,1,far (adv)
+3992_fardistant,"far, distant",1406,FAR,adjective,1,far (adv)
+4828_hearsoundvoice,"hear (sound, voice)",1408,HEAR,verb,1,hear
+7566_see,see,1409,SEE,verb,1,see
+5329_knowafactregularverb,know (a fact) (regular verb),1410,KNOW (SOMETHING),verb,0,know
+5330_knowafactdefectiveverb,"know (a fact, defective verb)",1410,KNOW (SOMETHING),verb,0,know
+4740_havefunplaysinganddance,"have fun, play, sing and dance",1413,PLAY,verb,1,play
+8284_squeezemashsthsoft,"squeeze, mash (sth. soft)",1414,SQUEEZE,verb,1,"squeeze, wring"
+7822_sitorperchontheedgeegofachair,sit or perch on the edge (e.g. of a chair),1416,SIT,verb,1,sit
+5291_kill,kill,1417,KILL,verb,1,kill
+3485_digsth,dig (sth),1418,DIG,verb,1,dig
+3204_countrecitenumbers,"count, recite numbers",1420,COUNT,verb,1,count
+8517_suckegcandy,suck (e.g. candy),1421,SUCK,verb,1,suck
+4082_fightverbonly,fight (verb only),1423,FIGHT,verb,1,fight (vb)
+9686_yellow,yellow,1424,YELLOW,adjective,1,yellow
+4556_green,green,1425,GREEN,adjective,1,green
+3920_expensive,expensive,1426,EXPENSIVE,adjective,0,"dear (costly, expensive)"
+6900_prettybeautiful,"pretty, beautiful",1427,BEAUTIFUL,adjective,0,beautiful
+4318_fullcontainer,full (container),1429,FULL,adjective,1,full
+8306_star,star,1430,STAR,noun,1,star
+3353_cutorbreakstoneintosmallpieces,cut or break (stone) into small pieces,1432,CUT,verb,1,cut
+5032_huntverbonly,hunt (verb only),1435,HUNT,verb,1,hunt
+8239_splitwood,split (wood),1437,SPLIT,verb,1,split
+8563_swimverbonly,swim (verb only),1439,SWIM,verb,1,swim
+8225_spitemitaspit,"spit, emit a spit",1440,SPIT,verb,1,spit
+322_egbirdfly,(e.g. bird) fly,1441,FLY (MOVE THROUGH AIR),verb,1,fly (vb)
+8303_standbeinstandingposition,"stand, be in standing position",1442,STAND,verb,1,stand
+8472_strollnounawalk,"stroll (noun), (a) walk",1443,WALK,verb,1,walk
+1153_sbsthturnaroundegtolook,"(sb, sth) turn around (e.g. to look)",1444,TURN AROUND,verb,0,turn around
+9021_turnoverearthinfieldwithdabatoholdrainwaterortoweedaroundpeanutplants,"turn over (earth in field, with daba, to hold rainwater or to weed around peanut plants)",1445,TURN (SOMETHING),verb,0,turn over
+3078_come,come,1446,COME,verb,1,come
+4401_give,give,1447,GIVE,verb,1,give
+4580_gripsticksmallobjectinonesclenchedhand,"grip (stick, small object) in one's clenched hand",1448,HOLD,verb,0,hold
+4952_holdholdonto,"hold, hold on to",1448,HOLD,verb,0,hold
+2786_caressrubgentlywithfingersorpalm,"caress, rub gently with fingers or palm",1449,RUB,verb,1,"rub, wipe"
+7537_scrubwetclothinginwashingsuchthattwosurfacesofthegarmentrubtogetherbackandforth,"scrub (wet clothing, in washing) such that two surfaces of the garment rub together back and forth",1449,RUB,verb,1,"rub, wipe"
+6979_push,push,1452,PUSH,verb,1,"push, shove"
+9337_washclothing,wash (clothing),1453,WASH,verb,1,wash
+9339_washoneshands,wash (one's hands),1453,WASH,verb,1,wash
+9340_washpotsknivesetc,"wash (pots, knives, etc.)",1453,WASH,verb,1,wash
+6941_pullsth,pull (sth),1455,PULL,verb,1,pull
+8811_throwegstone,throw (e.g. stone),1456,THROW,verb,1,throw
+7617_sewwithneedle,sew (with needle),1457,SEW,verb,1,sew
+7475_say,say,1458,SAY,verb,1,say
+2321_becomegiddyordrunkfromovereatingorfromalcohol,become giddy or drunk (from over-eating or from alcohol),1463,DRUNK,adjective,0,intoxicated
+2986_circle,circle,1467,CIRCLE,noun,0,circle
+5685_lookforseek,"look for, seek",1468,LOOK FOR,verb,0,"seek, look for"
+9397_week,week,1469,WEEK,noun,0,week
+4211_foldpapergarment,"fold (paper, garment)",1470,FOLD,verb,0,fold
+3056_coldseasonwinterjanuarymarch,"cold season, winter (January-March)",1471,WINTER,noun,0,winter
+5284_keyfortraditionallock,key (for traditional lock),1472,KEY,noun,0,key
+5279_keepsthegduringtheabsenceofitsowner,keep (sth) (e.g. during the absence of its owner),1477,KEEP,verb,0,"keep, retain"
+2501_body,body,1480,BODY,noun,0,body
+4636_hammerwithstraightwoodenhandle,hammer (with straight wooden handle),1481,HAMMER,noun,0,hammer
+6356_nine,nine,1483,NINE,numeral,0,nine
+6422_oilpeanutforcooking,"oil (peanut, for cooking)",1484,OIL (ORGANIC SUBSTANCE),noun,0,oil
+2399_belowunderneathadverb,"below, underneath (adverb)",1485,BELOW OR UNDER,other,0,under
+338_egchildpourwaterfromaheavybucketcarriedonhisheaddirectlyintoajar,"(e.g. child) pour (water, from a heavy bucket carried on his head, directly into a jar)",1487,POUR,verb,0,pour
+3031_cloud,cloud,1489,CLOUD,noun,1,cloud
+6469_one,one,1493,ONE,numeral,1,one
+4659_happy,happy,1495,HAPPY,adjective,0,"joyful, glad, happy"
+4537_grandmother,grandmother,1496,GRANDMOTHER,noun,0,grandmother
+9043_two,two,1498,TWO,numeral,1,two
+4264_four,four,1500,FOUR,numeral,1,four
+4492_goat,goat,1502,GOAT,noun,0,goat
+5955_measuresth,measure (sth),1506,MEASURE,verb,0,measure
+4314_fruitofplant,fruit (of plant),1507,FRUIT,noun,1,fruit
+2961_chin,chin,1510,CHIN,noun,0,chin
+7346_rooster,rooster,1511,ROOSTER,noun,0,"cock, rooster"
+8693_ten,ten,1515,TEN,numeral,0,ten
+2276_bestupid,be stupid,1518,STUPID,adjective,0,"foolish, stupid"
+7415_run,run,1519,RUN,verb,0,run
+4239_forget,forget,1523,FORGET,verb,0,forget
+5932_mealcooked,meal (cooked),1526,MEAL,noun,0,meal (a)
+6584_pardonforgivesb,"pardon, forgive (sb)",1528,FORGIVE,verb,0,forgive
+1003_sbbelastlagbehindbeintherear,"(sb) be last, lag behind, be in the rear",1529,LAST (FINAL),other,0,last
+5456_lastfinalinaseries,"last, final (in a series)",1529,LAST (FINAL),other,0,last
+2546_bowlpantroughorconcavewaterjarshardwhereoneputswaterorfoodforadog,"bowl, pan, trough, or concave waterjar shard where one puts water or food for a dog",1530,BOWL,noun,0,bowl
+4068_feverandvariouscomplications,fever (and various complications),1534,FEVER,noun,0,fever
+8573_swordsaberanytype,"sword, saber (any type)",1535,SWORD,noun,0,sword
+9094_understand,understand,1536,UNDERSTAND,verb,0,understand
+2132_basketmadewithbranchesusedtofilterfruitjuicestamarindwildgrape,"basket made with branches used to filter fruit juices (tamarind, wild grape)",1539,BASKET,noun,0,basket
+3952_eyelashhairofeyelid,eyelash (hair of eyelid),1540,EYELASH,noun,0,eyelash
+9637_workinthefieldsdofarmworkverbonly,"work in the fields, do farm work (verb only)",1541,CULTIVATE,verb,0,"cultivate, till"
+8049_snail,snail,1543,SNAIL,noun,0,snail
+8119_sometimes,sometimes,1544,SOMETIMES,other,0,sometimes
+4991_hostlodger,"host, lodger",1545,HOST,noun,0,host
+9027_twice,twice,1546,TWICE,other,0,two times
+9063_ugly,ugly,1548,UGLY,adjective,0,ugly
+5884_manmaleperson,"man, male person",1554,MAN,noun,0,man (vs. woman)
+3771_eggyolkyellow,egg yolk (yellow),1556,YOLK,noun,0,egg yolk
+5601_likethis,like this,1558,SIMILAR,adjective,0,"like, similar"
+6142_moneycurrencycash,"money, currency, cash",1559,MONEY,noun,0,money
+3958_face,face,1560,FACE,noun,0,face
+265_colonialarmy,(colonial) army,1561,ARMY,noun,0,army
+2215_belazy,be lazy,1564,LAZY,adjective,0,lazy
+4840_heaven,heaven,1565,HEAVEN,noun,0,heaven
+7576_sell,sell,1571,SELL,verb,0,sell
+977_sbbeamazedsurprised,"(sb) be amazed, surprised",1572,SURPRISED,adjective,0,"surprised, astonished"
+5838_makelargepileofpileupharvestedcrop,"make large pile of, pile up (harvested crop)",1576,PILE UP,verb,0,pile up
+1915_andxandynouns,"and (X and Y, nouns)",1577,AND,other,1,and
+6489_only,only,1580,ONLY,other,0,"alone, only"
+2566_braintissue,brain (tissue),1583,BRAIN,noun,0,brain
+2475_blisteronskin,blister (on skin),1584,BLISTER,noun,0,blister
+4484_gotosleepfallasleepsleep,"go to sleep, fall asleep, sleep",1585,SLEEP,verb,1,sleep
+8381_stinksmellbad,"stink, smell bad",1587,SMELL (STINK),verb,0,smell (vb intrans)
+2918_chestbody,chest (body),1592,CHEST,noun,0,chest
+3426_deepholewell,"deep (hole, well)",1593,DEEP,adjective,0,deep
+4196_flourpowder,"flour, powder",1594,FLOUR,noun,0,"meal, flour"
+8158_south,south,1595,SOUTH,noun,0,south
+5646_lockondooretc,"lock (on door, etc.)",1596,LOCK,noun,0,lock (noun)
+6373_north,north,1598,NORTH,noun,0,north
+9634_wordnameofsth,"word, name (of sth)",1599,WORD,noun,0,word
+9379_weakfeeblepersonoranimal,"weak, feeble (person or animal)",1601,WEAK,adjective,0,weak
+9305_wakeupawaken,"wake up, awaken",1602,WAKE UP,verb,0,wake up
+7847_skull,skull,1605,SKULL,noun,0,skull
+6463_ontheinsideinsideadverb,"on the inside, inside (adverb)",1606,INSIDE,other,0,"inside, in"
+4716_hatesbafoodetc,"hate (sb, a food, etc.)",1607,HATE,verb,0,hate
+5627_listentosthsb,"listen to (sth, sb)",1608,LISTEN,verb,0,listen
+6922_prostitutewhore,"prostitute, whore",1610,PROSTITUTE,noun,0,prostitute
+3071_colorasinwhatcolor,color (as in what color?),1613,COLOR,noun,0,color
+3956_fabriccloth,"fabric, cloth",1616,CLOTH,noun,0,cloth
+8128_son,son,1620,SON,noun,0,son
+8059_sneezeverbonly,sneeze (verb only),1621,SNEEZE,verb,0,sneeze
+2527_boubourobeorshirtalltypes,boubou (robe) or shirt (all types),1622,SHIRT,noun,0,shirt
+8173_speakverbonly,speak (verb only),1623,SPEAK,verb,0,"speak, talk"
+3815_emptycontaineradj,empty (container) (adj),1624,EMPTY,adjective,0,empty
+3923_explainsthtosb,"explain (sth, to sb)",1626,EXPLAIN,verb,0,explain
+3887_evening910pmtimeforeveningconversations,"evening (9-10 PM, time for evening conversations)",1629,EVENING,noun,0,evening
+4003_fastrapidlyquickly,"fast, rapidly, quickly",1631,FAST,adjective,0,"swift, fast, quick"
+7046_quickrapidfastadjective,"quick, rapid, fast (adjective)",1631,FAST,adjective,0,"swift, fast, quick"
+4179_flatlevelgroundsurface,"flat, level (ground, surface)",1633,FLAT,adjective,0,flat
+5028_hundred,hundred,1634,HUNDRED,numeral,0,hundred
+7754_siblingany,sibling (any),1640,SIBLING,noun,0,sibling
+5303_kinsmanrelative,"kinsman, relative",1644,RELATIVES,noun,0,"relatives, kinsmen"
+7713_short,short,1645,SHORT,adjective,1,short
+4397_girl,girl,1646,GIRL,noun,0,girl
+1956_anvil,anvil,1648,ANVIL,noun,0,anvil
+8678_tearsliquid,tears (liquid),1651,TEAR (OF EYE),noun,0,tear (noun)
+5594_lightningflashseeninsky,lightning flash (seen in sky),1654,LIGHTNING,noun,0,lightning
+2473_blinkoneseyes,blink (one's eyes),1655,BLINK,verb,0,blink
+6326_never,never,1656,NEVER,other,0,never
+6903_primaryordinaryauthenticrealtruespeciestype,"primary, ordinary, authentic, real, true (species, type)",1657,TRUE,adjective,0,true
+761_modernbed,(modern) bed,1663,BED,noun,0,bed
+2307_beatplaytomtom,"beat, play (tomtom)",2133,STRIKE OR BEAT,verb,0,"strike (hit, beat)"
+4956_holepunctureeginclothing,"hole, puncture (e.g. in clothing)",1667,HOLE,noun,0,hole
+4568_griefafteradeath,grief (after a death),1668,GRIEF,noun,0,"grief, sorrow, sadness"
+1913_ancestorscollective,ancestors (collective),1669,ANCESTORS,noun,0,ancestors
+9673_writesth,write (sth),1672,WRITE,verb,0,write
+1985_arm,arm,1673,ARM,noun,0,arm
+6870_poverty,poverty,1674,POOR,adjective,0,poor
+5828_makeapromisepromisesthtosb,"make a promise, promise (sth, to sb)",1675,PROMISE,verb,0,promise
+1887_always,always,1676,ALWAYS,other,0,always
+5046_hutfulbestylewithstalks,"hut (Fulbe style, with stalks)",1678,HUT,noun,0,hut
+6034_midrifffattyspotabovehipnearkidneys,"midriff, fatty spot above hip near kidneys",1681,WAIST,noun,0,waist
+5466_laterafterward,"later, afterward",1685,AFTER,other,0,after
+2367_behindattherearofsth,"behind, at the rear of (sth)",1686,BEHIND,other,0,behind
+8043_smoketobacco,smoke (tobacco),1689,SMOKE (INHALE),verb,0,smoke (tobacco)
+4059_fenceforgarden,fence (for garden),1690,FENCE,noun,0,fence
+1496_friday,Friday,1692,FRIDAY,noun,0,Friday
+1593_thursday,Thursday,1693,THURSDAY,noun,0,Thursday
+1604_wednesday,Wednesday,1694,WEDNESDAY,noun,0,Wednesday
+1602_tuesday,Tuesday,1695,TUESDAY,noun,0,Tuesday
+1558_monday,Monday,1697,MONDAY,noun,0,Monday
+1588_sunday,Sunday,1699,SUNDAY,noun,0,Sunday
+1577_saturday,Saturday,1700,SATURDAY,noun,0,Saturday
+7830_six,six,1703,SIX,numeral,0,six
+7610_seven,seven,1704,SEVEN,numeral,0,seven
+3773_eight,eight,1705,EIGHT,numeral,0,eight
+3797_eleven,eleven,1706,ELEVEN,numeral,0,eleven
+9025_twelve,twelve,1707,TWELVE,numeral,0,twelve
+4078_fifteen,fifteen,1709,FIFTEEN,numeral,0,fifteen
+9026_twenty,twenty,1710,TWENTY,numeral,0,twenty
+6259_narratetellstory,"narrate, tell (story)",1711,TELL,verb,0,tell story
+6405_oathactofswearingthetruthofanassertioninvokinggod,"oath, act of swearing (the truth of an assertion, invoking God)",1712,OATH,noun,0,oath
+2714_burysb,bury (sb),1719,BURY,verb,0,bury (the dead)
+9421_wetadjective,wet (adjective),1726,WET,adjective,1,"wet, damp"
+7365_rottenadjective,rotten (adjective),1728,ROTTEN,adjective,1,rotten
+2916_cheek,cheek,1730,CHEEK,noun,0,cheek
+7848_sky,sky,1732,SKY,noun,1,sky
+7058_rainbow,rainbow,1733,RAINBOW,noun,0,rainbow
+7305_riptearsth,"rip, tear (sth)",1735,TEAR (SHRED),verb,0,tear
+1083_sbjoinwithoneormoreothers,(sb) join with (one or more others),1743,JOIN,verb,0,"join, unite"
+8230_spleen,spleen,1744,SPLEEN,noun,0,spleen
+4903_hip,hip,1745,HIP,noun,0,hip
+8473_strolltakeawalkverbonly,"stroll, take (a walk) (verb only)",1749,TAKE,verb,0,take
+8588_takesthgeneralword,take (sth) (general word),1749,TAKE,verb,0,take
+2967_chooseselectsth,"choose, select (sth)",1750,CHOOSE,verb,0,choose
+3457_departleaveexitgofromaplace,"depart, leave, exit, go from (a place)",1752,LEAVE,verb,0,"go away, depart"
+5523_leaveabandonsbsth,"leave, abandon (sb, sth)",1752,LEAVE,verb,0,"go away, depart"
+2558_bracelet,bracelet,1754,BRACELET,noun,0,bracelet
+9491_widownotyetremarried,widow (not yet remarried),1756,WIDOW,noun,0,widow
+2281_betiredwearysufferingphysically,"be tired, weary, suffering (physically)",1757,TIRED,adjective,0,"tired, weary"
+3789_eldersisterofmanorwoman,elder sister (of man or woman),1758,OLDER SISTER,noun,0,older sister
+3783_elderbrotherofmanorwoman,elder brother (of man or woman),1759,OLDER BROTHER,noun,0,older brother
+9710_youngerbrotherofmanorwoman,younger brother (of man or woman),1760,YOUNGER BROTHER,noun,0,younger brother
+9715_youngersisterofawoman,younger sister (of a woman),1761,YOUNGER SISTER,noun,0,younger sister
+3035_clubassociationoffriends,"club, association (of friends)",1763,CLUB,noun,0,club
+4118_finishsth,finish (sth),1766,FINISH,verb,0,finish
+7496_scalescrapethescalesoffafish,"scale, scrape the scales off (a fish)",1767,SCRAPE,verb,0,scrape
+7517_scourscrapeegpot,"scour, scrape (e.g. pot)",1767,SCRAPE,verb,0,scrape
+4297_frothfoamontea,"froth, foam (on tea)",1768,FOAM,noun,0,foam
+4546_gravefinalrestingplacespotwhereacorpseisburied,"grave, final resting place, spot where a corpse is buried",1773,GRAVE,noun,0,"grave, tomb"
+8380_stingymiserlywithmoney,"stingy, miserly (with money)",1774,STINGY,adjective,0,"avaricious, stingy"
+8577_tablesellingstand,"table, selling stand",1775,TABLE,noun,0,table
+7633_shameduetoashamefulaction,shame (due to a shameful action),1776,SHAME,noun,0,shame (noun)
+1969_approachcomeclose,"approach, come close",1778,APPROACH,verb,0,approach
+3085_comenearapproachhere,"come near, approach (here)",1778,APPROACH,verb,0,approach
+3387_daretodosth,dare (to do sth),1779,DARE,verb,0,dare
+8819_thumb,thumb,1781,THUMB,noun,0,thumb
+6567_painpainfulinjury,"pain, painful injury",1783,PAIN,noun,0,pain
+9326_wantlikelovesth,"want, like, love (sth)",1784,WANT,verb,0,"desire, want"
+5692_loomweaverscompleteapparatus,loom (weaver's complete apparatus),1787,LOOM,noun,0,loom
+1845_ageofsb,age (of sb),1789,AGE,noun,0,age
+955_sbschildsonordaughter,(sb's) child (son or daughter),1801,CHILD (DESCENDANT),noun,0,offspring (son or daughter)
+9581_wood,wood,1803,WOOD,noun,0,wood
+1843_afternoon2pmtodusk,afternoon (2 PM to dusk),1807,AFTERNOON,noun,0,afternoon
+6978_pus,pus,1808,PUS,noun,0,pus
+1724_accusedenouncesb,"accuse, denounce (sb)",1814,ACCUSE,verb,0,accuse
+2406_besideatthesideofsth,"beside, at the side of (sth)",1816,BESIDE,other,0,beside
+9419_west,west,1817,WEST,noun,0,west
+5681_lookat,look at,1819,LOOK,verb,0,"look, look at"
+2517_borrowsthfromsb,"borrow (sth, from sb)",1823,BORROW,verb,0,borrow
+7236_requestaskforsth,"request, ask for (sth)",1828,ASK (REQUEST),verb,0,"ask, request"
+5263_jumpverbonly,jump (verb only),1829,JUMP,verb,0,"jump, leap"
+3824_encountersbonastroll,"encounter (sb, on a stroll)",1831,MEET,verb,0,meet
+8535_supper,supper,1833,DINNER (SUPPER),noun,0,dinner
+6283_navel,navel,1838,NAVEL,noun,0,navel
+9399_weepverbonly,weep (verb only),1839,CRY,verb,0,"cry, weep"
+2678_buildhouse,build (house),1840,BUILD,verb,0,build
+8799_thousand,thousand,1843,THOUSAND,numeral,0,thousand
+2497_boatskiff,boat (skiff),1844,BOAT,noun,0,boat
+2084_ballglobesphericalobject,"ball, globe, spherical object",1845,BALL,noun,0,"sphere, ball"
+2266_besick,be sick,1847,SICK,adjective,0,"sick, sickness"
+811_objectsinrowsadverb,(objects) in rows (adverb),1849,ROW,verb,0,row (vb)
+3189_cotton,cotton,1850,COTTON,noun,0,cotton
+6781_pocket,pocket,1851,POCKET,noun,0,pocket
+6707_pigeondomestic,pigeon (domestic),1853,DOVE,noun,0,dove
+8085_softflourfabric,"soft (flour, fabric)",1856,SOFT,adjective,0,soft
+8095_softyieldingsand,"soft, yielding (sand)",1856,SOFT,adjective,0,soft
+8782_thirdordinal,third (ordinal),1859,THIRD,other,0,third
+2295_bead,bead,1860,BEAD,noun,0,bead
+3605_donkey,donkey,1862,DONKEY,noun,0,"ass, donkey"
+5029_hungernoun,hunger (noun),1864,HUNGER,noun,0,hunger
+8508_stutterverbonly,stutter (verb only),1866,STUTTER,verb,0,"stutter, stammer"
+3051_coingeneralterm,coin (general term),1867,COIN,noun,0,coin
+2731_buypurchase,"buy, purchase",1869,BUY,verb,0,buy
+2771_camel,camel,1871,CAMEL,noun,0,camel
+7177_regretverbbesorry,"regret (verb), be sorry",1875,REGRET,verb,0,"regret, be sorry"
+3748_east,east,1877,EAST,noun,0,east
+3378_danceverbonly,dance (verb only),1879,DANCE,verb,0,dance
+2355_beforepreviouslyinthepast,"before, previously, in the past",1882,BEFORE,other,0,before
+5099_infrontofsth,in front of (sth),1883,IN FRONT OF,other,0,front
+4661_harddry,hard (dry),1884,HARD,adjective,0,hard
+4682_hardfirmsolidstiffsurfaceobject,"hard, firm, solid, stiff (surface, object)",1884,HARD,adjective,0,hard
+1987_armpitunderarmwhereinfantisgrabbed,"armpit, underarm (where infant is grabbed)",1886,ARMPIT,noun,0,armpit
+2914_cheapinexpensive,"cheap, inexpensive",1887,CHEAP,adjective,0,cheap
+2389_believethinkthat,"believe, think (that ...)",1890,BELIEVE,verb,0,believe
+8913_touchwithhand,touch (with hand),1892,TOUCH,verb,0,touch
+4344_garmentclothes,"garment, clothes",1895,CLOTHES,noun,0,"clothing, clothes"
+4856_helpsb,help (sb),1897,HELP,verb,0,"help, aid"
+2409_betraybreakapromiseoroath,"betray, break a promise or oath",1902,BETRAY,verb,0,betray
+3689_dupecheattricksb,"dupe, cheat, trick (sb)",1902,BETRAY,verb,0,betray
+125_aswellingofawound,(a) swelling (of a wound),1903,SWELLING,noun,0,swelling
+8154_souracidicacridtasteegoftamarind,"sour, acidic, acrid (taste, e.g. of tamarind)",1906,SOUR,adjective,0,"acid, sour"
+7624_shakeanentireobjectegatree,"shake (an entire object, e.g. a tree)",1909,SHAKE,verb,0,shake
+6891_pressfruitpitsespeciallyofkaritewithgrindingstones,"press (fruit pits, especially of karité) with grinding stones",1913,PRESS,verb,0,press
+8834_tietieupsthorsbwitharope,"tie, tie up (sth or sb, with a rope)",1917,TIE,verb,1,"tie, bind"
+3639_dreamverbonly,dream (verb only),1920,DREAM (SOMETHING),verb,0,dream
+7369_roughcoarsesurface,"rough, coarse (surface)",1923,ROUGH,adjective,0,rough
+3467_desistfromceaseanactivity,"desist from, cease (an activity)",1928,CEASE,verb,0,"cease, stop"
+8494_studyverbonly,study (verb only),1929,STUDY,verb,0,study
+2353_beeswax,beeswax,1931,BEESWAX,noun,0,beeswax
+8547_swearverbonly,swear (verb only),1939,SWEAR,verb,0,swear
+111_aguardwatchman,"(a) guard, watchman",1940,GUARD,noun,0,"guard, sentinel"
+4600_guardingwatchingoveregagardennoun,"guarding, watching over (e.g. a garden) (noun)",1940,GUARD,noun,0,"guard, sentinel"
+8102_soldiermodern,soldier (modern),1941,SOLDIER,noun,0,soldier
+6285_nearclose,"near, close",1942,NEAR,adjective,1,near (adv)
+1510_godallah,"God, Allah",1944,GOD,noun,0,God
+5053_idolfetishinanimism,"idol, fetish (in animism)",1945,IDOL,noun,0,idol
+7474_sawtoolegforsawingcalabashes,"saw (tool, e.g. for sawing calabashes)",1948,SAW,noun,0,saw
+4497_goiterswollenthyroidduetoiodinedeficiency,goiter (swollen thyroid due to iodine deficiency),1957,GOITER,noun,0,goiter
+9128_unripefruit,unripe (fruit),1958,UNRIPE,adjective,0,"green, unripe"
+9129_unripegrain,unripe (grain),1958,UNRIPE,adjective,0,"green, unripe"
+7102_rawuncookedmeat,"raw, uncooked (meat)",1959,RAW,adjective,0,raw
+6296_necklace,necklace,1961,NECKLACE,noun,0,necklace
+2025_atonceabruptly,"at once, abruptly",1963,IMMEDIATELY,other,0,immediately
+7287_rightnow,right now,1963,IMMEDIATELY,other,0,immediately
+2702_bunchsmallpileminimalunitofsaleegofpeanuts,"bunch, small pile (minimal unit of sale, e.g. of peanuts)",1966,BUNCH,noun,0,bunch
+3987_fanalltypes,fan (all types),1971,FAN (OBJECT),noun,0,fan (noun)
+4493_goatkid,goat kid,1972,YOUNG GOAT (KID),noun,0,kid
+3448_demonpagandevilopposedtogod,"demon, pagan devil opposed to God",1973,DEMON,noun,0,demon (evil spirit)
+3472_dew,dew,1977,DEW,noun,0,dew
+9496_widower,widower,1981,WIDOWER,noun,0,widower
+8065_snoreverbonly,snore (verb only),1983,SNORE,verb,0,snore
+8066_snoredosnoring,"snore, do snoring",1983,SNORE,verb,0,snore
+4019_fathersbrotheryoungerorelder,father's brother (younger or elder),1985,PATERNAL UNCLE (FATHER'S BROTHER),noun,0,father's brother
+2762_calf,calf,1989,CALF,noun,0,calf
+5185_intestinesbigandsmall,intestines (big and small),1991,INTESTINES,noun,0,"intestines, guts"
+6151_moretoagreaterextentwithpredicate,"more, to a greater extent (with predicate)",1992,MORE,other,0,more
+3059_collarboneclavicle,collarbone (clavicle),1994,COLLARBONE,noun,0,collarbone
+3094_commandbethechief,"command, be the chief",1998,COMMAND,verb,0,"command, order"
+3630_drawanimageverbonly,draw (an image) (verb only),2001,PAINTING,verb,0,paint (vb)
+3540_ditch,ditch,2002,DITCH,noun,0,ditch
+208_bloodfromaseriouswoundflowgushoutpourout,"(blood from a serious wound) flow, gush out, pour out",2003,FLOW,verb,1,flow
+3595_dog,dog,2009,DOG,noun,1,dog
+4457_godown,go down,2014,GO DOWN (DESCEND),verb,0,go down
+6106_mixcombinesthandsth,"mix, combine (sth and sth)",2017,MIX,verb,0,"stir, mix"
+4102_findacceptableadmitoracceptsthsbafteranevaluation,"find acceptable, admit or accept (sth/sb, after an evaluation)",2022,ADMIT,verb,0,"admit, confess"
+3283_crowdlargegathering,"crowd, large gathering",2023,CROWD,noun,0,"multitude, crowd"
+8402_stonerock,"stone, rock",2125,STONE OR ROCK,noun,0,"stone, rock"
+5762_magicianonewhodoesmagictricks,"magician, one who does magic tricks",2137,MAGICIAN,noun,0,"sorcerer, witch"
+6599_pathofsborsth,path (of sb or sth),2252,PATH,noun,0,path
+680_liquiddriponedropatatime,(liquid) drip (one drop at a time),2253,DRIP (EMIT LIQUID),verb,0,drip
+4186_fleshmuscletissue,"flesh, muscle tissue",2259,FLESH,noun,0,flesh
+2428_billygoatmalegoat,"billygoat, male goat",2475,MALE GOAT,noun,0,he-goat
+3588_domake,"do, make",2575,DO OR MAKE,verb,0,"do, make"
+4812_headhair,head hair,2648,HAIR (HEAD),noun,0,hair (head)
+4021_fatherssister,father's sister,2691,PATERNAL AUNT (FATHER'S SISTER),noun,0,father's sister
+6163_mothersbrother,mother's brother,2692,MATERNAL UNCLE (MOTHER'S BROTHER),noun,0,mother's brother
+437_egstickbedroppedbysb,(e.g. stick) be dropped (by sb),2866,DROP (SOMETHING),verb,0,drop (vb)
+5549_letdroploadcarriedonhead,let drop (load carried on head),2866,DROP (SOMETHING),verb,0,drop (vb)
+3177_copperalloysyellowish,copper alloys (yellowish),3192,BRONZE OR COPPER,noun,0,"copper, bronze"
+357_egfallentreeimpedeblockthepassageofsb,"(e.g. fallen tree) impede, block the passage of (sb)",3201,HINDER OR PREVENT,verb,0,"hinder, prevent"
+7222_rentsthtosb,"rent (sth, to sb)",3213,HIRE OR RENT,verb,0,hire
+6114_moderncookingpotegceramicoriron,modern cooking pot (e.g. ceramic or iron),3653,COOKING POT,noun,0,"pot, cooking vessel"
