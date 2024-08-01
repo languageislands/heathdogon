@@ -7,16 +7,16 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from Heath et al's \"Dogon Comparative Wordlist\" from 2016",
-    "dcat:accessURL": "git@github.com:languageislands/heathdogon",
+    "dcat:accessURL": "https://github.com/languageorphans/heathdogon",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "git@github.com:languageislands/heathdogon",
+            "rdf:about": "https://github.com/languageorphans/heathdogon",
             "rdf:type": "prov:Entity",
-            "dc:created": "592f12d",
+            "dc:created": "v0.2.alpha-7-g0ca1248",
             "dc:title": "Repository"
         },
         {
-            "rdf:about": "git@github.com:glottolog/glottolog",
+            "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
             "dc:created": "v5.0",
             "dc:title": "Glottolog"
@@ -28,7 +28,7 @@
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts/",
+            "rdf:about": "https://github.com/cldf-clts/clts",
             "rdf:type": "prov:Entity",
             "dc:created": "v2.3.0",
             "dc:title": "CLTS"
@@ -41,7 +41,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.12.3"
+            "dc:description": "3.12.4"
         },
         {
             "dc:title": "python-packages",
@@ -253,7 +253,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 944,
+            "dc:extent": 945,
             "tableSchema": {
                 "columns": [
                     {

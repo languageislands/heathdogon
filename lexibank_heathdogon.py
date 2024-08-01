@@ -7,6 +7,7 @@ from lingpy import *
 import attr
 from unicodedata import normalize
 
+
 @attr.s
 class CustomConcept(Concept):
     PartOfSpeech = attr.ib(default=None)
@@ -66,6 +67,8 @@ def ungroup(sounds):
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "heathdogon"
+    writer_options = dict(keep_languages=False, keep_parameters=False)
+
     language_class = CustomLanguage
     concept_class = CustomConcept
     lexeme_class = CustomLexeme
@@ -88,7 +91,7 @@ class Dataset(BaseDataset):
             ("[X cɛ̀lɛ̀] ", ""),
             ('\u0008', ''),
             ('\u030ct', 't'),
-            ('#', ''), 
+            ('#', ''),
             ('"', ''),
             (" → ", " "),
             ("ⁿ ~ wⁿ (human)", ""),
@@ -99,7 +102,7 @@ class Dataset(BaseDataset):
             (' ', '_'),
             ],  # replacements with spaces
     )
-    
+
     def cmd_download(self, args):
 
         url = "https://github.com/clld/dogonlanguages-data/raw/master/beta/Dogon.comp.vocab.UNICODE-2017.xls"
@@ -124,7 +127,6 @@ class Dataset(BaseDataset):
 
         # Write languages
         args.writer.add_languages()
-
 
         # check for manually separated cases
         language_mapper = {
@@ -171,8 +173,7 @@ class Dataset(BaseDataset):
                 concepts[concept['ENGLISH'].replace('"', '')] = idx
 
         # Write forms
-        lexicon = self.raw_dir.read_csv("Dogon.comp.vocab.UNICODE-2017.lexicon.csv",
-                dicts=True)
+        lexicon = self.raw_dir.read_csv("Dogon.comp.vocab.UNICODE-2017.lexicon.csv", dicts=True)
         missing = set()
         missing_values = set()
         visited = set()
@@ -188,41 +189,42 @@ class Dataset(BaseDataset):
                     entry = row[lname].replace('-', '').strip()
                     if entry and entry[0] in "([{" and entry[-1] in ")]}":
                         continue
-                    elif entry in ["ⁿ ~ wⁿ (human)", 
-                            "→ (prolongation, final Htone)",
-                            ": (length, falling tone)",
-                            "[ǹdò ŋ̀gá] ... wɔ́",
-                            "(floating L) X",
-                            "[kú ôm] X wǒ",
-                            "[ú yà→] [bírɛ́ yà→], [bìrɛ̀ wó] pǒ:",
-                            "[bɛ̀nnà: íŋ]̀ nì:",
-                            "X yà Y yà",
-                            "X=: (length)",
-                            "→ (vowel prolongation, rising pitch)",
-                            " ̀(final Ltone)",
-                            "[X lè] Y tégé",
-                            "(jɛ̀mbɛ)̀ bálàlù",
-                            "(nàmà)̀ kíndɛ́",
-                            "V gɛ díɛ́", 
-                            "(sɔ̀w yàa)̀ jíbú, yàà jìbé",
-                            'sɔ̀: [kû: sɛ̀lɛ̀] [dúlɔ̀ sɛ̀lɛ̀] ("talk without a head or a tail")', 
-                            "=∴",
-                            "N",
-                            "\u0060",
-                            "\u0060(final Ltone)",
-                            "[X jɛ́ nɛ̀] X",
-                            "ADJ, ADJ=ẃ (Inan), ADJ=ŋ́ (AnSg), ADJ=yɛ́ (AnPl)",
-                            "Y [X bày] kíyɛ́",
-                            "ní: ! nì:",
-                            "hàlí ... [X là] ... (mɛ̀)",
-                            "[X dá:rú] Y sà",
-                            "{L} after Lfinal pronoun or " 
-                            "undetermined noun, {HL} after others",
-                            "mì X=:",
-                            ] or "VERB" in entry or "{L}, Astem)" in entry or \
-                                    "final Ltone" in entry or "..." in entry \
-                                    or "…" in entry or "∅" in entry or "X" in \
-                                    entry or "VERB" in entry:
+                    elif entry in [
+                        "ⁿ ~ wⁿ (human)",
+                        "→ (prolongation, final Htone)",
+                        ": (length, falling tone)",
+                        "[ǹdò ŋ̀gá] ... wɔ́",
+                        "(floating L) X",
+                        "[kú ôm] X wǒ",
+                        "[ú yà→] [bírɛ́ yà→], [bìrɛ̀ wó] pǒ:",
+                        "[bɛ̀nnà: íŋ]̀ nì:",
+                        "X yà Y yà",
+                        "X=: (length)",
+                        "→ (vowel prolongation, rising pitch)",
+                        " ̀(final Ltone)",
+                        "[X lè] Y tégé",
+                        "(jɛ̀mbɛ)̀ bálàlù",
+                        "(nàmà)̀ kíndɛ́",
+                        "V gɛ díɛ́", 
+                        "(sɔ̀w yàa)̀ jíbú, yàà jìbé",
+                        'sɔ̀: [kû: sɛ̀lɛ̀] [dúlɔ̀ sɛ̀lɛ̀] ("talk without a head or a tail")', 
+                        "=∴",
+                        "N",
+                        "\u0060",
+                        "\u0060(final Ltone)",
+                        "[X jɛ́ nɛ̀] X",
+                        "ADJ, ADJ=ẃ (Inan), ADJ=ŋ́ (AnSg), ADJ=yɛ́ (AnPl)",
+                        "Y [X bày] kíyɛ́",
+                        "ní: ! nì:",
+                        "hàlí ... [X là] ... (mɛ̀)",
+                        "[X dá:rú] Y sà",
+                        "{L} after Lfinal pronoun or "
+                        "undetermined noun, {HL} after others",
+                        "mì X=:",
+                        ] or "VERB" in entry or "{L}, Astem)" in entry or \
+                                "final Ltone" in entry or "..." in entry \
+                                or "…" in entry or "∅" in entry or "X" in \
+                                entry or "VERB" in entry:
                         continue
                     if entry:
                         if entry in self.lexemes:
@@ -265,7 +267,7 @@ class Dataset(BaseDataset):
                                         new_form, new_segments = get_form(
                                                 manual_data["FORM"],
                                                 self)
-    
+
                                     else:
                                         new_form, new_segments = form, segments
 

@@ -22,11 +22,15 @@
     "contributors": [
         {
             "name": "Abbie Hantgan",
-            "type": "Other"
+            "type": "Editor"
         },
         {
             "name": "Johann-Mattis List",
-            "type": "Other"
+            "type": "Editor"
+        },
+        {
+            "name": "Promise Dodzi Kpoglu",
+            "type": "Editor"
         }
     ],
     "communities": [
