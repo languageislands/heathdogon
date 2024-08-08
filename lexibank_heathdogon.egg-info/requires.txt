@@ -1,0 +1,4 @@
+pylexibank>=2.6.0
+
+[test]
+pytest-cldf

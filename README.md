@@ -16,8 +16,8 @@ If you use these data please cite
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
-![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
-![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
+![BIPA: 88%](https://img.shields.io/badge/BIPA-88%25-yellowgreen.svg "BIPA: 88%")
+![CLTS SoundClass: 89%](https://img.shields.io/badge/CLTS%20SoundClass-89%25-yellowgreen.svg "CLTS SoundClass: 89%")
 
 - **Varieties:** 24
 - **Concepts:** 944
@@ -25,9 +25,9 @@ If you use these data please cite
 - **Sources:** 1
 - **Synonymy:** 1.00
 - **Invalid lexemes:** 0
-- **Tokens:** 84,819
-- **Segments:** 115 (0 BIPA errors, 0 CLTS sound class errors, 115 CLTS modified)
-- **Inventory size (avg):** 74.17
+- **Tokens:** 88,686
+- **Segments:** 84 (10 BIPA errors, 9 CLTS sound class errors, 75 CLTS modified)
+- **Inventory size (avg):** 51.83
 
 # Contributors
 
@@ -47,4 +47,4 @@ Steven Moran | | data collector | Author
 
 The following CLDF datasets are available in [cldf](cldf):
 
-- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf\cldf-metadata.json](cldf\cldf-metadata.json)

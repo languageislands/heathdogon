@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: lexibank_heathdogon
+Version: 0.0.0
+Summary: CLDF dataset derived from Heath et al's "Dogon Comparative Wordlist" from 2016
+Home-page: 
+License-File: LICENSE
+Requires-Dist: pylexibank>=2.6.0
+Provides-Extra: test
+Requires-Dist: pytest-cldf; extra == "test"

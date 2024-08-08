@@ -1,0 +1,2 @@
+[lexibank.dataset]
+heathdogon = lexibank_heathdogon:Dataset

@@ -1,0 +1,11 @@
+LICENSE
+README.md
+lexibank_heathdogon.py
+setup.py
+lexibank_heathdogon.egg-info/PKG-INFO
+lexibank_heathdogon.egg-info/SOURCES.txt
+lexibank_heathdogon.egg-info/dependency_links.txt
+lexibank_heathdogon.egg-info/entry_points.txt
+lexibank_heathdogon.egg-info/not-zip-safe
+lexibank_heathdogon.egg-info/requires.txt
+lexibank_heathdogon.egg-info/top_level.txt
