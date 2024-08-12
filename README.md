@@ -1,10 +1,12 @@
 # CLDF dataset derived from Heath et al's "Dogon Comparative Wordlist" from 2016
 
+[![CLDF validation](https://github.com/languageorphans/heathdogon/workflows/CLDF-validation/badge.svg)](https://github.com/languageorphans/heathdogon/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
 - the original source
-  > Moran, Steven & Forkel, Robert & Heath, Jeffrey (eds.) 2016. Dogon and Bangime Linguistics. Jena: Max Planck Institute for the Science of Human History. (Available online at http://dogonlanguages.org, Accessed on 2023-08-10.)
+  > Moran, Steven & Forkel, Robert & Heath, Jeffrey (eds.) 2016. Dogon and Bangime Linguistics. Jena: Max Planck Institute for the Science of Human History. (Available online at http://dogonlanguages.info, Accessed on 2024-08-12.)
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -13,6 +15,7 @@ If you use these data please cite
 ## Statistics
 
 
+[![CLDF validation](https://github.com/languageorphans/heathdogon/workflows/CLDF-validation/badge.svg)](https://github.com/languageorphans/heathdogon/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 100%](https://img.shields.io/badge/Concepticon-100%25-brightgreen.svg "Concepticon: 100%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
