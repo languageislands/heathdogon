@@ -103,12 +103,6 @@ class Dataset(BaseDataset):
             ],  # replacements with spaces
     )
 
-    def cmd_download(self, args):
-
-        url = "https://github.com/clld/dogonlanguages-data/raw/master/beta/Dogon.comp.vocab.UNICODE-2017.xls"
-        self.raw_dir.download(url, "Dogon.comp.vocab.UNICODE-2017.xls")
-        self.raw_dir.xls2csv("Dogon.comp.vocab.UNICODE-2017.xls")
-
     def cmd_makecldf(self, args):
         """
         Convert the raw data to a CLDF dataset.

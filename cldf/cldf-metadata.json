@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Moran, Steven & Forkel, Robert & Heath, Jeffrey (eds.) 2016. Dogon and Bangime Linguistics. Jena: Max Planck Institute for the Science of Human History. (Available online at http://dogonlanguages.org, Accessed on 2023-08-10.)",
+    "dc:bibliographicCitation": "Moran, Steven & Forkel, Robert & Heath, Jeffrey (eds.) 2016. Dogon and Bangime Linguistics. Jena: Max Planck Institute for the Science of Human History. (Available online at http://dogonlanguages.info, Accessed on 2024-08-12.)",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:isVersionOf": null,
     "dc:related": null,
@@ -12,7 +12,7 @@
         {
             "rdf:about": "https://github.com/languageorphans/heathdogon",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.2.alpha-7-g0ca1248",
+            "dc:created": "v0.2.alpha-9-g1eb237d",
             "dc:title": "Repository"
         },
         {
@@ -253,7 +253,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 945,
+            "dc:extent": 944,
             "tableSchema": {
                 "columns": [
                     {
