@@ -19,7 +19,7 @@ These methods use the attributes of a `FormSpec` instance to configure their beh
   Flag signaling whether to strip content in brackets (**and** strip leading and trailing whitespace)
 - `replacements`: `[('⌫', ''), ('̀̌[X mà cɛ́nɛ̀] ', ''), ('… ', ''), ('ADJ ', ''), ('̌ ', ''), (' ̌', ''), ('[X cɛ́lɛ̀] ɲàwⁿá', 'ɲàwⁿá'), ('[X cɛ̀lɛ̀] ', ''), ('\x08', ''), ('̌t', 't'), ('#', ''), ('"', ''), (' → ', ' '), ('ⁿ ~ wⁿ (human)', ''), ('̌k', 'k'), ('̌d', 'd'), ('jògù dùyé ` dónì', 'jògù dùyé dónì'), (' PRON ', ''), (' ', '_')]`
   List of pairs (`source`, `target`) used to replace occurrences of `source` in formswith `target` (before stripping content in brackets)
-- `first_form_only`: `True`
+- `first_form_only`: `False`
   Flag signaling whether at most one form should be returned from `split` - effectively ignoring any spelling variants, etc.
 - `normalize_whitespace`: `True`
   Flag signaling whether to normalize whitespace - stripping leading and trailing whitespace and collapsing multi-character whitespace to single spaces

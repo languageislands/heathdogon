@@ -75,7 +75,7 @@ class Dataset(BaseDataset):
         separators=";/,&~,\\",  # characters that split forms e.g. "a, b".
         missing_data=("∅", "?", "-", "{I", "-:_", "xxx", "-ⁿ"),  # characters that denote missing data.
         strip_inside_brackets=True,  # do you want data removed in brackets?
-        first_form_only=True,  # We ignore all the plural forms
+        first_form_only=False,  # We ignore all the plural forms
         replacements=[
             ('\u232b', ''),
             (",̀̌[X mà cɛ́nɛ̀] "[1:], ""),

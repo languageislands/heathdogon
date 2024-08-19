@@ -27,6 +27,8 @@ def data_preparer(output_name='manually-edited.csv', data=data_path):
     df.loc[df["POS"] == "verb", "PARSED FORM"] = df[df["POS"] == "verb"]["PARSED"].apply(parse_verb_data)
     df.loc[df["POS"].isin(["adjective", "numeral"]), "SINGULAR"] = df[df["POS"].isin(["adjective", "numeral"])]["PARSED"].apply(parse_adj_num_data)
     df.loc[df["POS"].isin(["pronoun", "other"]), "SINGULAR"] = df[df["POS"].isin(["pronoun", "other"])]["PARSED"].apply(parse_other_data)
+
+    print(f"\nAll data succesfully parsed\nOutput found at {output_path}\n")
     
     return df.to_csv(output_path, index=False)
 

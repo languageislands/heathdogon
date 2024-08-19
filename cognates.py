@@ -19,6 +19,8 @@ def get_cognates():
     # run analysis
     lex.get_partial_scorer(runs=10000)
     lex.partial_cluster(ref="cogids", method="lexstat", threshold=0.55, cluster_method="upgma")
+    lex.output("tsv", filename=data[:-4] + "-lexstat_output", ignore="all",
+                prettify=False)
 
     # get new wordlist with cognates (without the specific columns)
     new_wl = {0: columns}
