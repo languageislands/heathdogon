@@ -9,7 +9,7 @@ def get_coverage():
 
     retain = []
     for language, coverage in wl.coverage().items():
-        if coverage > 288:
+        if coverage > 750:
             retain += [language]
 
     # create new wordlist

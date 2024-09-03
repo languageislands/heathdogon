@@ -1,7 +1,13 @@
-.PHONY: all grouped ungrouped coverage cognates
+.PHONY: all manual_data install bench grouped ungrouped coverage cognates
 
-all: grouped ungrouped coverage cognates
+all: manual_data install bench grouped ungrouped coverage cognates
 
+manual_data:
+	python prepare_manual_data.py
+install:
+	pip install -e .
+bench:
+	cldfbench lexibank.makecldf --glottolog="C:/Users/Promise Dodzi Kpoglu/glottolog" --concepticon="C:/Users/Promise Dodzi Kpoglu/concepticon-data" --clts="C:/Users/Promise Dodzi Kpoglu/clts" --glottolog-version=v5.0 --concepticon-version=v3.2.0 --clts-version=v2.3.0 heathdogon
 
 grouped:
 	edictor wordlist --dataset="cldf/cldf-metadata.json" \
