@@ -316,7 +316,7 @@ yⁿ	j.∼
 yⁿ̀	j.∼
 ýⁿ	j.∼
 ^:r	r
-áà:y	á.à j
+áà:y	á.à.à.j
 àà:	à.à
 àá:	à.á
 ɛ́ɛ̀:	ɛ́.ɛ̀
@@ -343,7 +343,7 @@ l̀	l
 l:	l.l
 :m	m
 m	m
-ḿ	m
+ḿ	m
 m̀	m
 m̀ᵇ	m̀ᵇ
 m̀:	m
@@ -379,7 +379,7 @@ ǹ:	n.n
 ɲ̀	ɲ
 ɳ	ɲ
 2	NULL
--	-
+-	+
 ̀	NULL
 !	NULL
 .	NULL
@@ -501,7 +501,7 @@ v̀	v
 w	w
 wᵃ	w
 ẃ	w
-ẁ	w
+ẁ	w
 w̃	w.∼
 wⁿ	w.∼
 wⁿ́	w.∼
@@ -569,7 +569,7 @@ __	+
 _..._	+
 ...	NULL
 _X_	+
-j́	dʒ
+j́	j
 nj́	ndʒ
 nj	ndʒ
 ^nj	ndʒ
@@ -619,3 +619,12 @@ PRON	NULL
 ̌_#_	+
 ^nɔ̌:	nɔ̀.ɔ́
 )	NULL
+-$	NULL
+^-	NULL
+∼		  .∼
+́        NULL
+̌        NULL
+j̀	j 
+m̀ᵇ	m.b
+ᵇ	.b
+ḱ	k

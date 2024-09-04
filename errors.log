@@ -1,0 +1,16 @@
+ID	Tokens	Error-Type
+14768	<bad character in tokens at «<<́>>»>	t ʃ ɛ + <<́>> r ɛ́
+14779	<bad character in tokens at «<<́>>»>	t ʃ ɛ + <<́>> r á
+14780	<bad character in tokens at «<<́>>»>	t ʃ ɛ + <<́>> r á
+14789	<bad character in tokens at «<<́>>»>	t ʃ ɛ + <<́>> r ɛ́
+14797	<bad character in tokens at «<<́>>»>	t ʃ ɛ + <<́>> r á
+14798	<bad character in tokens at «<<́>>»>	t ʃ ɛ + <<́>> r á
+10935	<bad character in tokens at «<<́>>»>	d ʒ a + <<́>> á b ɛ́
+16567	<bad character in tokens at «~»>	d ù m ɲ ì + dʒ ~
+15411	<bad character in tokens at «<<́>>»>	d ʒ ɛ + <<́>> ɛ́ r ɛ́
+15412	<bad character in tokens at «<<́>>»>	d ʒ ɛ + <<́>> ɛ́ r ɛ́
+15413	<bad character in tokens at «<<́>>»>	d ʒ ɛ + <<́>> ɛ́ l ɛ́
+6364	<bad character in tokens at «ḿ»>	ḿ b ò l
+14078	<bad character in tokens at «<<̌>>»>	d ʒ ɔ + <<̌>> m n ɔ́
+14079	<bad character in tokens at «<<̌>>»>	d ʒ ɔ + <<̌>> m n ɔ́
+7734	<bad character in tokens at «~»>	d ù m ì + dʒ ~

@@ -1,11 +1,8 @@
 {
     "by_language": {
         "Ampari": {
-            "bipa_errors": [
-                "-",
-                "<<\u223c>>"
-            ],
-            "general_errors": 92,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -227,14 +224,9 @@
                     "\u223c"
                 ]
             },
-            "sclass_errors": [
-                "-",
-                "<<\u223c>>"
-            ],
+            "sclass_errors": [],
             "segments": {
-                "+": 5,
-                "-": 78,
-                "<<\u223c>>": 14,
+                "+": 83,
                 "b": 5,
                 "d": 22,
                 "d\u0292": 5,
@@ -278,13 +270,11 @@
         },
         "BankanTey": {
             "bipa_errors": [
-                "-",
                 "\u1e3f",
-                "j\u0300",
-                "<<\u223c>>",
-                "<<\u0301>>"
+                "<<\u0301>>",
+                "j\u0300"
             ],
-            "general_errors": 942,
+            "general_errors": 3,
             "replacements": {
                 "+": [
                     "+"
@@ -507,17 +497,13 @@
                 ]
             },
             "sclass_errors": [
-                "-",
                 "\u1e3f",
-                "j\u0300",
-                "<<\u223c>>",
-                "<<\u0301>>"
+                "<<\u0301>>",
+                "j\u0300"
             ],
             "segments": {
-                "+": 78,
-                "-": 811,
+                "+": 889,
                 "<<\u0301>>": 1,
-                "<<\u223c>>": 128,
                 "a": 1,
                 "b": 80,
                 "d": 137,
@@ -581,12 +567,10 @@
         },
         "BenTey": {
             "bipa_errors": [
-                "-",
-                "<<\u223c>>",
-                "\u1d47",
-                "<<\u0301>>"
+                "<<\u0301>>",
+                "\u1d47"
             ],
-            "general_errors": 1051,
+            "general_errors": 4,
             "replacements": {
                 "+": [
                     "+"
@@ -809,16 +793,12 @@
                 ]
             },
             "sclass_errors": [
-                "-",
-                "<<\u223c>>",
-                "\u1d47",
-                "<<\u0301>>"
+                "<<\u0301>>",
+                "\u1d47"
             ],
             "segments": {
-                "+": 79,
-                "-": 840,
+                "+": 919,
                 "<<\u0301>>": 3,
-                "<<\u223c>>": 207,
                 "a": 2,
                 "b": 104,
                 "d": 206,
@@ -881,11 +861,8 @@
             }
         },
         "Bunoge": {
-            "bipa_errors": [
-                "-",
-                "<<\u223c>>"
-            ],
-            "general_errors": 551,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -1107,14 +1084,9 @@
                     "\u223c"
                 ]
             },
-            "sclass_errors": [
-                "-",
-                "<<\u223c>>"
-            ],
+            "sclass_errors": [],
             "segments": {
-                "+": 42,
-                "-": 535,
-                "<<\u223c>>": 16,
+                "+": 577,
                 "b": 126,
                 "d": 142,
                 "d\u0292": 13,
@@ -1160,12 +1132,10 @@
         },
         "DogulDomBendiely": {
             "bipa_errors": [
-                "-",
-                "<<\u223c>>",
                 "\u1e3f",
                 "\u1e31"
             ],
-            "general_errors": 380,
+            "general_errors": 2,
             "replacements": {
                 "+": [
                     "+"
@@ -1388,15 +1358,11 @@
                 ]
             },
             "sclass_errors": [
-                "-",
-                "<<\u223c>>",
                 "\u1e3f",
                 "\u1e31"
             ],
             "segments": {
-                "+": 61,
-                "-": 376,
-                "<<\u223c>>": 2,
+                "+": 437,
                 "a": 2,
                 "b": 61,
                 "d": 98,
@@ -1449,11 +1415,9 @@
         },
         "DogulDomKundialang": {
             "bipa_errors": [
-                "-",
-                "<<\u223c>>",
                 "\u1e3f"
             ],
-            "general_errors": 428,
+            "general_errors": 1,
             "replacements": {
                 "+": [
                     "+"
@@ -1676,14 +1640,10 @@
                 ]
             },
             "sclass_errors": [
-                "-",
-                "<<\u223c>>",
                 "\u1e3f"
             ],
             "segments": {
-                "+": 41,
-                "-": 424,
-                "<<\u223c>>": 3,
+                "+": 465,
                 "b": 74,
                 "d": 110,
                 "d\u0292": 5,
@@ -1744,12 +1704,10 @@
         },
         "DonnoSo": {
             "bipa_errors": [
-                "-",
                 "\u1e81",
-                "<<\u223c>>",
                 "<<\u0301>>"
             ],
-            "general_errors": 855,
+            "general_errors": 3,
             "replacements": {
                 "+": [
                     "+"
@@ -1972,16 +1930,12 @@
                 ]
             },
             "sclass_errors": [
-                "-",
                 "\u1e81",
-                "<<\u223c>>",
                 "<<\u0301>>"
             ],
             "segments": {
-                "+": 58,
-                "-": 848,
+                "+": 906,
                 "<<\u0301>>": 2,
-                "<<\u223c>>": 4,
                 "b": 135,
                 "d": 259,
                 "d\u0292": 12,
@@ -2039,11 +1993,8 @@
             }
         },
         "Gourou": {
-            "bipa_errors": [
-                "-",
-                "<<\u223c>>"
-            ],
-            "general_errors": 358,
+            "bipa_errors": [],
+            "general_errors": 0,
             "replacements": {
                 "+": [
                     "+"
@@ -2265,14 +2216,9 @@
                     "\u223c"
                 ]
             },
-            "sclass_errors": [
-                "-",
-                "<<\u223c>>"
-            ],
+            "sclass_errors": [],
             "segments": {
-                "+": 45,
-                "-": 287,
-                "<<\u223c>>": 71,
+                "+": 332,
                 "a": 1,
                 "b": 34,
                 "d": 51,
@@ -2328,11 +2274,9 @@
         },
         "JamsayDouentza": {
             "bipa_errors": [
-                "-",
-                "<<\u223c>>",
                 "<<\u0301>>"
             ],
-            "general_errors": 947,
+            "general_errors": 4,
             "replacements": {
                 "+": [
                     "+"
@@ -2555,15 +2499,11 @@
                 ]
             },
             "sclass_errors": [
-                "-",
-                "<<\u223c>>",
                 "<<\u0301>>"
             ],
             "segments": {
-                "+": 72,
-                "-": 784,
+                "+": 856,
                 "<<\u0301>>": 4,
-                "<<\u223c>>": 159,
                 "a": 2,
                 "b": 99,
                 "d": 267,
@@ -2627,11 +2567,9 @@
         },
         "JamsayMondoro": {
             "bipa_errors": [
-                "-",
-                "<<\u223c>>",
                 "<<\u0301>>"
             ],
-            "general_errors": 274,
+            "general_errors": 1,
             "replacements": {
                 "+": [
                     "+"
@@ -2854,15 +2792,11 @@
                 ]
             },
             "sclass_errors": [
-                "-",
-                "<<\u223c>>",
                 "<<\u0301>>"
             ],
             "segments": {
-                "+": 5,
-                "-": 217,
+                "+": 222,
                 "<<\u0301>>": 1,
-                "<<\u223c>>": 56,
                 "b": 11,
                 "d": 80,
                 "d\u0292": 11,
@@ -2914,11 +2848,9 @@
         },
         "Mombo": {
             "bipa_errors": [
-                "-",
-                "<<\u223c>>",
                 "<<\u0301>>"
             ],
-            "general_errors": 762,
+            "general_errors": 1,
             "replacements": {
                 "+": [
                     "+"
@@ -3141,15 +3073,11 @@
                 ]
             },
             "sclass_errors": [
-                "-",
-                "<<\u223c>>",
                 "<<\u0301>>"
             ],
             "segments": {
-                "+": 186,
-                "-": 725,
+                "+": 911,
                 "<<\u0301>>": 1,
-                "<<\u223c>>": 36,
                 "a": 1,
                 "b": 134,
                 "d": 201,
@@ -3201,11 +3129,9 @@
         },
         "Najamba": {
             "bipa_errors": [
-                "-",
-                "<<\u223c>>",
                 "<<\u0301>>"
             ],
-            "general_errors": 1012,
+            "general_errors": 1,
             "replacements": {
                 "+": [
                     "+"
@@ -3428,15 +3354,11 @@
                 ]
             },
             "sclass_errors": [
-                "-",
-                "<<\u223c>>",
                 "<<\u0301>>"
             ],
             "segments": {
-                "+": 86,
-                "-": 1002,
+                "+": 1088,
                 "<<\u0301>>": 1,
-                "<<\u223c>>": 9,
                 "a": 1,
                 "b": 170,
                 "d": 257,
@@ -3500,12 +3422,10 @@
         },
         "Nanga": {
             "bipa_errors": [
-                "-",
-                "<<\u0301>>",
-                "<<\u223c>>",
-                "\u1e81"
+                "\u1e81",
+                "<<\u0301>>"
             ],
-            "general_errors": 1090,
+            "general_errors": 2,
             "replacements": {
                 "+": [
                     "+"
@@ -3728,16 +3648,12 @@
                 ]
             },
             "sclass_errors": [
-                "-",
-                "<<\u0301>>",
-                "<<\u223c>>",
-                "\u1e81"
+                "\u1e81",
+                "<<\u0301>>"
             ],
             "segments": {
-                "+": 76,
-                "-": 926,
+                "+": 1002,
                 "<<\u0301>>": 1,
-                "<<\u223c>>": 162,
                 "a": 2,
                 "b": 114,
                 "d": 208,
@@ -3797,11 +3713,9 @@
         },
         "Penange": {
             "bipa_errors": [
-                "-",
-                "<<\u223c>>",
                 "<<\u0301>>"
             ],
-            "general_errors": 550,
+            "general_errors": 1,
             "replacements": {
                 "+": [
                     "+"
@@ -4024,15 +3938,11 @@
                 ]
             },
             "sclass_errors": [
-                "-",
-                "<<\u223c>>",
                 "<<\u0301>>"
             ],
             "segments": {
-                "+": 44,
-                "-": 530,
+                "+": 574,
                 "<<\u0301>>": 1,
-                "<<\u223c>>": 19,
                 "a": 2,
                 "b": 77,
                 "d": 144,
@@ -4083,11 +3993,9 @@
         },
         "PergeTegu": {
             "bipa_errors": [
-                "-",
-                "<<\u223c>>",
                 "\u0161"
             ],
-            "general_errors": 861,
+            "general_errors": 6,
             "replacements": {
                 "+": [
                     "+"
@@ -4310,14 +4218,10 @@
                 ]
             },
             "sclass_errors": [
-                "-",
-                "<<\u223c>>",
                 "\u0161"
             ],
             "segments": {
-                "+": 45,
-                "-": 699,
-                "<<\u223c>>": 156,
+                "+": 744,
                 "b": 71,
                 "d": 176,
                 "d\u0292": 37,
@@ -4376,12 +4280,10 @@
         },
         "TebulUre": {
             "bipa_errors": [
-                "-",
-                "<<\u223c>>",
                 "\u1e3f",
                 "<<\u0301>>"
             ],
-            "general_errors": 557,
+            "general_errors": 3,
             "replacements": {
                 "+": [
                     "+"
@@ -4604,16 +4506,12 @@
                 ]
             },
             "sclass_errors": [
-                "-",
-                "<<\u223c>>",
                 "\u1e3f",
                 "<<\u0301>>"
             ],
             "segments": {
-                "+": 35,
-                "-": 511,
+                "+": 546,
                 "<<\u0301>>": 1,
-                "<<\u223c>>": 43,
                 "b": 99,
                 "d": 177,
                 "d\u0292": 7,
@@ -4670,11 +4568,9 @@
         },
         "Tiranige": {
             "bipa_errors": [
-                "-",
-                "<<\u223c>>",
                 "<<\u0301>>"
             ],
-            "general_errors": 597,
+            "general_errors": 5,
             "replacements": {
                 "+": [
                     "+"
@@ -4897,15 +4793,11 @@
                 ]
             },
             "sclass_errors": [
-                "-",
-                "<<\u223c>>",
                 "<<\u0301>>"
             ],
             "segments": {
-                "+": 50,
-                "-": 576,
+                "+": 626,
                 "<<\u0301>>": 5,
-                "<<\u223c>>": 16,
                 "a": 1,
                 "b": 81,
                 "d": 134,
@@ -4955,12 +4847,10 @@
         },
         "TogoKan": {
             "bipa_errors": [
-                "-",
                 "<<\u0301>>",
-                "<<\u223c>>",
                 "j\u0300"
             ],
-            "general_errors": 838,
+            "general_errors": 5,
             "replacements": {
                 "+": [
                     "+"
@@ -5183,16 +5073,12 @@
                 ]
             },
             "sclass_errors": [
-                "-",
                 "<<\u0301>>",
-                "<<\u223c>>",
                 "j\u0300"
             ],
             "segments": {
-                "+": 62,
-                "-": 676,
+                "+": 738,
                 "<<\u0301>>": 4,
-                "<<\u223c>>": 157,
                 "b": 83,
                 "d": 238,
                 "d\u0292": 4,
@@ -5246,12 +5132,10 @@
         },
         "TommoSoTongoTongo": {
             "bipa_errors": [
-                "-",
-                "<<\u223c>>",
                 "\u1e3f",
                 "<<\u0301>>"
             ],
-            "general_errors": 890,
+            "general_errors": 3,
             "replacements": {
                 "+": [
                     "+"
@@ -5474,16 +5358,12 @@
                 ]
             },
             "sclass_errors": [
-                "-",
-                "<<\u223c>>",
                 "\u1e3f",
                 "<<\u0301>>"
             ],
             "segments": {
-                "+": 276,
-                "-": 870,
+                "+": 1146,
                 "<<\u0301>>": 1,
-                "<<\u223c>>": 17,
                 "a": 1,
                 "b": 195,
                 "d": 331,
@@ -5541,11 +5421,9 @@
         },
         "TomoKanDiangassagou": {
             "bipa_errors": [
-                "-",
-                "<<\u223c>>",
                 "<<\u0301>>"
             ],
-            "general_errors": 127,
+            "general_errors": 2,
             "replacements": {
                 "+": [
                     "+"
@@ -5768,15 +5646,11 @@
                 ]
             },
             "sclass_errors": [
-                "-",
-                "<<\u223c>>",
                 "<<\u0301>>"
             ],
             "segments": {
-                "+": 6,
-                "-": 112,
+                "+": 118,
                 "<<\u0301>>": 2,
-                "<<\u223c>>": 13,
                 "b": 20,
                 "d": 39,
                 "d\u0292": 5,
@@ -5822,11 +5696,9 @@
         },
         "TomoKanSegue": {
             "bipa_errors": [
-                "-",
-                "<<\u223c>>",
                 "<<\u0301>>"
             ],
-            "general_errors": 226,
+            "general_errors": 3,
             "replacements": {
                 "+": [
                     "+"
@@ -6049,15 +5921,11 @@
                 ]
             },
             "sclass_errors": [
-                "-",
-                "<<\u223c>>",
                 "<<\u0301>>"
             ],
             "segments": {
-                "+": 8,
-                "-": 194,
+                "+": 202,
                 "<<\u0301>>": 3,
-                "<<\u223c>>": 29,
                 "b": 32,
                 "d": 66,
                 "d\u0292": 6,
@@ -6102,12 +5970,10 @@
         },
         "ToroTegu": {
             "bipa_errors": [
-                "-",
-                "<<\u223c>>",
-                "m\u0300\u1d47",
-                "<<\u0301>>"
+                "<<\u0301>>",
+                "m\u0300\u1d47"
             ],
-            "general_errors": 1018,
+            "general_errors": 11,
             "replacements": {
                 "+": [
                     "+"
@@ -6330,16 +6196,12 @@
                 ]
             },
             "sclass_errors": [
-                "-",
-                "<<\u223c>>",
-                "m\u0300\u1d47",
-                "<<\u0301>>"
+                "<<\u0301>>",
+                "m\u0300\u1d47"
             ],
             "segments": {
-                "+": 90,
-                "-": 844,
+                "+": 934,
                 "<<\u0301>>": 10,
-                "<<\u223c>>": 163,
                 "b": 110,
                 "d": 150,
                 "d\u0292": 37,
@@ -6402,11 +6264,9 @@
         },
         "YandaDom": {
             "bipa_errors": [
-                "-",
-                "<<\u223c>>",
                 "\u1e3f"
             ],
-            "general_errors": 977,
+            "general_errors": 1,
             "replacements": {
                 "+": [
                     "+"
@@ -6629,14 +6489,10 @@
                 ]
             },
             "sclass_errors": [
-                "-",
-                "<<\u223c>>",
                 "\u1e3f"
             ],
             "segments": {
-                "+": 64,
-                "-": 915,
-                "<<\u223c>>": 61,
+                "+": 979,
                 "b": 157,
                 "d": 268,
                 "d\u0292": 23,
@@ -6696,12 +6552,10 @@
         },
         "YornoSo": {
             "bipa_errors": [
-                "-",
-                "<<\u223c>>",
-                "~",
-                "<<\u030c>>"
+                "<<\u030c>>",
+                "~"
             ],
-            "general_errors": 982,
+            "general_errors": 6,
             "replacements": {
                 "+": [
                     "+"
@@ -6924,16 +6778,12 @@
                 ]
             },
             "sclass_errors": [
-                "-",
-                "<<\u223c>>",
-                "~",
-                "<<\u030c>>"
+                "<<\u030c>>",
+                "~"
             ],
             "segments": {
-                "+": 73,
-                "-": 850,
+                "+": 923,
                 "<<\u030c>>": 4,
-                "<<\u223c>>": 126,
                 "a": 1,
                 "b": 157,
                 "d": 291,
@@ -6995,424 +6845,375 @@
     "stats": {
         "bad_words": [
             [
-                "BankanTey-2762_calf-1",
+                "Ampari-5656_longegrope-1",
+                "Ampari",
+                "5656_longegrope",
+                "mw\u025b\u0300-\u025b\u0300-\u223c",
+                "m w \u025b\u0300 + \u025b\u0300 +"
+            ],
+            [
+                "Ampari-7713_short-1",
+                "Ampari",
+                "7713_short",
+                "d\u00e8j-.\u223c",
+                "d \u00e8 d\u0292 +"
+            ],
+            [
+                "BankanTey-2421_biglarge-1",
                 "BankanTey",
-                "2762_calf",
-                "n\u00e0.\u00e0_y\u00ee-m",
-                "n \u00e0 \u00e0 + j \u00ee <s> - </s> m"
+                "2421_biglarge",
+                "d\u00edj.\u223c\u00e0w-.\u223c",
+                "d \u00ed d\u0292 \u00e0 w +"
             ],
             [
-                "BankanTey-2771_camel-1",
+                "BankanTey-3426_deepholewell-1",
                 "BankanTey",
-                "2771_camel",
-                "\u0254\u0300.\u0254\u0300_\u0272\u025b\u0302.\u223c-m",
-                "\u0254\u0300 \u0254\u0300 + \u0272 \u025b\u0302 <s> <<\u223c>> </s> <s> - </s> m"
+                "3426_deepholewell",
+                "n\u0254\u0300.\u0254\u0300.w-.\u223c",
+                "n \u0254\u0300 \u0254\u0300 w +"
             ],
             [
-                "BankanTey-2822_cat-1",
+                "BankanTey-3709_early-1",
                 "BankanTey",
-                "2822_cat",
-                "n\u00f9m\u01ce-m",
-                "n \u00f9 m \u01ce <s> - </s> m"
+                "3709_early",
+                "d\u0292\u00ecr\u00e8s\u00edj.\u223c\u00e0w-.\u223c",
+                "d \u0292 \u00ec r \u00e8 s \u00ed d\u0292 \u00e0 w +"
             ],
             [
-                "BankanTey-2822_cat-2",
+                "BankanTey-3992_fardistant-1",
                 "BankanTey",
-                "2822_cat",
-                "n\u00f9m\u01ce-m",
-                "n \u00f9 m \u01ce <s> - </s> m"
+                "3992_fardistant",
+                "w.\u223c\u00e1.\u00e0w-.\u223c",
+                "w \u00e1 \u00e0 w +"
             ],
             [
-                "BankanTey-3595_dog-1",
+                "BankanTey-5656_longegrope-1",
                 "BankanTey",
-                "3595_dog",
-                "\u01f9d\u0292\u00e8r\u00fb-m",
-                "n d \u0292 \u00e8 r \u00fb <s> - </s> m"
+                "5656_longegrope",
+                "\u0261\u00f9r.\u223c\u01cew-.\u223c",
+                "\u0261 \u00f9 r \u01ce w +"
             ],
             [
-                "BankanTey-3599_domesticanimalesplivestock-1",
+                "BankanTey-6010_middaynoon-1",
                 "BankanTey",
-                "3599_domesticanimalesplivestock",
-                "da\u0301.a\u0301b\u00e0-m",
-                "d \u00e1 \u00e1 b \u00e0 <s> - </s> m"
+                "6010_middaynoon",
+                "\u00f9s\u00f9_\u0254\u0302w-\u223c",
+                "\u00f9 s \u00f9 + \u0254\u0302 w +"
             ],
             [
-                "BankanTey-4492_goat-1",
+                "BankanTey-7284_righthandetc-1",
                 "BankanTey",
-                "4492_goat",
-                "b\u025b\u0301r\u00f9-m",
-                "b \u025b\u0301 r \u00f9 <s> - </s> m"
+                "7284_righthandetc",
+                "\u0272\u025b\u030cj-.\u223c",
+                "\u0272 \u025b\u030c d\u0292 +"
             ],
             [
-                "BankanTey-4492_goat-2",
+                "BankanTey-8260_spreadoutseparatelegsarms-3",
                 "BankanTey",
-                "4492_goat",
-                "b\u025b\u0301r\u00f9-m",
-                "b \u025b\u0301 r \u00f9 <s> - </s> m"
+                "8260_spreadoutseparatelegsarms",
+                "t\u00e1w-.\u223c",
+                "t \u00e1 w +"
             ],
             [
-                "BankanTey-4493_goatkid-1",
+                "BankanTey-8886_tomorrow-1",
                 "BankanTey",
-                "4493_goatkid",
-                "b\u025b\u0300r-y\u00ee-m",
-                "b \u025b\u0300 r <s> - </s> j \u00ee <s> - </s> m"
+                "8886_tomorrow",
+                "\u025b\u0301j-\u223c",
+                "\u025b\u0301 d\u0292 +"
             ],
             [
-                "BankanTey-4493_goatkid-2",
-                "BankanTey",
-                "4493_goatkid",
-                "b\u025b\u0300r-y\u00ee-m",
-                "b \u025b\u0300 r <s> - </s> j \u00ee <s> - </s> m"
-            ],
-            [
-                "BankanTey-7675_sheep-1",
-                "BankanTey",
-                "7675_sheep",
-                "p\u025b\u0300r\u025b\u030c-m",
-                "p \u025b\u0300 r \u025b\u030c <s> - </s> m"
-            ],
-            [
-                "BankanTey-7675_sheep-2",
-                "BankanTey",
-                "7675_sheep",
-                "p\u025b\u0300r\u025b\u030c-m",
-                "p \u025b\u0300 r \u025b\u030c <s> - </s> m"
-            ],
-            [
-                "BenTey-2428_billygoatmalegoat-1",
+                "BenTey-2678_buildhouse-1",
                 "BenTey",
-                "2428_billygoatmalegoat",
-                "b\u025b\u0300r_\u00e1r.\u223c\u00e0-m",
-                "b \u025b\u0300 r + \u00e1 r <s> <<\u223c>> </s> \u00e0 <s> - </s> m"
+                "2678_buildhouse",
+                "t\u0283\u025b-\u0301w.\u223c\u025b\u0301",
+                "t \u0283 \u025b + <s> <<\u0301>> </s> w \u025b\u0301"
             ],
             [
-                "BenTey-2696_bull-1",
+                "BenTey-3426_deepholewell-1",
                 "BenTey",
-                "2696_bull",
-                "n\u00e0.\u00e0_\u00e1r.\u223c\u00e0-m",
-                "n \u00e0 \u00e0 + \u00e1 r <s> <<\u223c>> </s> \u00e0 <s> - </s> m"
+                "3426_deepholewell",
+                "w\u00f3r.\u223c\u00f2w-.\u223c",
+                "w \u00f3 r \u00f2 w +"
             ],
             [
-                "BenTey-2762_calf-1",
+                "BenTey-3709_early-1",
                 "BenTey",
-                "2762_calf",
-                "n\u00e0.\u00e0_y\u01d0-m",
-                "n \u00e0 \u00e0 + j \u01d0 <s> - </s> m"
+                "3709_early",
+                "d\u0292\u00ecr\u00e8s\u00edj.\u223c\u00e0w-.\u223c",
+                "d \u0292 \u00ec r \u00e8 s \u00ed d\u0292 \u00e0 w +"
             ],
             [
-                "BenTey-2771_camel-1",
+                "BenTey-5525_lefthandetc-1",
                 "BenTey",
-                "2771_camel",
-                "\u0254\u0300.\u0254\u0300_\u0272\u00f9w.\u223c\u0254\u0302-m",
-                "\u0254\u0300 \u0254\u0300 + \u0272 \u00f9 w <s> <<\u223c>> </s> \u0254\u0302 <s> - </s> m"
+                "5525_lefthandetc",
+                "b\u00e0n\u01cej-.\u223c",
+                "b \u00e0 n \u01ce d\u0292 +"
             ],
             [
-                "BenTey-2822_cat-1",
+                "BenTey-6996_putpantsonsb-1",
                 "BenTey",
-                "2822_cat",
-                "n\u00ecn\u00ec-w.\u223c\u025b\u030c-m",
-                "n \u00ec n \u00ec <s> - </s> w <s> <<\u223c>> </s> \u025b\u030c <s> - </s> m"
+                "6996_putpantsonsb",
+                "\u0261\u01cej-.\u223c",
+                "\u0261 \u01ce d\u0292 +"
             ],
             [
-                "BenTey-3227_cowfemale-1",
+                "BenTey-7030_putonwearshoe-1",
                 "BenTey",
-                "3227_cowfemale",
-                "n\u00e0.\u00e0_y\u01ce-m",
-                "n \u00e0 \u00e0 + j \u01ce <s> - </s> m"
+                "7030_putonwearshoe",
+                "\u0261\u01cej-.\u223c",
+                "\u0261 \u01ce d\u0292 +"
             ],
             [
-                "BenTey-3595_dog-1",
+                "BenTey-7284_righthandetc-1",
                 "BenTey",
-                "3595_dog",
-                "\u00ecnj\u025b\u030c-m",
-                "\u00ec nd\u0292 \u025b\u030c <s> - </s> m"
+                "7284_righthandetc",
+                "\u0272\u025b\u030cj-.\u223c",
+                "\u0272 \u025b\u030c d\u0292 +"
             ],
             [
-                "BenTey-3595_dog-2",
+                "BenTey-8777_thinggeneralterm-1",
                 "BenTey",
-                "3595_dog",
-                "\u00ecnj\u025b\u030c-m",
-                "\u00ec nd\u0292 \u025b\u030c <s> - </s> m"
+                "8777_thinggeneralterm",
+                "k\u0254\u0301-\u0254\u0301-\u223c",
+                "k \u0254\u0301 + \u0254\u0301 +"
             ],
             [
-                "BenTey-3599_domesticanimalesplivestock-1",
-                "BenTey",
-                "3599_domesticanimalesplivestock",
-                "\u00e0rs\u025b\u0300.\u025b\u0301-m",
-                "\u00e0 r s \u025b\u0300 \u025b\u0301 <s> - </s> m"
-            ],
-            [
-                "BenTey-4492_goat-1",
-                "BenTey",
-                "4492_goat",
-                "b\u025b\u0301r\u00ec-m",
-                "b \u025b\u0301 r \u00ec <s> - </s> m"
-            ],
-            [
-                "BenTey-4492_goat-2",
-                "BenTey",
-                "4492_goat",
-                "b\u025b\u0301r\u00f9-m",
-                "b \u025b\u0301 r \u00f9 <s> - </s> m"
-            ],
-            [
-                "BenTey-4492_goat-3",
-                "BenTey",
-                "4492_goat",
-                "b\u025b\u0301r\u00f9-m",
-                "b \u025b\u0301 r \u00f9 <s> - </s> m"
-            ],
-            [
-                "BenTey-4493_goatkid-1",
-                "BenTey",
-                "4493_goatkid",
-                "b\u025b\u0300r_y\u00ed-m",
-                "b \u025b\u0300 r + j \u00ed <s> - </s> m"
-            ],
-            [
-                "BenTey-7675_sheep-1",
-                "BenTey",
-                "7675_sheep",
-                "p\u025b\u0300r\u025b\u030c-m",
-                "p \u025b\u0300 r \u025b\u030c <s> - </s> m"
-            ],
-            [
-                "Bunoge-2771_camel-1",
-                "Bunoge",
-                "2771_camel",
-                "\u0272\u0254\u0301\u014b\u0254\u0301-m\u025b\u0300",
-                "\u0272 \u0254\u0301 \u014b \u0254\u0301 <s> - </s> m \u025b\u0300"
-            ],
-            [
-                "Bunoge-3595_dog-1",
-                "Bunoge",
-                "3595_dog",
-                "\u0294\u00edn-j\u025b\u0300",
-                "\u0294 \u00ed n <s> - </s> d\u0292 \u025b\u0300"
-            ],
-            [
-                "Bunoge-3599_domesticanimalesplivestock-1",
-                "Bunoge",
-                "3599_domesticanimalesplivestock",
-                "k\u0254\u0301-mb\u0254\u0300",
-                "k \u0254\u0301 <s> - </s> mb \u0254\u0300"
-            ],
-            [
-                "DogulDomBendiely-2771_camel-1",
+                "DogulDomBendiely-2298_beard-1",
                 "DogulDomBendiely",
-                "2771_camel",
-                "y\u0254\u0301\u014b\u00f9-m\u025b\u0300",
-                "j \u0254\u0301 \u014b \u00f9 <s> - </s> m \u025b\u0300"
+                "2298_beard",
+                "b\u025b-\u223c\u025b-\u223c",
+                "b \u025b + \u025b +"
             ],
             [
-                "DogulDomBendiely-3599_domesticanimalesplivestock-1",
+                "DogulDomBendiely-2999_clawtalon-1",
                 "DogulDomBendiely",
-                "3599_domesticanimalesplivestock",
-                "b\u025b\u0301l\u025b\u0300-\u0261\u00f9",
-                "b \u025b\u0301 l \u025b\u0300 <s> - </s> \u0261 \u00f9"
+                "2999_clawtalon",
+                "\u1e31\u00f2b\u00f9l\u00fa-\u014b",
+                "<s> \u1e31 </s> \u00f2 b \u00f9 l \u00fa + \u014b"
             ],
             [
-                "DogulDomBendiely-4492_goat-1",
+                "DogulDomBendiely-4999_house-1",
                 "DogulDomBendiely",
-                "4492_goat",
-                "\u00edn\u00e0-\u00e0",
-                "\u00ed n \u00e0 <s> - </s> \u00e0"
+                "4999_house",
+                "\u1e3fb\u00f9\u014b",
+                "<s> \u1e3f </s> b \u00f9 \u014b"
             ],
             [
-                "DogulDomKundialang-2771_camel-1",
+                "DogulDomKundialang-2298_beard-1",
                 "DogulDomKundialang",
-                "2771_camel",
-                "y\u0254\u0301\u014b-m\u025b\u0300",
-                "j \u0254\u0301 \u014b <s> - </s> m \u025b\u0300"
+                "2298_beard",
+                "b\u025b\u0301-\u025b\u0300-\u223c",
+                "b \u025b\u0301 + \u025b\u0300 +"
             ],
             [
-                "DogulDomKundialang-4492_goat-1",
+                "DogulDomKundialang-5011_householdfamilysetofpeoplewhoeattogether-1",
                 "DogulDomKundialang",
-                "4492_goat",
-                "\u00edn\u00e0-\u00e0",
-                "\u00ed n \u00e0 <s> - </s> \u00e0"
+                "5011_householdfamilysetofpeoplewhoeattogether",
+                "\u1e3fb\u00f9\u014b",
+                "<s> \u1e3f </s> b \u00f9 \u014b"
             ],
             [
-                "DonnoSo-2822_cat-1",
+                "DonnoSo-712_manmarrywoman-1",
                 "DonnoSo",
-                "2822_cat",
-                "\u0261\u00e1m-m\u00e0",
-                "\u0261 \u00e1 m <s> - </s> m \u00e0"
+                "712_manmarrywoman",
+                "d\u0292\u025b-\u0301\u025b\u0300",
+                "d \u0292 \u025b + <s> <<\u0301>> </s> \u025b\u0300"
             ],
             [
-                "DonnoSo-4493_goatkid-1",
+                "DonnoSo-712_manmarrywoman-2",
                 "DonnoSo",
-                "4493_goatkid",
-                "\u025b\u0300n\u025b\u0300i\u0301-i\u0300",
-                "\u025b\u0300 n \u025b\u0300 \u00ed <s> - </s> \u00ec"
+                "712_manmarrywoman",
+                "d\u0292\u025b-\u0301\u025b\u0300",
+                "d \u0292 \u025b + <s> <<\u0301>> </s> \u025b\u0300"
             ],
             [
-                "Gourou-2771_camel-1",
+                "Gourou-2281_betiredwearysufferingphysically-1",
                 "Gourou",
-                "2771_camel",
-                "\u0254\u0300\u0263\u0254\u0300_j.\u223c\u00f9w.\u223c\u00f3",
-                "\u0254\u0300 \u0263 \u0254\u0300 + d\u0292 <s> <<\u223c>> </s> \u00f9 w <s> <<\u223c>> </s> \u00f3"
+                "2281_betiredwearysufferingphysically",
+                "d\u025b\u0301-\u025b\u0301-\u223c",
+                "d \u025b\u0301 + \u025b\u0301 +"
             ],
             [
-                "Gourou-2822_cat-1",
+                "Gourou-6430_oldthinganimal-1",
                 "Gourou",
-                "2822_cat",
-                "n\u00ec_n\u00ecw.\u223c\u00e9",
-                "n \u00ec + n \u00ec w <s> <<\u223c>> </s> \u00e9"
+                "6430_oldthinganimal",
+                "p\u025b\u0301j-.\u223c",
+                "p \u025b\u0301 d\u0292 +"
             ],
             [
-                "JamsayDouentza-2428_billygoatmalegoat-1",
+                "Gourou-7713_short-1",
+                "Gourou",
+                "7713_short",
+                "\u0261\u0254\u030cj-.\u223c",
+                "\u0261 \u0254\u030c d\u0292 +"
+            ],
+            [
+                "JamsayDouentza-2281_betiredwearysufferingphysically-1",
                 "JamsayDouentza",
-                "2428_billygoatmalegoat",
-                "b\u025b\u0300r\u00f9\u00e0-r.\u223c\u00e1",
-                "b \u025b\u0300 r \u00f9 \u00e0 <s> - </s> r <s> <<\u223c>> </s> \u00e1"
+                "2281_betiredwearysufferingphysically",
+                "d\u025b\u0300-\u025b\u0301-\u223c",
+                "d \u025b\u0300 + \u025b\u0301 +"
             ],
             [
-                "JamsayDouentza-2696_bull-1",
+                "JamsayDouentza-3434_defeatoverpowervanquish-1",
                 "JamsayDouentza",
-                "2696_bull",
-                "n\u00e0\u014b\u00e0_\u00e0r.\u223c\u00e1",
-                "n \u00e0 \u014b \u00e0 + \u00e0 r <s> <<\u223c>> </s> \u00e1"
+                "3434_defeatoverpowervanquish",
+                "d\u0292a-\u0301.a\u0301l\u025b\u0301",
+                "d \u0292 a + <s> <<\u0301>> </s> \u00e1 l \u025b\u0301"
             ],
             [
-                "JamsayDouentza-2822_cat-1",
+                "JamsayDouentza-6430_oldthinganimal-1",
                 "JamsayDouentza",
-                "2822_cat",
-                "n\u00ec_n\u00ecw.\u223c\u00e9",
-                "n \u00ec + n \u00ec w <s> <<\u223c>> </s> \u00e9"
+                "6430_oldthinganimal",
+                "p\u025b\u030cj-.\u223c",
+                "p \u025b\u030c d\u0292 +"
             ],
             [
-                "JamsayDouentza-4492_goat-2",
+                "JamsayDouentza-7113_reapcutoffmilletgrainspikes-1",
                 "JamsayDouentza",
-                "4492_goat",
-                "\u025b\u0300r-\u223c\u025b\u0301",
-                "\u025b\u0300 r <s> - </s> <s> <<\u223c>> </s> \u025b\u0301"
+                "7113_reapcutoffmilletgrainspikes",
+                "t\u0283\u025b-\u0301d\u0292\u025b\u0301",
+                "t \u0283 \u025b + <s> <<\u0301>> </s> d \u0292 \u025b\u0301"
             ],
             [
-                "JamsayDouentza-4493_goatkid-1",
+                "JamsayDouentza-7713_short-1",
                 "JamsayDouentza",
-                "4493_goatkid",
-                "b\u025b\u0300r.\u223ci\u0301.i\u0300-\u207f",
-                "b \u025b\u0300 r <s> <<\u223c>> </s> \u00ed \u00ec"
+                "7713_short",
+                "\u0261\u0254\u030cj-.\u223c",
+                "\u0261 \u0254\u030c d\u0292 +"
             ],
             [
-                "Mombo-2771_camel-1",
+                "JamsayDouentza-9385_weavefabricfromcottonthread-1",
+                "JamsayDouentza",
+                "9385_weavefabricfromcottonthread",
+                "t\u025b\u0301-\u025b\u0301-\u223c",
+                "t \u025b\u0301 + \u025b\u0301 +"
+            ],
+            [
+                "JamsayDouentza-9645_wornoutoldnolongerusefulobject-1",
+                "JamsayDouentza",
+                "9645_wornoutoldnolongerusefulobject",
+                "p\u025b\u030cj-.\u223c",
+                "p \u025b\u030c d\u0292 +"
+            ],
+            [
+                "JamsayMondoro-2281_betiredwearysufferingphysically-1",
+                "JamsayMondoro",
+                "2281_betiredwearysufferingphysically",
+                "d\u025b\u0300-\u025b\u0301-\u223c",
+                "d \u025b\u0300 + \u025b\u0301 +"
+            ],
+            [
+                "JamsayMondoro-4277_friendcasual-1",
+                "JamsayMondoro",
+                "4277_friendcasual",
+                "t\u025b\u0300-\u025b\u0301-\u223c",
+                "t \u025b\u0300 + \u025b\u0301 +"
+            ],
+            [
+                "JamsayMondoro-6430_oldthinganimal-1",
+                "JamsayMondoro",
+                "6430_oldthinganimal",
+                "p\u025b\u030cj-.\u223c",
+                "p \u025b\u030c d\u0292 +"
+            ],
+            [
+                "JamsayMondoro-7713_short-1",
+                "JamsayMondoro",
+                "7713_short",
+                "\u0261\u0254\u030cj-.\u223c",
+                "\u0261 \u0254\u030c d\u0292 +"
+            ],
+            [
+                "Mombo-2421_biglarge-1",
                 "Mombo",
-                "2771_camel",
-                "\u0272\u0254\u0300\u014b\u0254\u0300-m\u025b\u0301",
-                "\u0272 \u0254\u0300 \u014b \u0254\u0300 <s> - </s> m \u025b\u0301"
+                "2421_biglarge",
+                "b\u00e2j-.\u223c",
+                "b \u00e2 d\u0292 +"
             ],
             [
-                "Mombo-2822_cat-1",
+                "Mombo-2918_chestbody-1",
                 "Mombo",
-                "2822_cat",
-                "\u0261\u00e0.\u00e0w.\u223c\u011b",
-                "\u0261 \u00e0 \u00e0 w <s> <<\u223c>> </s> \u011b"
+                "2918_chestbody",
+                "\u0261\u0254\u0301-\u0254\u0300-\u223c",
+                "\u0261 \u0254\u0301 + \u0254\u0300 +"
             ],
             [
-                "Mombo-4493_goatkid-1",
+                "Mombo-4348_gatherthings-1",
                 "Mombo",
-                "4493_goatkid",
-                "\u00fan\u00e1_w\u00e9-\u00e9",
-                "\u00fa n \u00e1 + w \u00e9 <s> - </s> \u00e9"
+                "4348_gatherthings",
+                "kya-\u0301.a\u0301\u0261\u00e8",
+                "k j a + <s> <<\u0301>> </s> \u00e1 \u0261 \u00e8"
             ],
             [
-                "Najamba-2762_calf-1",
-                "Najamba",
-                "2762_calf",
-                "n\u00e0.\u00e0-mbi\u0301.i\u0300",
-                "n \u00e0 \u00e0 <s> - </s> mb \u00ed \u00ec"
-            ],
-            [
-                "Najamba-2771_camel-1",
-                "Najamba",
-                "2771_camel",
-                "\u0272\u0254\u0300\u014b\u0254\u0300-m\u025b\u0301",
-                "\u0272 \u0254\u0300 \u014b \u0254\u0300 <s> - </s> m \u025b\u0301"
-            ],
-            [
-                "Najamba-3595_dog-1",
-                "Najamba",
-                "3595_dog",
-                "\u014b\u0261-w\u025b\u0300.\u025b\u0301",
-                "\u014b \u0261 <s> - </s> w \u025b\u0300 \u025b\u0301"
-            ],
-            [
-                "Najamba-3599_domesticanimalesplivestock-1",
-                "Najamba",
-                "3599_domesticanimalesplivestock",
-                "d\u00fam\u025b\u0301-\u014b\u0261\u00f3",
-                "d \u00fa m \u025b\u0301 <s> - </s> \u014b \u0261 \u00f3"
-            ],
-            [
-                "Nanga-2428_billygoatmalegoat-1",
+                "Nanga-2353_beeswax-1",
                 "Nanga",
-                "2428_billygoatmalegoat",
-                "b\u025b\u0300r_\u00e1r.\u223c\u00e0",
-                "b \u025b\u0300 r + \u00e1 r <s> <<\u223c>> </s> \u00e0"
+                "2353_beeswax",
+                "t\u025b\u0300-\u025b\u0300-\u223c",
+                "t \u025b\u0300 + \u025b\u0300 +"
             ],
             [
-                "Nanga-2696_bull-1",
+                "Nanga-2552_boy-1",
                 "Nanga",
-                "2696_bull",
-                "n\u00e0\u014b\u00e0_\u00e1r.\u223c\u00e2",
-                "n \u00e0 \u014b \u00e0 + \u00e1 r <s> <<\u223c>> </s> \u00e2"
+                "2552_boy",
+                "\u00e1r-\u223c\u00e2j-\u223c",
+                "\u00e1 r + \u00e2 d\u0292 +"
             ],
             [
-                "Nanga-2822_cat-1",
+                "Nanga-8128_son-1",
                 "Nanga",
-                "2822_cat",
-                "d\u00f2-nd\u00ed-y\u00ea",
-                "d \u00f2 <s> - </s> nd \u00ed <s> - </s> j \u00ea"
+                "8128_son",
+                "\u00e1r-\u223c\u00e2j-\u223c",
+                "\u00e1 r + \u00e2 d\u0292 +"
             ],
             [
-                "Nanga-3595_dog-1",
+                "Nanga-8801_threatenscare-1",
                 "Nanga",
-                "3595_dog",
-                "n\u025b\u0300r.\u223c\u00ee",
-                "n \u025b\u0300 r <s> <<\u223c>> </s> \u00ee"
+                "8801_threatenscare",
+                "\u00far\u0254-\u0301m\u00ed",
+                "\u00fa r \u0254 + <s> <<\u0301>> </s> m \u00ed"
             ],
             [
-                "Nanga-4492_goat-2",
+                "Nanga-8935_trap-1",
                 "Nanga",
-                "4492_goat",
-                "m\u025b\u0301r.\u223c\u025b\u0302",
-                "m \u025b\u0301 r <s> <<\u223c>> </s> \u025b\u0302"
+                "8935_trap",
+                "d\u011b\u1e81",
+                "d \u011b <s> \u1e81 </s>"
             ],
             [
-                "Nanga-4493_goatkid-1",
-                "Nanga",
-                "4493_goatkid",
-                "b\u025b\u0300r-yi\u0301.i\u0300",
-                "b \u025b\u0300 r <s> - </s> j \u00ed \u00ec"
-            ],
-            [
-                "Penange-2771_camel-1",
+                "Penange-2421_biglarge-1",
                 "Penange",
-                "2771_camel",
-                "\u0272\u0254\u0301.\u0254\u0301_m\u0254\u0300j.\u223c",
-                "\u0272 \u0254\u0301 \u0254\u0301 + m \u0254\u0300 d\u0292 <s> <<\u223c>> </s>"
+                "2421_biglarge",
+                "b\u00e0j-.\u223c",
+                "b \u00e0 d\u0292 +"
             ],
             [
-                "Penange-2822_cat-1",
+                "Penange-2918_chestbody-1",
                 "Penange",
-                "2822_cat",
-                "\u0261\u00e0-\u00e0\u207f",
-                "\u0261 \u00e0 <s> - </s> \u00e0 \u223c"
+                "2918_chestbody",
+                "\u0261\u0254\u0300-\u0254\u0300-\u223c",
+                "\u0261 \u0254\u0300 + \u0254\u0300 +"
             ],
             [
-                "PergeTegu-2771_camel-1",
-                "PergeTegu",
-                "2771_camel",
-                "\u0254\u0300\u0261\u0254\u0300_\u0272\u00f9w.\u223c\u00f3",
-                "\u0254\u0300 \u0261 \u0254\u0300 + \u0272 \u00f9 w <s> <<\u223c>> </s> \u00f3"
+                "Penange-8529_sun-1",
+                "Penange",
+                "8529_sun",
+                "\u0261\u025b\u0300-\u025b\u0300-\u223c",
+                "\u0261 \u025b\u0300 + \u025b\u0300 +"
             ],
             [
-                "PergeTegu-2822_cat-1",
+                "PergeTegu-2281_betiredwearysufferingphysically-1",
                 "PergeTegu",
-                "2822_cat",
-                "n\u00ec_n\u00ecw.\u223c\u00e9",
-                "n \u00ec + n \u00ec w <s> <<\u223c>> </s> \u00e9"
+                "2281_betiredwearysufferingphysically",
+                "d\u025b\u0301-\u025b\u0301-\u223c",
+                "d \u025b\u0301 + \u025b\u0301 +"
+            ],
+            [
+                "PergeTegu-2999_clawtalon-1",
+                "PergeTegu",
+                "2999_clawtalon",
+                "k\u00f9w\u0254\u0300\u0161\u00ed-\u207f",
+                "k \u00f9 w \u0254\u0300 <s> \u0161 </s> \u00ed"
             ],
             [
                 "PergeTegu-3595_dog-1",
@@ -7422,298 +7223,345 @@
                 "\u00ec <s> \u0161 </s> \u00fa"
             ],
             [
-                "PergeTegu-4492_goat-1",
+                "PergeTegu-4115_finger-1",
                 "PergeTegu",
-                "4492_goat",
-                "\u025b\u0300r-\u223c\u025b\u0301",
-                "\u025b\u0300 r <s> - </s> <s> <<\u223c>> </s> \u025b\u0301"
+                "4115_finger",
+                "n\u00f9w.\u223c\u00f2\u0161i\u0301.i\u0300-\u207f",
+                "n \u00f9 w \u00f2 <s> \u0161 </s> \u00ed \u00ec"
             ],
             [
-                "TebulUre-2428_billygoatmalegoat-1",
+                "PergeTegu-4116_fingernail-1",
+                "PergeTegu",
+                "4116_fingernail",
+                "n\u00f9w.\u223c\u00f2\u0161i\u0300.i\u0300\u207f_k\u00f3m-d\u0292\u00f3",
+                "n \u00f9 w \u00f2 <s> \u0161 </s> \u00ec \u00ec \u223c + k \u00f3 m + d \u0292 \u00f3"
+            ],
+            [
+                "PergeTegu-4903_hip-1",
+                "PergeTegu",
+                "4903_hip",
+                "d\u025b\u0300-\u025b\u0301-\u223c",
+                "d \u025b\u0300 + \u025b\u0301 +"
+            ],
+            [
+                "PergeTegu-6753_placelocation-1",
+                "PergeTegu",
+                "6753_placelocation",
+                "d\u025b\u0300-\u025b\u0301-\u223c",
+                "d \u025b\u0300 + \u025b\u0301 +"
+            ],
+            [
+                "PergeTegu-7292_ringonfinger-1",
+                "PergeTegu",
+                "7292_ringonfinger",
+                "n\u00f9w.\u223c\u00f2\u0161i\u0300.i\u0300\u207f\u00ed.\u00ed-n\u025b\u0301-m",
+                "n \u00f9 w \u00f2 <s> \u0161 </s> \u00ec \u00ec \u223c \u00ed \u00ed + n \u025b\u0301 + m"
+            ],
+            [
+                "PergeTegu-7713_short-1",
+                "PergeTegu",
+                "7713_short",
+                "\u0261\u0254\u030cj-.\u223c",
+                "\u0261 \u0254\u030c d\u0292 +"
+            ],
+            [
+                "PergeTegu-8032_smalllittle-1",
+                "PergeTegu",
+                "8032_smalllittle",
+                "t\u025b\u030cj-.\u223c",
+                "t \u025b\u030c d\u0292 +"
+            ],
+            [
+                "PergeTegu-8875_toe-1",
+                "PergeTegu",
+                "8875_toe",
+                "k\u00f9w\u0254\u0300\u0161i\u0301.i\u0300-\u207f",
+                "k \u00f9 w \u0254\u0300 <s> \u0161 </s> \u00ed \u00ec"
+            ],
+            [
+                "PergeTegu-8959_treebark-1",
+                "PergeTegu",
+                "8959_treebark",
+                "\u0261\u025b\u0301-\u025b\u0300-\u223c",
+                "\u0261 \u025b\u0301 + \u025b\u0300 +"
+            ],
+            [
+                "PergeTegu-9578_womb-1",
+                "PergeTegu",
+                "9578_womb",
+                "i\u0300-i\u0300\u207fd\u025b\u0300-\u025b\u0301-\u223c",
+                "\u00ec + \u00ec \u223c d \u025b\u0300 + \u025b\u0301 +"
+            ],
+            [
+                "TebulUre-8886_tomorrow-1",
                 "TebulUre",
-                "2428_billygoatmalegoat",
-                "\u00ecn\u00e8_\u00e1r-\u223c\u00e1",
-                "\u00ec n \u00e8 + \u00e1 r <s> - </s> <s> <<\u223c>> </s> \u00e1"
+                "8886_tomorrow",
+                "\u025b\u0301j-\u223c",
+                "\u025b\u0301 d\u0292 +"
             ],
             [
-                "TebulUre-2696_bull-1",
-                "TebulUre",
-                "2696_bull",
-                "n\u00e0.\u00e0_\u00e1r.\u223c\u00e1",
-                "n \u00e0 \u00e0 + \u00e1 r <s> <<\u223c>> </s> \u00e1"
-            ],
-            [
-                "TebulUre-2822_cat-1",
-                "TebulUre",
-                "2822_cat",
-                "b\u00e0l-m\u00e1",
-                "b \u00e0 l <s> - </s> m \u00e1"
-            ],
-            [
-                "TebulUre-2822_cat-2",
-                "TebulUre",
-                "2822_cat",
-                "b\u00e0l-m\u00e1",
-                "b \u00e0 l <s> - </s> m \u00e1"
-            ],
-            [
-                "TebulUre-3595_dog-1",
-                "TebulUre",
-                "3595_dog",
-                "\u00ecnj\u025b\u0300-\u025b\u0301",
-                "\u00ec nd\u0292 \u025b\u0300 <s> - </s> \u025b\u0301"
-            ],
-            [
-                "TebulUre-4492_goat-1",
-                "TebulUre",
-                "4492_goat",
-                "\u00edr-\u223ce\u0300-e\u0300",
-                "\u00ed r <s> - </s> <s> <<\u223c>> </s> \u00e8 <s> - </s> \u00e8"
-            ],
-            [
-                "Tiranige-2771_camel-1",
+                "Tiranige-5291_kill-1",
                 "Tiranige",
-                "2771_camel",
-                "nj\u00e8-l\u00e8b\u00e0",
-                "nd\u0292 \u00e8 <s> - </s> l \u00e8 b \u00e0"
+                "5291_kill",
+                "d\u0292\u025b-\u0301y\u0254\u0301",
+                "d \u0292 \u025b + <s> <<\u0301>> </s> j \u0254\u0301"
             ],
             [
-                "Tiranige-3595_dog-1",
-                "Tiranige",
-                "3595_dog",
-                "\u00ed.\u00ed-\u014b\u0261\u025b\u0301",
-                "\u00ed \u00ed <s> - </s> \u014b \u0261 \u025b\u0301"
-            ],
-            [
-                "TogoKan-2428_billygoatmalegoat-1",
+                "TogoKan-2552_boy-1",
                 "TogoKan",
-                "2428_billygoatmalegoat",
-                "\u025b\u0300r.\u223c\u025b\u0300_\u00e0r.\u223c\u00e1",
-                "\u025b\u0300 r <s> <<\u223c>> </s> \u025b\u0300 + \u00e0 r <s> <<\u223c>> </s> \u00e1"
+                "2552_boy",
+                "\u00e0r-\u223c\u00e1\u1ef3\u207f",
+                "\u00e0 r + \u00e1 <s> j\u0300 </s> \u223c"
             ],
             [
-                "TogoKan-2696_bull-1",
+                "TogoKan-3370_dabahoeliketoolforweedingusingapullingactionalltypes-1",
                 "TogoKan",
-                "2696_bull",
-                "n\u00e0\u014b\u00e0_\u00e0r.\u223c\u00e1",
-                "n \u00e0 \u014b \u00e0 + \u00e0 r <s> <<\u223c>> </s> \u00e1"
+                "3370_dabahoeliketoolforweedingusingapullingactionalltypes",
+                "k\u0254\u030c-\u223c",
+                "k \u0254\u030c +"
             ],
             [
-                "TogoKan-3599_domesticanimalesplivestock-1",
+                "TogoKan-3783_elderbrotherofmanorwoman-1",
                 "TogoKan",
-                "3599_domesticanimalesplivestock",
-                "\u0261\u00ecr.\u223c\u00ed_\u00e1r\u00fas\u025b\u0300-\u0261\u025b\u0300",
-                "\u0261 \u00ec r <s> <<\u223c>> </s> \u00ed + \u00e1 r \u00fa s \u025b\u0300 <s> - </s> \u0261 \u025b\u0300"
+                "3783_elderbrotherofmanorwoman",
+                "d\u025b\u0300-\u025b\u0301-\u223c",
+                "d \u025b\u0300 + \u025b\u0301 +"
             ],
             [
-                "TogoKan-4492_goat-1",
+                "TogoKan-4981_horse-1",
                 "TogoKan",
-                "4492_goat",
-                "\u025b\u0300r-\u223c\u025b\u0301",
-                "\u025b\u0300 r <s> - </s> <s> <<\u223c>> </s> \u025b\u0301"
+                "4981_horse",
+                "s\u0254\u030c-\u223c",
+                "s \u0254\u030c +"
             ],
             [
-                "TogoKan-4493_goatkid-1",
+                "TogoKan-5519_leatherworkercastetheymakeleatherbagsandamuletwallets-1",
                 "TogoKan",
-                "4493_goatkid",
-                "\u025b\u0300r-\u223c\u00ed-\u00ed\u207f",
-                "\u025b\u0300 r <s> - </s> <s> <<\u223c>> </s> \u00ed <s> - </s> \u00ed \u223c"
+                "5519_leatherworkercastetheymakeleatherbagsandamuletwallets",
+                "\u0261\u0254\u0301-\u0254\u0301-\u223c",
+                "\u0261 \u0254\u0301 + \u0254\u0301 +"
             ],
             [
-                "TommoSoTongoTongo-2771_camel-1",
+                "TogoKan-6430_oldthinganimal-1",
+                "TogoKan",
+                "6430_oldthinganimal",
+                "p\u025b\u030c-\u223c",
+                "p \u025b\u030c +"
+            ],
+            [
+                "TogoKan-919_riflefiredischargegooff-1",
+                "TogoKan",
+                "919_riflefiredischargegooff",
+                "k\u0254\u0301-\u0254\u0301-\u223c",
+                "k \u0254\u0301 + \u0254\u0301 +"
+            ],
+            [
+                "TogoKan-919_riflefiredischargegooff-3",
+                "TogoKan",
+                "919_riflefiredischargegooff",
+                "k\u0254\u0301-\u0254\u0301-\u223c",
+                "k \u0254\u0301 + \u0254\u0301 +"
+            ],
+            [
+                "TommoSoTongoTongo-164_anyfishtrap-1",
                 "TommoSoTongoTongo",
-                "2771_camel",
-                "\u0272\u00f2\u014b\u00f3-m",
-                "\u0272 \u00f2 \u014b \u00f3 <s> - </s> m"
+                "164_anyfishtrap",
+                "d\u0292\u0254\u0301-\u0254\u0301-\u223c",
+                "d \u0292 \u0254\u0301 + \u0254\u0301 +"
             ],
             [
-                "TommoSoTongoTongo-2822_cat-1",
+                "TommoSoTongoTongo-3933_extinguishputoutfire-1",
                 "TommoSoTongoTongo",
-                "2822_cat",
-                "\u0261\u00e1m-m\u00e1",
-                "\u0261 \u00e1 m <s> - </s> m \u00e1"
+                "3933_extinguishputoutfire",
+                "s\u0254\u0301-\u0254\u0301-\u223c",
+                "s \u0254\u0301 + \u0254\u0301 +"
             ],
             [
-                "TomoKanDiangassagou-2762_calf-1",
+                "TommoSoTongoTongo-4277_friendcasual-1",
+                "TommoSoTongoTongo",
+                "4277_friendcasual",
+                "\u1e3fb\u0254\u0301",
+                "<s> \u1e3f </s> b \u0254\u0301"
+            ],
+            [
+                "TomoKanDiangassagou-2965_chokeononesfood-1",
                 "TomoKanDiangassagou",
-                "2762_calf",
-                "n\u00e0\u014b\u00e0_d\u00f2-mb\u00e8",
-                "n \u00e0 \u014b \u00e0 + d \u00f2 <s> - </s> mb \u00e8"
+                "2965_chokeononesfood",
+                "py\u025b-\u0301\u014b\u0261\u00ed",
+                "p j \u025b + <s> <<\u0301>> </s> \u014b \u0261 \u00ed"
             ],
             [
-                "TomoKanDiangassagou-2771_camel-1",
+                "TomoKanDiangassagou-6430_oldthinganimal-1",
                 "TomoKanDiangassagou",
-                "2771_camel",
-                "\u0272\u0254\u0300\u014b\u025b\u0300-m\u025b\u0301",
-                "\u0272 \u0254\u0300 \u014b \u025b\u0300 <s> - </s> m \u025b\u0301"
+                "6430_oldthinganimal",
+                "py\u025b\u0300-\u223c",
+                "p j \u025b\u0300 +"
             ],
             [
-                "TomoKanDiangassagou-2822_cat-1",
+                "TomoKanDiangassagou-8280_squat-1",
                 "TomoKanDiangassagou",
-                "2822_cat",
-                "d\u00f2-nd\u00f2",
-                "d \u00f2 <s> - </s> nd \u00f2"
+                "8280_squat",
+                "tw\u025b-\u0301l\u00ed",
+                "t w \u025b + <s> <<\u0301>> </s> l \u00ed"
             ],
             [
-                "TomoKanDiangassagou-4492_goat-1",
-                "TomoKanDiangassagou",
-                "4492_goat",
-                "\u0261\u025b\u0301-\u025b\u0301",
-                "\u0261 \u025b\u0301 <s> - </s> \u025b\u0301"
-            ],
-            [
-                "TomoKanSegue-2771_camel-1",
+                "TomoKanSegue-2007_ashes-1",
                 "TomoKanSegue",
-                "2771_camel",
-                "\u0272\u0254\u0300\u0294\u0254\u0300-m\u025b\u0301",
-                "\u0272 \u0254\u0300 \u0294 \u0254\u0300 <s> - </s> m \u025b\u0301"
+                "2007_ashes",
+                "dw\u025b\u0301-\u223c",
+                "d w \u025b\u0301 +"
             ],
             [
-                "TomoKanSegue-2822_cat-1",
+                "TomoKanSegue-4234_forehead-1",
                 "TomoKanSegue",
-                "2822_cat",
-                "d\u00f3-nd\u00f3",
-                "d \u00f3 <s> - </s> nd \u00f3"
+                "4234_forehead",
+                "\u0261w\u025b\u0300-\u223c",
+                "\u0261 w \u025b\u0300 +"
             ],
             [
-                "ToroTegu-2428_billygoatmalegoat-1",
+                "TomoKanSegue-5566_liedowngotobed-1",
+                "TomoKanSegue",
+                "5566_liedowngotobed",
+                "my\u025b\u0301-\u223c",
+                "m j \u025b\u0301 +"
+            ],
+            [
+                "TomoKanSegue-5566_liedowngotobed-2",
+                "TomoKanSegue",
+                "5566_liedowngotobed",
+                "my\u025b\u0301-\u223c",
+                "m j \u025b\u0301 +"
+            ],
+            [
+                "TomoKanSegue-6088_misstargetegwithashot-1",
+                "TomoKanSegue",
+                "6088_misstargetegwithashot",
+                "by\u025b-\u0301l\u00e0w.\u223c",
+                "b j \u025b + <s> <<\u0301>> </s> l \u00e0 w"
+            ],
+            [
+                "TomoKanSegue-6430_oldthinganimal-1",
+                "TomoKanSegue",
+                "6430_oldthinganimal",
+                "py\u025b\u0300-\u223c",
+                "p j \u025b\u0300 +"
+            ],
+            [
+                "TomoKanSegue-7711_shootsbsth-1",
+                "TomoKanSegue",
+                "7711_shootsbsth",
+                "t\u0283\u025b-\u0301b\u025b\u0301",
+                "t \u0283 \u025b + <s> <<\u0301>> </s> b \u025b\u0301"
+            ],
+            [
+                "TomoKanSegue-8806_threshbypoundinghardriceoccasionallymilletwithlargeclubsonthegroundoronamat-1",
+                "TomoKanSegue",
+                "8806_threshbypoundinghardriceoccasionallymilletwithlargeclubsonthegroundoronamat",
+                "t\u0283\u025b-\u0301b\u025b\u0301",
+                "t \u0283 \u025b + <s> <<\u0301>> </s> b \u025b\u0301"
+            ],
+            [
+                "ToroTegu-7112_reapcutstemsegharvestingriceorrosellebyslashingwithasickle-1",
                 "ToroTegu",
-                "2428_billygoatmalegoat",
-                "\u025b\u0300r.\u223c\u00e0\u00e0r\u00e1",
-                "\u025b\u0300 r <s> <<\u223c>> </s> \u00e0 \u00e0 r \u00e1"
+                "7112_reapcutstemsegharvestingriceorrosellebyslashingwithasickle",
+                "t\u0283\u025b-\u0301s\u00e1",
+                "t \u0283 \u025b + <s> <<\u0301>> </s> s \u00e1"
             ],
             [
-                "ToroTegu-2762_calf-1",
+                "ToroTegu-7112_reapcutstemsegharvestingriceorrosellebyslashingwithasickle-2",
                 "ToroTegu",
-                "2762_calf",
-                "n\u00e0\u014b\u00e0\u00ec-r.\u223c\u00ed.\u00ed",
-                "n \u00e0 \u014b \u00e0 \u00ec <s> - </s> r <s> <<\u223c>> </s> \u00ed \u00ed"
+                "7112_reapcutstemsegharvestingriceorrosellebyslashingwithasickle",
+                "t\u0283\u025b-\u0301s\u00e1",
+                "t \u0283 \u025b + <s> <<\u0301>> </s> s \u00e1"
             ],
             [
-                "ToroTegu-2822_cat-1",
+                "ToroTegu-7284_righthandetc-1",
                 "ToroTegu",
-                "2822_cat",
-                "n\u00ecw.\u223c\u00e1",
-                "n \u00ec w <s> <<\u223c>> </s> \u00e1"
+                "7284_righthandetc",
+                "n\u01d2j-.\u223c",
+                "n \u01d2 d\u0292 +"
             ],
             [
-                "ToroTegu-3227_cowfemale-1",
+                "ToroTegu-8800_threadanykind-1",
                 "ToroTegu",
-                "3227_cowfemale",
-                "n\u00e0\u014b\u00e0-y\u00e1",
-                "n \u00e0 \u014b \u00e0 <s> - </s> j \u00e1"
+                "8800_threadanykind",
+                "\u01d2j-\u223c",
+                "\u01d2 d\u0292 +"
             ],
             [
-                "ToroTegu-3599_domesticanimalesplivestock-1",
-                "ToroTegu",
-                "3599_domesticanimalesplivestock",
-                "\u00e0r\u00f9z\u00e0-k\u00e1",
-                "\u00e0 r \u00f9 z \u00e0 <s> - </s> k \u00e1"
-            ],
-            [
-                "ToroTegu-3599_domesticanimalesplivestock-2",
-                "ToroTegu",
-                "3599_domesticanimalesplivestock",
-                "\u00e0rz\u00e0-\u0261\u00e1",
-                "\u00e0 r z \u00e0 <s> - </s> \u0261 \u00e1"
-            ],
-            [
-                "ToroTegu-4492_goat-1",
-                "ToroTegu",
-                "4492_goat",
-                "\u025b\u0300r-\u223c\u00e1",
-                "\u025b\u0300 r <s> - </s> <s> <<\u223c>> </s> \u00e1"
-            ],
-            [
-                "ToroTegu-4493_goatkid-1",
-                "ToroTegu",
-                "4493_goatkid",
-                "\u025b\u0300r.\u223c\u00e0\u00ecr.\u223c\u00ed.\u00ed",
-                "\u025b\u0300 r <s> <<\u223c>> </s> \u00e0 \u00ec r <s> <<\u223c>> </s> \u00ed \u00ed"
-            ],
-            [
-                "YandaDom-2822_cat-1",
+                "YandaDom-3426_deepholewell-1",
                 "YandaDom",
-                "2822_cat",
-                "\u0261\u00e0-\u00e0\u207f",
-                "\u0261 \u00e0 <s> - </s> \u00e0 \u223c"
+                "3426_deepholewell",
+                "t\u00f2j-.\u223c",
+                "t \u00f2 d\u0292 +"
             ],
             [
-                "YandaDom-4493_goatkid-1",
+                "YandaDom-3610_doorwaypassage-1",
                 "YandaDom",
-                "4493_goatkid",
-                "\u0294\u0259\u0300n\u00ed-y\u00e8",
-                "\u0294 \u0259\u0300 n \u00ed <s> - </s> j \u00e8"
+                "3610_doorwaypassage",
+                "\u1e3fb\u00f2l",
+                "<s> \u1e3f </s> b \u00f2 l"
             ],
             [
-                "YornoSo-2428_billygoatmalegoat-1",
-                "YornoSo",
-                "2428_billygoatmalegoat",
-                "\u025b\u0300r.\u223c\u025b\u0300_\u00e0r.\u223c\u00e1",
-                "\u025b\u0300 r <s> <<\u223c>> </s> \u025b\u0300 + \u00e0 r <s> <<\u223c>> </s> \u00e1"
+                "YandaDom-5966_medicationremedy-1",
+                "YandaDom",
+                "5966_medicationremedy",
+                "\u0254\u0301j-\u223c",
+                "\u0254\u0301 d\u0292 +"
             ],
             [
-                "YornoSo-2696_bull-1",
+                "YornoSo-2918_chestbody-1",
                 "YornoSo",
-                "2696_bull",
-                "n\u00e0.\u00e0_\u00e0r.\u223c\u00e1",
-                "n \u00e0 \u00e0 + \u00e0 r <s> <<\u223c>> </s> \u00e1"
+                "2918_chestbody",
+                "\u0261\u0254\u0300-\u0254\u0301-\u223c",
+                "\u0261 \u0254\u0300 + \u0254\u0301 +"
             ],
             [
-                "YornoSo-2762_calf-1",
+                "YornoSo-5466_laterafterward-1",
                 "YornoSo",
-                "2762_calf",
-                "n\u00e0-\u00e0_i\u0301-i\u0300",
-                "n \u00e0 <s> - </s> \u00e0 + \u00ed <s> - </s> \u00ec"
+                "5466_laterafterward",
+                "d\u0254\u0300-\u0254\u0301-\u223c",
+                "d \u0254\u0300 + \u0254\u0301 +"
             ],
             [
-                "YornoSo-2771_camel-1",
+                "YornoSo-5955_measuresth-1",
                 "YornoSo",
-                "2771_camel",
-                "\u0254\u0300\u0261\u0254\u0300_y\u0254\u0300.\u0254\u0301.\u223c",
-                "\u0254\u0300 \u0261 \u0254\u0300 + j \u0254\u0300 \u0254\u0301 <s> <<\u223c>> </s>"
+                "5955_measuresth",
+                "t\u0254\u0301-\u0254\u0301-\u223c",
+                "t \u0254\u0301 + \u0254\u0301 +"
             ],
             [
-                "YornoSo-2822_cat-1",
+                "YornoSo-7713_short-1",
                 "YornoSo",
-                "2822_cat",
-                "\u0261\u00e1-m\u00e0",
-                "\u0261 \u00e1 <s> - </s> m \u00e0"
+                "7713_short",
+                "d\u00f9m\u00ec-j\u207f",
+                "d \u00f9 m \u00ec + d\u0292 <s> ~ </s>"
             ],
             [
-                "YornoSo-4492_goat-1",
+                "YornoSo-8326_stealsth-1",
                 "YornoSo",
-                "4492_goat",
-                "\u025b\u0300r-\u223c\u025b\u0301",
-                "\u025b\u0300 r <s> - </s> <s> <<\u223c>> </s> \u025b\u0301"
-            ],
-            [
-                "YornoSo-4493_goatkid-1",
-                "YornoSo",
-                "4493_goatkid",
-                "\u025b\u0300r-\u223c\u025b\u0300i\u0301-i\u0300",
-                "\u025b\u0300 r <s> - </s> <s> <<\u223c>> </s> \u025b\u0300 \u00ed <s> - </s> \u00ec"
+                "8326_stealsth",
+                "\u0261\u01d4j-.\u223c",
+                "\u0261 \u01d4 d\u0292 +"
             ]
         ],
-        "bad_words_count": 12852,
+        "bad_words_count": 252,
         "bipa_errors": [
-            "-",
-            "\u1e3f",
-            "m\u0300\u1d47",
-            "\u1e31",
-            "j\u0300",
-            "\u0161",
-            "\u1e81",
-            "<<\u223c>>",
-            "\u1d47",
-            "<<\u0301>>",
             "<<\u030c>>",
-            "~"
+            "\u1e31",
+            "m\u0300\u1d47",
+            "<<\u0301>>",
+            "~",
+            "\u1d47",
+            "j\u0300",
+            "\u1e81",
+            "\u1e3f",
+            "\u0161"
         ],
-        "general_errors": 16365,
+        "general_errors": 68,
         "invalid_words": [],
         "invalid_words_count": 0,
-        "inventory_size": 54.62500000000001,
+        "inventory_size": 52.625,
         "replacements": {
             "+": [
                 "+"
@@ -7936,25 +7784,21 @@
             ]
         },
         "sclass_errors": [
-            "-",
-            "\u1e3f",
-            "m\u0300\u1d47",
-            "\u1e31",
-            "j\u0300",
-            "\u0161",
-            "\u1e81",
-            "<<\u223c>>",
-            "\u1d47",
-            "<<\u0301>>",
             "<<\u030c>>",
-            "~"
+            "\u1e31",
+            "m\u0300\u1d47",
+            "<<\u0301>>",
+            "~",
+            "\u1d47",
+            "j\u0300",
+            "\u1e81",
+            "\u1e3f",
+            "\u0161"
         ],
         "segments": {
-            "+": 1587,
-            "-": 14630,
+            "+": 16217,
             "<<\u0301>>": 41,
             "<<\u030c>>": 4,
-            "<<\u223c>>": 1667,
             "a": 17,
             "b": 2229,
             "d": 4052,

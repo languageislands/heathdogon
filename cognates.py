@@ -14,11 +14,11 @@ def get_cognates():
     columns = [c for c in wl.columns] + ["cogids"]
 
     # load wordlist as lexstat object (this adds more columns to the data)
-    lex = Partial(data)
-
+    # lex = Partial(data)
+    lex = Partial("heathdogon-ungrouped-shortened.tsv")
     # run analysis
     lex.get_partial_scorer(runs=10000)
-    lex.partial_cluster(ref="cogids", method="lexstat", threshold=0.55, cluster_method="upgma")
+    lex.partial_cluster(ref="cogids", method="lexstat", threshold=0.55, cluster_method="infomap")
     lex.output("tsv", filename=data[:-4] + "-lexstat_output", ignore="all",
                 prettify=False)
 

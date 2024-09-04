@@ -9,7 +9,7 @@ def get_coverage():
 
     retain = []
     for language, coverage in wl.coverage().items():
-        if coverage > 750:
+        if coverage > 280:
             retain += [language]
 
     # create new wordlist
@@ -19,26 +19,26 @@ def get_coverage():
             new_wl[idx] = wl[idx]
     new_wl = Wordlist(new_wl)
 
-    # select concepts
-    concepts = collections.defaultdict(lambda: {k: 0 for k in new_wl.cols})
-    for idx, concept, language in new_wl.iter_rows("concept", "doculect"):
-        concepts[concept][language] = 1
+    # # select concepts
+    # concepts = collections.defaultdict(lambda: {k: 0 for k in new_wl.cols})
+    # for idx, concept, language in new_wl.iter_rows("concept", "doculect"):
+    #     concepts[concept][language] = 1
 
-    # determine if concept is in Swadesh range
-    swadesh = {}
-    for idx, concept, sw in wl.iter_rows("concept", "swadesh"):
-        swadesh[concept] = 1 if sw == "1" else 0
+    # # determine if concept is in Swadesh range
+    # swadesh = {}
+    # for idx, concept, sw in wl.iter_rows("concept", "swadesh"):
+    #     swadesh[concept] = 1 if sw == "1" else 0
 
-    # restrict to 300 concepts
-    sorted_concepts = sorted(concepts, key=lambda x: (swadesh[x],
-                                                    sum(concepts[x].values())),
-                            reverse=True)[:300]
+    # # restrict to 300 concepts
+    # sorted_concepts = sorted(concepts, key=lambda x: (swadesh[x],
+    #                                                 sum(concepts[x].values())),
+    #                         reverse=True)[:300]
 
-    # create new wordlist
-    new_wl = {0: [c for c in wl.columns]}
-    for idx, language, concept in wl.iter_rows("doculect", "concept"):
-        if language in retain and concept in sorted_concepts:
-            new_wl[idx] = wl[idx]
+    # # create new wordlist
+    # new_wl = {0: [c for c in wl.columns]}
+    # for idx, language, concept in wl.iter_rows("doculect", "concept"):
+    #     if language in retain and concept in sorted_concepts:
+    #         new_wl[idx] = wl[idx]
 
     new_wl = Wordlist(new_wl)
     new_wl.output('tsv', filename=data[:-4] + "-shortened", prettify=False,
