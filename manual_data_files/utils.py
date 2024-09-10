@@ -7,9 +7,9 @@ class NounParser:
     def __init__(self):
         self.consonants = {"b", "c", "d", "f", "g", "ɡ", "h", "j", "k", "l", "m", "n", "p", "r", "s", "t", "v", "w", "y", "z", "ʔ", "ɲ", "ŋ", "ɣ"}
         self.exceptions = ["nd", "nt", "ŋg", "ŋɡ", "ŋk", "ɲj", "mb","mp" ]
-        self.vowels = {"ɛ̌", "ɔ̌", "ɛ̂", "ɔ̂", "ɛ́", "ɔ́", "ɛ̀", "ɔ̀", "ì", "í", "ǔ", "û",'ê', 'ě', 'è', 'é', 'ô', 'ò', 'ǒ', 'ó', 'ǎ', 
+        self.vowels=      {"ɛ̌", "ɔ̌", "ɛ̂", "ɔ̂", "ɛ́", "ɔ́", "ɛ̀", "ɔ̀", "ì", "í", "ǔ", "û",'ê', 'ě', 'è', 'é', 'ô', 'ò', 'ǒ', 'ó', 'ǎ', 
                         'â', 'à', 'á', 'ɛ̌', 'ɛ̂', 'ɛ́', 'ɛ̀', 'û', 'ǔ', 'ú', 'ù', 'ǐ', 'î', 'í', 'ì', ' ̀ɔ ', 'ɔ́', 'ɔ̌', 'ɔ̂',
-                        "i", "e", "ɛ", "u", "o", "ɔ", "a"}
+                        "i", "e", "ɛ", "u", "o", "ɔ", "a", "ú"}
         self.extra_material={ 'ǎ': 'á', 'ê': 'è', 'ô': 'ò', 'ě': 'é','ǐ': 'í', 'î': 'ì', 'ǒ': 'ó', 'â': 'à', 'ɛ́': 'ɛ́', 'ɛ̀': 'ɛ̀', 
                              'ǔ': 'ú', 'í': 'í','ì': 'ì'} 
 
@@ -176,7 +176,76 @@ class NounParser:
 class VerbParser(NounParser):
     def __init__(self):
        super().__init__()
+
+    def counts(self, word):
+        "returns the number of vowels and consonants, and the list of vowels and consonants in a word"
+        vowel_list = [letter for letter in word if letter in self.vowels]
+        vowel_count = len(vowel_list)
         
+        consonant_list = []
+        consonant_count = 0
+        i = 0
+        while i < len(word):
+            # Check if any exception matches starting from the current position
+            matched_exception = False
+            for exception in self.exceptions:
+                if word[i:i+len(exception)] == exception:
+                    matched_exception = True
+                    i += len(exception)  
+                    consonant_list.append(exception)  
+                    consonant_count += 1
+                    break
+            
+            if not matched_exception and word[i] in self.consonants:
+                consonant_count += 1
+                consonant_list.append(word[i])  
+                i += 1 
+            elif not matched_exception:
+                i += 1  
+        return vowel_count, consonant_count, vowel_list, consonant_list
+
+    def special_verbs(self, word):
+        "performs parses on words that remain unparsed or overparsed"
+        
+        vowel_count, conso_count, vowel_list, conso_list = self.counts(word) 
+        new_word = ""
+        
+        # Check if the word has exactly 3 vowels and 3 consonants
+        if conso_count == 3 and vowel_count == 3: #solving issues in which three consonants are concerned
+            conso_idx = 0
+            for i, letter in enumerate(word):
+                if letter in conso_list and conso_idx < 3:
+                    if conso_idx == 1:  
+                        new_word += f"{letter}-"
+                    elif conso_idx == 2: 
+                        new_word += f"-{letter}"
+                    else:
+                        new_word += letter
+                    conso_idx += 1
+                else:
+                    new_word += letter
+        elif conso_count==2 and vowel_count <=3: #solving issues where two consonants are concerned
+            conso_idx=0
+            for i, letter in enumerate(word):
+                if letter in conso_list and conso_idx < len(word):
+                    if conso_idx==1:
+                        new_word += f"{letter}-"
+                    else:
+                        new_word += letter
+                    conso_idx +=1
+                else:
+                    if letter=="-":
+                        new_word += ""
+                    else:
+                        new_word += letter
+        elif "-nɛ̀" in word and word.index("-nɛ̀") >2 : #solving the "-nɛ̀"problem
+            new_word=word.replace("-nɛ̀", "n-ɛ̀")
+        else:
+            new_word = word  
+    
+        return new_word.replace("--", "-")
+
+
     def consonant_count(self, item):
         """
         counts number of consonants in words
@@ -218,7 +287,6 @@ class VerbParser(NounParser):
         return new_word
 
     
-   
     def verify_exceptions(self, word):
         """
         verifies that consonant ensembles are not parsed as different consonants and reparses long words with consonant ensembles
