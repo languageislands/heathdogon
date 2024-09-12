@@ -172,6 +172,18 @@ class NounParser:
         return  self.hyphen_space(new_word.replace("--", "-"))
 
 
+    def special_nouns(self, item):
+        "handles specific cases"
+        if "n-ɛ̀" in item:
+            if len(item) > 4:
+                new_item = item.replace("n-ɛ̀", "-nɛ̀")
+            else:
+                new_item = item
+        else:
+            new_item = item
+        return new_item
+
+
 
 class VerbParser(NounParser):
     def __init__(self):
@@ -238,6 +250,14 @@ class VerbParser(NounParser):
                         new_word += ""
                     else:
                         new_word += letter
+        elif conso_count==2 and 2<vowel_count<=3: #handles wrong parsings where two consonants start a word, and this is followed by two vowels
+            if word[word.index(conso_list[0])+1]== conso_list[1] and word[word.index(vowel_list[0])+1]==vowel_list[1]:
+                for i, letter in enumerate(word):
+                    if letter == vowel_list[0]:
+                        new_word += f"-{letter}-"
+                    else:
+                        new_word += letter
+                    conso_idx +=1
         elif "-nɛ̀" in word and word.index("-nɛ̀") >2 : #solving the "-nɛ̀"problem
             new_word=word.replace("-nɛ̀", "n-ɛ̀")
         else:

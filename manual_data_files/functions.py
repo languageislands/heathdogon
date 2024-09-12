@@ -43,31 +43,34 @@ def parse_noun_data(noun):
     if pd.isna(noun):
         return None
     if noun.endswith("y") or (noun.endswith("ⁿ") and noun[-2] == "y"):
-        parsed_noun = noun_parser.double_last_vowels(
+        parsed_noun = noun_parser.special_nouns(
+            noun_parser.double_last_vowels(
             noun_parser.identified_suffixes(
                 noun_parser.hyphen_space(
                     noun_parser.nasalized_stops(
                         noun_parser.cvcv_segmentation(
                             noun_parser.parse_off_final_nasals(
                                 noun_parser.existing_parses(
-                                    adj_num_parser.y_suffixes(noun.strip("()/_")))))))))
+                                    adj_num_parser.y_suffixes(noun.strip("()/_"))))))))))
     else:
-        parsed_noun = noun_parser.double_last_vowels(
+        parsed_noun = noun_parser.special_nouns(
+            noun_parser.double_last_vowels(
             noun_parser.identified_suffixes(
                 noun_parser.hyphen_space(
                     noun_parser.nasalized_stops(
                         noun_parser.cvcv_segmentation(
                             noun_parser.parse_off_final_nasals(
-                                noun_parser.existing_parses(noun.strip("()/_"))))))))
+                                noun_parser.existing_parses(noun.strip("()/_")))))))))
     return parsed_noun
 
 def parse_verb_data(verb):
     if pd.isna(verb):
         return None
-    parsed_verb = verb_parser.double_last_vowels(
+    parsed_verb =verb_parser.special_verbs(
+        verb_parser.double_last_vowels(
         verb_parser.post_editing_short_strings(
             verb_parser.segment_cvcs(
-                verb_parser.existing_parses(verb.strip(")(_")))))
+                verb_parser.existing_parses(verb.strip(")(_"))))))
     return parsed_verb
 
 def parse_adj_num_data(adjective_numeral):

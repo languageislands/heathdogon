@@ -5,53 +5,52 @@
 
 | Segment | Occurrence | BIPA | CLTS SoundClass |
 |:----------|-------------:|:-------|:------------------|
-| + | 16217 | ✓ | ✓ |
-| á | 5787 | ✓ | ✓ |
+| + | 16513 | ✓ | ✓ |
+| á | 5791 | ✓ | ✓ |
 | à | 5470 | ✓ | ✓ |
-| n | 4301 | ✓ | ✓ |
+| n | 4323 | ✓ | ✓ |
 | ɡ | 4208 | ✓ | ✓ |
 | r | 4198 | ✓ | ✓ |
-| d | 4052 | ✓ | ✓ |
-| ɛ́ | 3866 | ✓ | ✓ |
+| d | 4079 | ✓ | ✓ |
+| ɛ́ | 3893 | ✓ | ✓ |
 | ú | 3591 | ✓ | ✓ |
 | í | 3552 | ✓ | ✓ |
-| ù | 3299 | ✓ | ✓ |
-| m | 3228 | ✓ | ✓ |
+| ù | 3300 | ✓ | ✓ |
+| m | 3229 | ✓ | ✓ |
 | l | 3186 | ✓ | ✓ |
 | k | 3179 | ✓ | ✓ |
-| ì | 3041 | ✓ | ✓ |
-| ɛ̀ | 2771 | ✓ | ✓ |
-| ɔ́ | 2764 | ✓ | ✓ |
+| ì | 3042 | ✓ | ✓ |
+| ɛ̀ | 2804 | ✓ | ✓ |
+| ɔ́ | 2766 | ✓ | ✓ |
 | ó | 2668 | ✓ | ✓ |
 | j | 2642 | ✓ | ✓ |
 | t | 2491 | ✓ | ✓ |
 | s | 2467 | ✓ | ✓ |
-| ɔ̀ | 2300 | ✓ | ✓ |
+| ɔ̀ | 2329 | ✓ | ✓ |
 | é | 2278 | ✓ | ✓ |
-| b | 2229 | ✓ | ✓ |
+| b | 2230 | ✓ | ✓ |
 | è | 2196 | ✓ | ✓ |
 | ò | 1781 | ✓ | ✓ |
 | w | 1741 | ✓ | ✓ |
 | ŋ | 1583 | ✓ | ✓ |
 | ʒ | 1441 | ✓ | ✓ |
 | p | 1399 | ✓ | ✓ |
-| nd | 961 | ✓ | ✓ |
-| mb | 679 | ✓ | ✓ |
-| dʒ | 547 | ✓ | ✓ |
+| nd | 934 | ✓ | ✓ |
+| mb | 678 | ✓ | ✓ |
+| dʒ | 542 | ✓ | ✓ |
 | ɲ | 509 | ✓ | ✓ |
 | z | 350 | ✓ | ✓ |
-| ∼ | 349 | ✓ | ✓ |
+| ∼ | 350 | ✓ | ✓ |
 | ǎ | 297 | ✓ | ✓ |
 | ʃ | 289 | ✓ | ✓ |
 | ʔ | 182 | ✓ | ✓ |
-| ɛ̌ | 173 | ✓ | ✓ |
-| ndʒ | 172 | ✓ | ✓ |
+| ndʒ | 177 | ✓ | ✓ |
+| ɛ̌ | 172 | ✓ | ✓ |
 | â | 169 | ✓ | ✓ |
 | ɔ̌ | 123 | ✓ | ✓ |
 | h | 118 | ✓ | ✓ |
 | î | 118 | ✓ | ✓ |
 | ǒ | 108 | ✓ | ✓ |
-| ɛ | 95 | ✓ | ✓ |
 | ě | 86 | ✓ | ✓ |
 | ɣ | 84 | ✓ | ✓ |
 | ǔ | 83 | ✓ | ✓ |
@@ -61,14 +60,15 @@
 | ǐ | 50 | ✓ | ✓ |
 | ô | 49 | ✓ | ✓ |
 | q | 42 | ✓ | ✓ |
-| ɔ | 42 | ✓ | ✓ |
-| <<́>> | 41 | ? | ? |
 | f | 41 | ✓ | ✓ |
+| ɛ | 36 | ✓ | ✓ |
 | ê | 27 | ✓ | ✓ |
-| i | 20 | ✓ | ✓ |
+| i | 19 | ✓ | ✓ |
 | ə̀ | 19 | ✓ | ✓ |
-| a | 17 | ✓ | ✓ |
+| a | 13 | ✓ | ✓ |
+| ɔ | 11 | ✓ | ✓ |
 | ə́ | 10 | ✓ | ✓ |
+| <<́>> | 8 | ? | ? |
 | ḿ | 8 | ? | ? |
 | e | 6 | ✓ | ✓ |
 | x | 6 | ✓ | ✓ |
@@ -76,9 +76,9 @@
 | ɓ | 5 | ✓ | ✓ |
 | <<̌>> | 4 | ? | ? |
 | o | 4 | ✓ | ✓ |
-| u | 4 | ✓ | ✓ |
 | v | 4 | ✓ | ✓ |
 | ǽ | 4 | ✓ | ✓ |
+| u | 3 | ✓ | ✓ |
 | ɗ | 3 | ✓ | ✓ |
 | j̀ | 2 | ? | ? |
 | tʃ | 2 | ✓ | ✓ |
@@ -105,7 +105,7 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|:------------------------------------------------------------------------------------------------|:--------------------|:---------------------------------------------------------------------------------|:-----------------------|:-----------------------------------------|
+|:---------------------------------------------------------------------|:--------------------|:-----------------------------------------------------------|:-----------------------|:-----------------------------------------|
 | Ampari-5656_longegrope-1 | Ampari | 5656_longegrope | mwɛ̀-ɛ̀-∼ | m w ɛ̀ + ɛ̀ + |
 | Ampari-7713_short-1 | Ampari | 7713_short | dèj-.∼ | d è dʒ + |
 | BankanTey-2421_biglarge-1 | BankanTey | 2421_biglarge | díj.∼àw-.∼ | d í dʒ à w + |
@@ -117,7 +117,6 @@
 | BankanTey-7284_righthandetc-1 | BankanTey | 7284_righthandetc | ɲɛ̌j-.∼ | ɲ ɛ̌ dʒ + |
 | BankanTey-8260_spreadoutseparatelegsarms-3 | BankanTey | 8260_spreadoutseparatelegsarms | táw-.∼ | t á w + |
 | BankanTey-8886_tomorrow-1 | BankanTey | 8886_tomorrow | ɛ́j-∼ | ɛ́ dʒ + |
-| BenTey-2678_buildhouse-1 | BenTey | 2678_buildhouse | tʃɛ-́w.∼ɛ́ | t ʃ ɛ + <s> <<́>> </s> w ɛ́ |
 | BenTey-3426_deepholewell-1 | BenTey | 3426_deepholewell | wór.∼òw-.∼ | w ó r ò w + |
 | BenTey-3709_early-1 | BenTey | 3709_early | dʒìrèsíj.∼àw-.∼ | d ʒ ì r è s í dʒ à w + |
 | BenTey-5525_lefthandetc-1 | BenTey | 5525_lefthandetc | bànǎj-.∼ | b à n ǎ dʒ + |
@@ -130,34 +129,41 @@
 | DogulDomBendiely-4999_house-1 | DogulDomBendiely | 4999_house | ḿbùŋ | <s> ḿ </s> b ù ŋ |
 | DogulDomKundialang-2298_beard-1 | DogulDomKundialang | 2298_beard | bɛ́-ɛ̀-∼ | b ɛ́ + ɛ̀ + |
 | DogulDomKundialang-5011_householdfamilysetofpeoplewhoeattogether-1 | DogulDomKundialang | 5011_householdfamilysetofpeoplewhoeattogether | ḿbùŋ | <s> ḿ </s> b ù ŋ |
+| DonnoSo-1363_watersplashsprayegatawaterfall-1 | DonnoSo | 1363_watersplashsprayegatawaterfall | pín--jè.è | p í n + + dʒ è è |
+| DonnoSo-1363_watersplashsprayegatawaterfall-2 | DonnoSo | 1363_watersplashsprayegatawaterfall | pín--jè.è | p í n + + dʒ è è |
+| DonnoSo-3933_extinguishputoutfire-1 | DonnoSo | 3933_extinguishputoutfire | ɲǎŋ--dà.á | ɲ ǎ ŋ + + d à á |
+| DonnoSo-3933_extinguishputoutfire-2 | DonnoSo | 3933_extinguishputoutfire | ɲǎŋ--dà.á | ɲ ǎ ŋ + + d à á |
 | DonnoSo-712_manmarrywoman-1 | DonnoSo | 712_manmarrywoman | dʒɛ-́ɛ̀ | d ʒ ɛ + <s> <<́>> </s> ɛ̀ |
 | DonnoSo-712_manmarrywoman-2 | DonnoSo | 712_manmarrywoman | dʒɛ-́ɛ̀ | d ʒ ɛ + <s> <<́>> </s> ɛ̀ |
-| Gourou-2281_betiredwearysufferingphysically-1 | Gourou | 2281_betiredwearysufferingphysically | dɛ́-ɛ́-∼ | d ɛ́ + ɛ́ + |
+| DonnoSo-919_riflefiredischargegooff-1 | DonnoSo | 919_riflefiredischargegooff | táy--yɛ̀.ɛ̀ | t á j + + j ɛ̀ ɛ̀ |
+| DonnoSo-919_riflefiredischargegooff-2 | DonnoSo | 919_riflefiredischargegooff | táy--yɛ̀.ɛ̀ | t á j + + j ɛ̀ ɛ̀ |
 | Gourou-6430_oldthinganimal-1 | Gourou | 6430_oldthinganimal | pɛ́j-.∼ | p ɛ́ dʒ + |
 | Gourou-7713_short-1 | Gourou | 7713_short | ɡɔ̌j-.∼ | ɡ ɔ̌ dʒ + |
-| JamsayDouentza-2281_betiredwearysufferingphysically-1 | JamsayDouentza | 2281_betiredwearysufferingphysically | dɛ̀-ɛ́-∼ | d ɛ̀ + ɛ́ + |
-| JamsayDouentza-3434_defeatoverpowervanquish-1 | JamsayDouentza | 3434_defeatoverpowervanquish | dʒa-́.álɛ́ | d ʒ a + <s> <<́>> </s> á l ɛ́ |
+| Gourou-9296_vomiremitvomit-1 | Gourou | 9296_vomiremitvomit | tɔ̌y--tɔ́.ɔ́ | t ɔ̌ j + + t ɔ́ ɔ́ |
 | JamsayDouentza-6430_oldthinganimal-1 | JamsayDouentza | 6430_oldthinganimal | pɛ̌j-.∼ | p ɛ̌ dʒ + |
-| JamsayDouentza-7113_reapcutoffmilletgrainspikes-1 | JamsayDouentza | 7113_reapcutoffmilletgrainspikes | tʃɛ-́dʒɛ́ | t ʃ ɛ + <s> <<́>> </s> d ʒ ɛ́ |
 | JamsayDouentza-7713_short-1 | JamsayDouentza | 7713_short | ɡɔ̌j-.∼ | ɡ ɔ̌ dʒ + |
+| JamsayDouentza-9296_vomiremitvomit-1 | JamsayDouentza | 9296_vomiremitvomit | tɔ̌y--tɔ́.ɔ́ | t ɔ̌ j + + t ɔ́ ɔ́ |
 | JamsayDouentza-9385_weavefabricfromcottonthread-1 | JamsayDouentza | 9385_weavefabricfromcottonthread | tɛ́-ɛ́-∼ | t ɛ́ + ɛ́ + |
 | JamsayDouentza-9645_wornoutoldnolongerusefulobject-1 | JamsayDouentza | 9645_wornoutoldnolongerusefulobject | pɛ̌j-.∼ | p ɛ̌ dʒ + |
-| JamsayMondoro-2281_betiredwearysufferingphysically-1 | JamsayMondoro | 2281_betiredwearysufferingphysically | dɛ̀-ɛ́-∼ | d ɛ̀ + ɛ́ + |
 | JamsayMondoro-4277_friendcasual-1 | JamsayMondoro | 4277_friendcasual | tɛ̀-ɛ́-∼ | t ɛ̀ + ɛ́ + |
 | JamsayMondoro-6430_oldthinganimal-1 | JamsayMondoro | 6430_oldthinganimal | pɛ̌j-.∼ | p ɛ̌ dʒ + |
 | JamsayMondoro-7713_short-1 | JamsayMondoro | 7713_short | ɡɔ̌j-.∼ | ɡ ɔ̌ dʒ + |
+| JamsayMondoro-9296_vomiremitvomit-1 | JamsayMondoro | 9296_vomiremitvomit | tɔ̌y--tɔ́.ɔ́ | t ɔ̌ j + + t ɔ́ ɔ́ |
+| Mombo-1258_sthevolvechangefromwhatitwasbefore-1 | Mombo | 1258_sthevolvechangefromwhatitwasbefore | nél--yé.è | n é l + + j é è |
+| Mombo-1363_watersplashsprayegatawaterfall-1 | Mombo | 1363_watersplashsprayegatawaterfall | píl--yé.è | p í l + + j é è |
+| Mombo-1969_approachcomeclose-1 | Mombo | 1969_approachcomeclose | dín--yɛ́.ɛ̀ | d í n + + j ɛ́ ɛ̀ |
 | Mombo-2421_biglarge-1 | Mombo | 2421_biglarge | bâj-.∼ | b â dʒ + |
 | Mombo-2918_chestbody-1 | Mombo | 2918_chestbody | ɡɔ́-ɔ̀-∼ | ɡ ɔ́ + ɔ̀ + |
-| Mombo-4348_gatherthings-1 | Mombo | 4348_gatherthings | kya-́.áɡè | k j a + <s> <<́>> </s> á ɡ è |
+| Mombo-3085_comenearapproachhere-1 | Mombo | 3085_comenearapproachhere | dín--yɛ́.ɛ̀ | d í n + + j ɛ́ ɛ̀ |
+| Nanga-1121_sbsweatperspire-1 | Nanga | 1121_sbsweatperspire | sǒy--ɡò.ó | s ǒ j + + ɡ ò ó |
 | Nanga-2353_beeswax-1 | Nanga | 2353_beeswax | tɛ̀-ɛ̀-∼ | t ɛ̀ + ɛ̀ + |
 | Nanga-2552_boy-1 | Nanga | 2552_boy | ár-∼âj-∼ | á r + â dʒ + |
 | Nanga-8128_son-1 | Nanga | 8128_son | ár-∼âj-∼ | á r + â dʒ + |
-| Nanga-8801_threatenscare-1 | Nanga | 8801_threatenscare | úrɔ-́mí | ú r ɔ + <s> <<́>> </s> m í |
 | Nanga-8935_trap-1 | Nanga | 8935_trap | děẁ | d ě <s> ẁ </s> |
 | Penange-2421_biglarge-1 | Penange | 2421_biglarge | bàj-.∼ | b à dʒ + |
 | Penange-2918_chestbody-1 | Penange | 2918_chestbody | ɡɔ̀-ɔ̀-∼ | ɡ ɔ̀ + ɔ̀ + |
+| Penange-4082_fightverbonly-1 | Penange | 4082_fightverbonly | dʒáj-.∼ | d ʒ á dʒ + |
 | Penange-8529_sun-1 | Penange | 8529_sun | ɡɛ̀-ɛ̀-∼ | ɡ ɛ̀ + ɛ̀ + |
-| PergeTegu-2281_betiredwearysufferingphysically-1 | PergeTegu | 2281_betiredwearysufferingphysically | dɛ́-ɛ́-∼ | d ɛ́ + ɛ́ + |
 | PergeTegu-2999_clawtalon-1 | PergeTegu | 2999_clawtalon | kùwɔ̀ší-ⁿ | k ù w ɔ̀ <s> š </s> í |
 | PergeTegu-3595_dog-1 | PergeTegu | 3595_dog | ìšú | ì <s> š </s> ú |
 | PergeTegu-4115_finger-1 | PergeTegu | 4115_finger | nùw.∼òší.ì-ⁿ | n ù w ò <s> š </s> í ì |
@@ -171,7 +177,6 @@
 | PergeTegu-8959_treebark-1 | PergeTegu | 8959_treebark | ɡɛ́-ɛ̀-∼ | ɡ ɛ́ + ɛ̀ + |
 | PergeTegu-9578_womb-1 | PergeTegu | 9578_womb | ì-ìⁿdɛ̀-ɛ́-∼ | ì + ì ∼ d ɛ̀ + ɛ́ + |
 | TebulUre-8886_tomorrow-1 | TebulUre | 8886_tomorrow | ɛ́j-∼ | ɛ́ dʒ + |
-| Tiranige-5291_kill-1 | Tiranige | 5291_kill | dʒɛ-́yɔ́ | d ʒ ɛ + <s> <<́>> </s> j ɔ́ |
 | TogoKan-2552_boy-1 | TogoKan | 2552_boy | àr-∼áỳⁿ | à r + á <s> j̀ </s> ∼ |
 | TogoKan-3370_dabahoeliketoolforweedingusingapullingactionalltypes-1 | TogoKan | 3370_dabahoeliketoolforweedingusingapullingactionalltypes | kɔ̌-∼ | k ɔ̌ + |
 | TogoKan-3783_elderbrotherofmanorwoman-1 | TogoKan | 3783_elderbrotherofmanorwoman | dɛ̀-ɛ́-∼ | d ɛ̀ + ɛ́ + |
@@ -183,26 +188,21 @@
 | TommoSoTongoTongo-164_anyfishtrap-1 | TommoSoTongoTongo | 164_anyfishtrap | dʒɔ́-ɔ́-∼ | d ʒ ɔ́ + ɔ́ + |
 | TommoSoTongoTongo-3933_extinguishputoutfire-1 | TommoSoTongoTongo | 3933_extinguishputoutfire | sɔ́-ɔ́-∼ | s ɔ́ + ɔ́ + |
 | TommoSoTongoTongo-4277_friendcasual-1 | TommoSoTongoTongo | 4277_friendcasual | ḿbɔ́ | <s> ḿ </s> b ɔ́ |
+| TommoSoTongoTongo-7617_sewwithneedle-1 | TommoSoTongoTongo | 7617_sewwithneedle | nɔ̌y--nɔ́.ɔ́ | n ɔ̌ j + + n ɔ́ ɔ́ |
 | TomoKanDiangassagou-2965_chokeononesfood-1 | TomoKanDiangassagou | 2965_chokeononesfood | pyɛ-́ŋɡí | p j ɛ + <s> <<́>> </s> ŋ ɡ í |
 | TomoKanDiangassagou-6430_oldthinganimal-1 | TomoKanDiangassagou | 6430_oldthinganimal | pyɛ̀-∼ | p j ɛ̀ + |
 | TomoKanDiangassagou-8280_squat-1 | TomoKanDiangassagou | 8280_squat | twɛ-́lí | t w ɛ + <s> <<́>> </s> l í |
 | TomoKanSegue-2007_ashes-1 | TomoKanSegue | 2007_ashes | dwɛ́-∼ | d w ɛ́ + |
 | TomoKanSegue-4234_forehead-1 | TomoKanSegue | 4234_forehead | ɡwɛ̀-∼ | ɡ w ɛ̀ + |
-| TomoKanSegue-5566_liedowngotobed-1 | TomoKanSegue | 5566_liedowngotobed | myɛ́-∼ | m j ɛ́ + |
-| TomoKanSegue-5566_liedowngotobed-2 | TomoKanSegue | 5566_liedowngotobed | myɛ́-∼ | m j ɛ́ + |
 | TomoKanSegue-6088_misstargetegwithashot-1 | TomoKanSegue | 6088_misstargetegwithashot | byɛ-́làw.∼ | b j ɛ + <s> <<́>> </s> l à w |
 | TomoKanSegue-6430_oldthinganimal-1 | TomoKanSegue | 6430_oldthinganimal | pyɛ̀-∼ | p j ɛ̀ + |
-| TomoKanSegue-7711_shootsbsth-1 | TomoKanSegue | 7711_shootsbsth | tʃɛ-́bɛ́ | t ʃ ɛ + <s> <<́>> </s> b ɛ́ |
-| TomoKanSegue-8806_threshbypoundinghardriceoccasionallymilletwithlargeclubsonthegroundoronamat-1 | TomoKanSegue | 8806_threshbypoundinghardriceoccasionallymilletwithlargeclubsonthegroundoronamat | tʃɛ-́bɛ́ | t ʃ ɛ + <s> <<́>> </s> b ɛ́ |
-| ToroTegu-7112_reapcutstemsegharvestingriceorrosellebyslashingwithasickle-1 | ToroTegu | 7112_reapcutstemsegharvestingriceorrosellebyslashingwithasickle | tʃɛ-́sá | t ʃ ɛ + <s> <<́>> </s> s á |
-| ToroTegu-7112_reapcutstemsegharvestingriceorrosellebyslashingwithasickle-2 | ToroTegu | 7112_reapcutstemsegharvestingriceorrosellebyslashingwithasickle | tʃɛ-́sá | t ʃ ɛ + <s> <<́>> </s> s á |
 | ToroTegu-7284_righthandetc-1 | ToroTegu | 7284_righthandetc | nǒj-.∼ | n ǒ dʒ + |
 | ToroTegu-8800_threadanykind-1 | ToroTegu | 8800_threadanykind | ǒj-∼ | ǒ dʒ + |
 | YandaDom-3426_deepholewell-1 | YandaDom | 3426_deepholewell | tòj-.∼ | t ò dʒ + |
 | YandaDom-3610_doorwaypassage-1 | YandaDom | 3610_doorwaypassage | ḿbòl | <s> ḿ </s> b ò l |
-| YandaDom-5966_medicationremedy-1 | YandaDom | 5966_medicationremedy | ɔ́j-∼ | ɔ́ dʒ + |
 | YornoSo-2918_chestbody-1 | YornoSo | 2918_chestbody | ɡɔ̀-ɔ́-∼ | ɡ ɔ̀ + ɔ́ + |
 | YornoSo-5466_laterafterward-1 | YornoSo | 5466_laterafterward | dɔ̀-ɔ́-∼ | d ɔ̀ + ɔ́ + |
+| YornoSo-5474_laughgiveoutalaugh-1 | YornoSo | 5474_laughgiveoutalaugh | mɔ̂j-.∼-mɔ̀.ɔ́ | m ɔ̂ dʒ + + m ɔ̀ ɔ́ |
 | YornoSo-5955_measuresth-1 | YornoSo | 5955_measuresth | tɔ́-ɔ́-∼ | t ɔ́ + ɔ́ + |
 | YornoSo-7713_short-1 | YornoSo | 7713_short | dùmì-jⁿ | d ù m ì + dʒ <s> ~ </s> |
 | YornoSo-8326_stealsth-1 | YornoSo | 8326_stealsth | ɡǔj-.∼ | ɡ ǔ dʒ + |
