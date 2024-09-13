@@ -145,7 +145,7 @@ ID	LOCAL_ID	DOCULECT	VARIETY	CONCEPT	VALUE	FORM	TOKENS	PLURAL_TOKENS	NOTE	SWADES
 4305	DonnoSo-130_actoffasting-1	DonnoSo		(act of) fasting	kɔ́rgɔ̀	kɔ́-rɡɔ̀	k ɔ́ + r ɡ ɔ̀			0
 4306	JamsayDouentza-130_actoffasting-1	JamsayDouentza		(act of) fasting	kà:[pàgú]	kà.-à-pàɡú	k à + à + p à ɡ ú			0
 4307	Mombo-130_actoffasting-1	Mombo		(act of) fasting	kɔ́rkà	kɔ́-rkà	k ɔ́ + r k à			0
-4308	Najamba-130_actoffasting-1	Najamba		(act of) fasting	ìbì[págílé]	ìbì-páɡílé	ì b ì + p á ɡ í l é			0
+4308	Najamba-130_actoffasting-1	Najamba		(act of) fasting	ìbì[págílé]	ìbì-páɡ-í-lé	ì b ì + p á ɡ + í + l é			0
 4309	Nanga-130_actoffasting-1	Nanga		(act of) fasting	nɔ̀:pàgí	nɔ̀-.ɔ̀pàɡí	n ɔ̀ + ɔ̀ p à ɡ í			0
 4310	Penange-130_actoffasting-1	Penange		(act of) fasting	sú:ⁿ túlé, [sú:ⁿ nì] bò	sú.úⁿ-túlé	s ú ú ∼ + t ú l é			0
 4311	Penange-130_actoffasting-2	Penange		(act of) fasting	sú:ⁿ túlé, [sú:ⁿ nì] bò	sú.úⁿ-nì-bò	s ú ú ∼ + n ì + b ò			0
@@ -931,7 +931,7 @@ ID	LOCAL_ID	DOCULECT	VARIETY	CONCEPT	VALUE	FORM	TOKENS	PLURAL_TOKENS	NOTE	SWADES
 3705	JamsayDouentza-1404_womanputonshawl-1	JamsayDouentza		(woman) put on (shawl)	dòmó	dòm-ó	d ò m + ó			0
 3706	Najamba-1404_womanputonshawl-1	Najamba		(woman) put on (shawl)	dòmbíy	dòmb-íy	d ò mb + í j			0
 3707	Nanga-1404_womanputonshawl-1	Nanga		(woman) put on (shawl)	dòmbíyé	dòmb-íy-é	d ò mb + í j + é			0
-3708	PergeTegu-1404_womanputonshawl-1	PergeTegu		(woman) put on (shawl)	dòmbó	dòmbó	d ò mb ó			0
+3708	PergeTegu-1404_womanputonshawl-1	PergeTegu		(woman) put on (shawl)	dòmbó	dòmb-ó	d ò mb + ó			0
 3709	TebulUre-1404_womanputonshawl-1	TebulUre		(woman) put on (shawl)	tɔ́bí: (tɔ́bí:tì)	tɔ́b-í.í	t ɔ́ b + í í			0
 3710	Tiranige-1404_womanputonshawl-1	Tiranige		(woman) put on (shawl)	dómíyó	dóm-í-yó	d ó m + í + j ó			0
 3711	TogoKan-1404_womanputonshawl-1	TogoKan		(woman) put on (shawl)	págá	páɡ-á	p á ɡ + á			0
@@ -2851,7 +2851,7 @@ ID	LOCAL_ID	DOCULECT	VARIETY	CONCEPT	VALUE	FORM	TOKENS	PLURAL_TOKENS	NOTE	SWADES
 17090	YornoSo-2709_burnegpapergrassfabric-1	YornoSo		burn (e.g. paper, grass, fabric)	dɛ̌:\\dɛ̌:	dɛ̀-ɛ́	d ɛ̀ + ɛ́			0
 967	BankanTey-2714_burysb-1	BankanTey		bury (sb)	bèsí	bès-í	b è s + í			0
 968	BenTey-2714_burysb-1	BenTey		bury (sb)	bɛ̀sí	bɛ̀s-í	b ɛ̀ s + í			0
-969	Bunoge-2714_burysb-1	Bunoge		bury (sb)	díŋgè	díŋɡè	d í ŋ ɡ è			0
+969	Bunoge-2714_burysb-1	Bunoge		bury (sb)	díŋgè	díŋɡ-è	d í ŋ ɡ + è			0
 970	DogulDomKundialang-2714_burysb-1	DogulDomKundialang		bury (sb)	bìsé, bìgɛ́	bìs-é	b ì s + é			0
 971	DogulDomKundialang-2714_burysb-2	DogulDomKundialang		bury (sb)	bìsé, bìgɛ́	bìɡ-ɛ́	b ì ɡ + ɛ́			0
 972	DonnoSo-2714_burysb-1	DonnoSo		bury (sb)	bìgé\\bígè	bìɡ-é	b ì ɡ + é			0
@@ -2867,7 +2867,7 @@ ID	LOCAL_ID	DOCULECT	VARIETY	CONCEPT	VALUE	FORM	TOKENS	PLURAL_TOKENS	NOTE	SWADES
 982	PergeTegu-2714_burysb-1	PergeTegu		bury (sb)	bìyⁿɛ́	bìj-.∼ɛ́	b ì dʒ + ɛ́			0
 983	TebulUre-2714_burysb-1	TebulUre		bury (sb)	cɛ́ndí (cɛ́ndítì), bèdé (bèdétì)	bèd-é	b è d + é			0
 984	Tiranige-2714_burysb-1	Tiranige		bury (sb)	béjó, dúŋgó	béd-ʒó	b é d + ʒ ó			0
-985	Tiranige-2714_burysb-2	Tiranige		bury (sb)	béjó, dúŋgó	dúŋɡó	d ú ŋ ɡ ó			0
+985	Tiranige-2714_burysb-2	Tiranige		bury (sb)	béjó, dúŋgó	dúŋɡ-ó	d ú ŋ ɡ + ó			0
 986	TogoKan-2714_burysb-1	TogoKan		bury (sb)	bìyɛ́	bìy-ɛ́	b ì j + ɛ́			0
 987	TommoSoTongoTongo-2714_burysb-1	TommoSoTongoTongo		bury (sb)	bòdó, ǹjíró, ádárá	bòd-ó	b ò d + ó			0
 988	TommoSoTongoTongo-2714_burysb-2	TommoSoTongoTongo		bury (sb)	bòdó, ǹjíró, ádárá	ǹdʒír-ó	n d ʒ í r + ó			0
@@ -3565,11 +3565,11 @@ ID	LOCAL_ID	DOCULECT	VARIETY	CONCEPT	VALUE	FORM	TOKENS	PLURAL_TOKENS	NOTE	SWADES
 2691	Penange-2965_chokeononesfood-1	Penange		choke (on one's food)	mɛ́gɛ́	mɛ́ɡ-ɛ́	m ɛ́ ɡ + ɛ́			0
 2692	PergeTegu-2965_chokeononesfood-1	PergeTegu		choke (on one's food)	píŋgíyé	píŋɡ-íy-é	p í ŋ ɡ + í j + é			0
 2693	TebulUre-2965_chokeononesfood-1	TebulUre		choke (on one's food)	cìnǎ: tíndí: (tíndì:yà), pénjí: (pénjì:yà)	pénjì.ìy-à	p é ndʒ ì ì j + à			0
-2694	Tiranige-2965_chokeononesfood-1	Tiranige		choke (on one's food)	tíŋgó	tíŋɡó	t í ŋ ɡ ó			0
+2694	Tiranige-2965_chokeononesfood-1	Tiranige		choke (on one's food)	tíŋgó	tíŋɡ-ó	t í ŋ ɡ + ó			0
 2695	TogoKan-2965_chokeononesfood-1	TogoKan		choke (on one's food)	pàŋú páŋì	pàŋú-páŋì	p à ŋ ú + p á ŋ ì			0
 2696	TommoSoTongoTongo-2965_chokeononesfood-1	TommoSoTongoTongo		choke (on one's food)	pááŋíyɛ́	páá-ŋíyɛ́	p á á ∼ + ŋ í j ɛ́			0
 2697	TomoKanDiangassagou-2965_chokeononesfood-1	TomoKanDiangassagou		choke (on one's food)	pyɛ́ŋgí	pyɛ-́ŋɡí	p j ɛ + <<́>> ŋ ɡ í			0
-2698	TomoKanSegue-2965_chokeononesfood-1	TomoKanSegue		choke (on one's food)	pɛ̀ŋgí	pɛ̀ŋɡí	p ɛ̀ ŋ ɡ í			0
+2698	TomoKanSegue-2965_chokeononesfood-1	TomoKanSegue		choke (on one's food)	pɛ̀ŋgí	pɛ̀ŋɡ-í	p ɛ̀ ŋ ɡ + í			0
 2699	ToroTegu-2965_chokeononesfood-1	ToroTegu		choke (on one's food)	péŋú\\péŋó	péŋ-ó	p é ŋ + ó			0
 2700	ToroTegu-2965_chokeononesfood-2	ToroTegu		choke (on one's food)	péŋú\\péŋó	péŋ-ó	p é ŋ + ó			0
 2701	YandaDom-2965_chokeononesfood-1	YandaDom		choke (on one's food)	pánjɛ́\\pánjálì	pándʒɛ́	p á nd ʒ ɛ́			0
@@ -7809,7 +7809,7 @@ ID	LOCAL_ID	DOCULECT	VARIETY	CONCEPT	VALUE	FORM	TOKENS	PLURAL_TOKENS	NOTE	SWADES
 2622	Gourou-4878_hiccupverbonly-1	Gourou		hiccup (verb only)	bègé	bèɡ-é	b è ɡ + é			0
 2623	JamsayDouentza-4878_hiccupverbonly-1	JamsayDouentza		hiccup (verb only)	bègé	bèɡ-é	b è ɡ + é			0
 2624	JamsayMondoro-4878_hiccupverbonly-1	JamsayMondoro		hiccup (verb only)	bègé	bèɡ-é	b è ɡ + é			0
-2625	Mombo-4878_hiccupverbonly-1	Mombo		hiccup (verb only)	bégú bégé	béɡú-béɡé	b é ɡ ú + b é ɡ é			0
+2625	Mombo-4878_hiccupverbonly-1	Mombo		hiccup (verb only)	bégú bégé	béɡ-ú-béɡ-é	b é ɡ + ú + b é ɡ + é			0
 2626	Najamba-4878_hiccupverbonly-1	Najamba		hiccup (verb only)	bègí	bèɡ-í	b è ɡ + í			0
 2627	Nanga-4878_hiccupverbonly-1	Nanga		hiccup (verb only)	bègé, bègíré	bèɡ-é	b è ɡ + é			0
 2628	Nanga-4878_hiccupverbonly-2	Nanga		hiccup (verb only)	bègé, bègíré	bèɡ-í-ré	b è ɡ + í + r é			0
@@ -9227,7 +9227,7 @@ ID	LOCAL_ID	DOCULECT	VARIETY	CONCEPT	VALUE	FORM	TOKENS	PLURAL_TOKENS	NOTE	SWADES
 15332	Penange-5607_limpwalkwithalimp-1	Penange		limp, walk with a limp	téŋgéŋ kání	téŋɡéŋk-án-í	t é ŋ ɡ é ŋ k + á n + í			0
 15333	PergeTegu-5607_limpwalkwithalimp-1	PergeTegu		limp, walk with a limp	kúwɔ́ tégé	kúwɔ́-téɡé	k ú w ɔ́ + t é ɡ é			0
 15334	TebulUre-5607_limpwalkwithalimp-1	TebulUre		limp, walk with a limp	tégé	téɡ-é	t é ɡ + é			0
-15335	Tiranige-5607_limpwalkwithalimp-1	Tiranige		limp, walk with a limp	tíŋgó	tíŋɡó	t í ŋ ɡ ó			0
+15335	Tiranige-5607_limpwalkwithalimp-1	Tiranige		limp, walk with a limp	tíŋgó	tíŋɡ-ó	t í ŋ ɡ + ó			0
 15336	TogoKan-5607_limpwalkwithalimp-1	TogoKan		limp, walk with a limp	kúwɔ́ tégé	kúwɔ́-téɡé	k ú w ɔ́ + t é ɡ é			0
 15337	TommoSoTongoTongo-5607_limpwalkwithalimp-1	TommoSoTongoTongo		limp, walk with a limp	ánú tégé	ánú-téɡé	á n ú + t é ɡ é			0
 15338	ToroTegu-5607_limpwalkwithalimp-1	ToroTegu		limp, walk with a limp	tíŋúnò tíŋúnú\\tíŋúnó	tíŋ-ú-nó	t í ŋ + ú + n ó			0
@@ -13465,7 +13465,7 @@ ID	LOCAL_ID	DOCULECT	VARIETY	CONCEPT	VALUE	FORM	TOKENS	PLURAL_TOKENS	NOTE	SWADES
 1144	ToroTegu-7840_skin-1	ToroTegu		skin	gùsú	ɡùsú	ɡ ù s ú			1
 1145	YandaDom-7840_skin-1	YandaDom		skin	gùzù	ɡùzù	ɡ ù z ù			1
 1146	YornoSo-7840_skin-1	YornoSo		skin	gùjú	ɡùdʒú	ɡ ù d ʒ ú			1
-424	BankanTey-7841_skinandbutchercarcassofslaughteredanimal-1	BankanTey		skin and butcher (carcass of slaughtered animal)	pándí	pándí	p á nd í			0
+424	BankanTey-7841_skinandbutchercarcassofslaughteredanimal-1	BankanTey		skin and butcher (carcass of slaughtered animal)	pándí	pánd-í	p á nd + í			0
 425	BenTey-7841_skinandbutchercarcassofslaughteredanimal-1	BenTey		skin and butcher (carcass of slaughtered animal)	pó, pálí, úrɔ́	pó	p ó			0
 426	BenTey-7841_skinandbutchercarcassofslaughteredanimal-2	BenTey		skin and butcher (carcass of slaughtered animal)	pó, pálí, úrɔ́	pál-í	p á l + í			0
 427	BenTey-7841_skinandbutchercarcassofslaughteredanimal-3	BenTey		skin and butcher (carcass of slaughtered animal)	pó, pálí, úrɔ́	úr-ɔ́	ú r + ɔ́			0
@@ -13480,7 +13480,7 @@ ID	LOCAL_ID	DOCULECT	VARIETY	CONCEPT	VALUE	FORM	TOKENS	PLURAL_TOKENS	NOTE	SWADES
 436	Mombo-7841_skinandbutchercarcassofslaughteredanimal-1	Mombo		skin and butcher (carcass of slaughtered animal)	tɔ́lɛ́	tɔ́l-ɛ́	t ɔ́ l + ɛ́			0
 437	Najamba-7841_skinandbutchercarcassofslaughteredanimal-1	Najamba		skin and butcher (carcass of slaughtered animal)	tɔ́nɛ́	tɔ́n-ɛ́	t ɔ́ n + ɛ́			0
 438	Nanga-7841_skinandbutchercarcassofslaughteredanimal-1	Nanga		skin and butcher (carcass of slaughtered animal)	úrɔ́, pándí	úr-ɔ́	ú r + ɔ́			0
-439	Nanga-7841_skinandbutchercarcassofslaughteredanimal-2	Nanga		skin and butcher (carcass of slaughtered animal)	úrɔ́, pándí	pándí	p á nd í			0
+439	Nanga-7841_skinandbutchercarcassofslaughteredanimal-2	Nanga		skin and butcher (carcass of slaughtered animal)	úrɔ́, pándí	pánd-í	p á nd + í			0
 440	Penange-7841_skinandbutchercarcassofslaughteredanimal-1	Penange		skin and butcher (carcass of slaughtered animal)	tɔ́lɛ́	tɔ́l-ɛ́	t ɔ́ l + ɛ́			0
 441	PergeTegu-7841_skinandbutchercarcassofslaughteredanimal-1	PergeTegu		skin and butcher (carcass of slaughtered animal)	pálá	pál-á	p á l + á			0
 442	TebulUre-7841_skinandbutchercarcassofslaughteredanimal-1	TebulUre		skin and butcher (carcass of slaughtered animal)	ùrɔ́ (ùrɔ́tì)	ùr-ɔ́	ù r + ɔ́			0

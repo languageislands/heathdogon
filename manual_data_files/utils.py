@@ -262,8 +262,27 @@ class VerbParser(NounParser):
             new_word=word.replace("-nɛ̀", "n-ɛ̀")
         else:
             new_word = word  
+
+        
+        except_list = {"pándí": lambda x: x.replace("ndí", "nd-í"),
+                       "díŋɡè": lambda x: x.replace("ɡè", "ɡ-è"),
+                       "díŋɡé":lambda x: x.replace("ɡè", "ɡ-é"),
+                       "tʃɛ́ndí": lambda x: x.replace("dí", "d-í"),
+                       "dúŋɡó": lambda x: x.replace("ɡó", "ɡ-ó"),
+                       "tíŋɡó":lambda x: x.replace("ɡó", "ɡ-ó"),
+                       "pɛ̀ŋɡí":lambda x: x.replace("ɡí", "ɡ-í"),
+                       "kój-ùɡù": lambda x: x.replace("ɡù", "-ɡù"),
+                       "kóɡ-ùjù":lambda x: x.replace("jù", "-jù"),
+                       "béɡú-béɡé": (lambda x: x.replace("ɡú", "ɡ-ú").replace("ɡé", "ɡ-é")),
+                       "kɛ́-mjí": lambda x: x.replace("mjí", "m-jí"),
+                       "dòmbó": lambda x: x.replace("bó", "b-ó"),
+                       "ìbì-páɡílé":lambda x: x.replace("páɡílé", "páɡ-í-lé"),
+                       "ìbì-páɡílé":lambda x: x.replace("páɡílé", "páɡ-í-lé")}
     
-        return new_word.replace("--", "-")
+        if new_word in except_list:
+            return except_list[new_word](new_word)
+        else:
+            return new_word.replace("--", "-")
 
 
     def consonant_count(self, item):
