@@ -6,12 +6,56 @@ import numpy as np
 class NounParser:
     def __init__(self):
         self.consonants = {"b", "c", "d", "f", "g", "ɡ", "h", "j", "k", "l", "m", "n", "p", "r", "s", "t", "v", "w", "y", "z", "ʔ", "ɲ", "ŋ", "ɣ"}
-        self.exceptions = ["nd", "nt", "ŋg", "ŋɡ", "ŋk", "ɲj", "mb","mp" ]
+        self.exceptions = ["nd", "n.d", "nt", "n.t", "ŋg","ŋ.g", "ŋɡ","ŋ.ɡ", "ŋk","ŋ.k", "ɲj","ɲ.j","mb","m.b", "mp","m.p", "dʒ", "d.ʒ"]
         self.vowels=      {"ɛ̌", "ɔ̌", "ɛ̂", "ɔ̂", "ɛ́", "ɔ́", "ɛ̀", "ɔ̀", "ì", "í", "ǔ", "û",'ê', 'ě', 'è', 'é', 'ô', 'ò', 'ǒ', 'ó', 'ǎ', 
                         'â', 'à', 'á', 'ɛ̌', 'ɛ̂', 'ɛ́', 'ɛ̀', 'û', 'ǔ', 'ú', 'ù', 'ǐ', 'î', 'í', 'ì', ' ̀ɔ ', 'ɔ́', 'ɔ̌', 'ɔ̂',
                         "i", "e", "ɛ", "u", "o", "ɔ", "a", "ú"}
         self.extra_material={ 'ǎ': 'á', 'ê': 'è', 'ô': 'ò', 'ě': 'é','ǐ': 'í', 'î': 'ì', 'ǒ': 'ó', 'â': 'à', 'ɛ́': 'ɛ́', 'ɛ̀': 'ɛ̀', 
                              'ǔ': 'ú', 'í': 'í','ì': 'ì'} 
+
+    def counts(self, word):
+        "returns the number of vowels and consonants, and the list of vowels and consonants in a word"
+        vowel_list = [letter for letter in word if letter in self.vowels]
+        vowel_count = len(vowel_list)
+        
+        consonant_list = []
+        consonant_count = 0
+        i = 0
+        while i < len(word):
+            # Check if any exception matches starting from the current position
+            matched_exception = False
+            for exception in self.exceptions:
+                if word[i:i+len(exception)] == exception:
+                    matched_exception = True
+                    i += len(exception)  
+                    consonant_list.append(exception)  
+                    consonant_count += 1
+                    break
+            
+            if not matched_exception and word[i] in self.consonants:
+                consonant_count += 1
+                consonant_list.append(word[i])  
+                i += 1 
+            elif not matched_exception:
+                i += 1  
+        return vowel_count, consonant_count, vowel_list, consonant_list
+
+        
+    def exception_in_penultimate_position(self, word):
+        "inserts a space between exceptions in penultimate position and following vowels"
+        vowel_count, conso_count, vowel_list, conso_list = self.counts(word)
+        for item in self.exceptions:
+            if item in word:
+                last_conso_index = word.rfind(conso_list[-1])
+                vowel_indices = [word.rfind(vowel) for vowel in vowel_list if vowel in word]
+                
+                if vowel_indices:
+                    last_vowel_index = max(vowel_indices)
+                    if last_vowel_index > last_conso_index:
+                        word = word.replace(conso_list[-1], f"{conso_list[-1]}-").replace("--", "-")
+            else:
+                word = word
+        return word
 
     def parse_off_final_nasals(self, item):
         if item and item[-1] =="ⁿ":
@@ -188,33 +232,6 @@ class NounParser:
 class VerbParser(NounParser):
     def __init__(self):
        super().__init__()
-
-    def counts(self, word):
-        "returns the number of vowels and consonants, and the list of vowels and consonants in a word"
-        vowel_list = [letter for letter in word if letter in self.vowels]
-        vowel_count = len(vowel_list)
-        
-        consonant_list = []
-        consonant_count = 0
-        i = 0
-        while i < len(word):
-            # Check if any exception matches starting from the current position
-            matched_exception = False
-            for exception in self.exceptions:
-                if word[i:i+len(exception)] == exception:
-                    matched_exception = True
-                    i += len(exception)  
-                    consonant_list.append(exception)  
-                    consonant_count += 1
-                    break
-            
-            if not matched_exception and word[i] in self.consonants:
-                consonant_count += 1
-                consonant_list.append(word[i])  
-                i += 1 
-            elif not matched_exception:
-                i += 1  
-        return vowel_count, consonant_count, vowel_list, consonant_list
 
     def special_verbs(self, word):
         "performs parses on words that remain unparsed or overparsed"

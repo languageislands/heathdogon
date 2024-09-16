@@ -12,7 +12,7 @@
         {
             "rdf:about": "https://github.com/languageorphans/heathdogon",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.2.alpha-12-g41da1cf",
+            "dc:created": "v0.2.alpha-13-g6a57887",
             "dc:title": "Repository"
         },
         {
