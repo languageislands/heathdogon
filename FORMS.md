@@ -15,7 +15,7 @@ These methods use the attributes of a `FormSpec` instance to configure their beh
   Iterable of single character tokens that should be recognized as word separator
 - `missing_data`: `('∅', '?', '-', '{I', '-:_', 'xxx', '-ⁿ')`
   Iterable of strings that are used to mark missing data
-- `strip_inside_brackets`: `True`
+- `strip_inside_brackets`: `False`
   Flag signaling whether to strip content in brackets (**and** strip leading and trailing whitespace)
 - `replacements`: `[('⌫', ''), ('̀̌[X mà cɛ́nɛ̀] ', ''), ('… ', ''), ('ADJ ', ''), ('̌ ', ''), (' ̌', ''), ('[X cɛ́lɛ̀] ɲàwⁿá', 'ɲàwⁿá'), ('[X cɛ̀lɛ̀] ', ''), ('\x08', ''), ('̌t', 't'), ('#', ''), ('"', ''), (' → ', ' '), ('ⁿ ~ wⁿ (human)', ''), ('̌k', 'k'), ('̌d', 'd'), ('jògù dùyé ` dónì', 'jògù dùyé dónì'), (' PRON ', ''), (' ', '_')]`
   List of pairs (`source`, `target`) used to replace occurrences of `source` in formswith `target` (before stripping content in brackets)

@@ -12,7 +12,7 @@
         {
             "rdf:about": "https://github.com/languageorphans/heathdogon",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.2.alpha-13-g6a57887",
+            "dc:created": "v0.2.alpha-14-g2f708c8",
             "dc:title": "Repository"
         },
         {
@@ -53,7 +53,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 17423,
+            "dc:extent": 17420,
             "tableSchema": {
                 "columns": [
                     {
